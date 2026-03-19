@@ -1,0 +1,228 @@
+/* --- Base Styles --- */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif !important;
+    color: #000000 !important;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.4;
+}
+
+/* 全てのテキストを黒に統一 */
+h1, h2, h3, h4, p, th, td, label, div, span, input, select, button {
+    color: #000000 !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+header {
+    margin-bottom: 25px;
+    border-bottom: 3px solid #000000;
+    padding-bottom: 10px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 26px;
+    letter-spacing: 1px;
+}
+
+/* --- Toolbar --- */
+.toolbar {
+    margin-bottom: 20px;
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+#searchBox {
+    padding: 10px 15px;
+    border: 2px solid #000000;
+    width: 350px;
+    font-size: 15px;
+    outline: none;
+}
+
+.toolbar-btn {
+    padding: 10px 20px;
+    background-color: #ffffff;
+    border: 2px solid #000000;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.toolbar-btn:hover {
+    background-color: #000000;
+    color: #ffffff !important;
+}
+
+/* --- Table Styles --- */
+.table-container {
+    width: 100%;
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: auto; 
+    border: 2px solid #000000;
+}
+
+th, td {
+    border: 1px solid #000000;
+    padding: 10px;
+    text-align: left;
+    vertical-align: top;
+    font-size: 13px;
+    word-wrap: break-word;
+}
+
+th {
+    background-color: #f2f2f2;
+    text-transform: none; /* 大文字強制を解除 */
+    font-size: 13px;
+    white-space: nowrap;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+/* カラム幅の制御用クラス */
+.pdb-id, .links-cell, .method-cell, .res-cell, .assembly-cell, .purified-cell, .release-date-cell {
+    width: 1%; 
+    white-space: nowrap; 
+}
+
+.na-info-cell { min-width: 130px; }
+.seq-cell { min-width: 300px; }
+
+.sortable { cursor: pointer; }
+.sortable:hover { background-color: #e0e0e0; }
+
+/* --- Button-style Links --- */
+.btn-link-sm {
+    display: inline-block;
+    padding: 3px 8px;
+    margin: 1px;
+    background-color: #f2f2f2;
+    color: #000000 !important;
+    text-decoration: none;
+    border: 1px solid #000000;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.btn-link-sm:hover {
+    background-color: #000000;
+    color: #ffffff !important;
+}
+
+.btn-link {
+    display: inline-block;
+    padding: 6px 12px;
+    background-color: #000000;
+    color: #ffffff !important;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 12px;
+    border: 1px solid #000000;
+}
+
+/* --- Sequence Display (Full Height, No Scroll) --- */
+.chain-sequence-container {
+    width: 100%;
+}
+
+.chain-item {
+    margin-bottom: 15px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #eee;
+}
+
+.chain-item:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+
+.seq-text {
+    display: block;
+    background-color: #f9f9f9;
+    padding: 8px;
+    border: 1px solid #ddd;
+    font-family: "Courier New", Courier, monospace !important; 
+    font-size: 14px;
+    word-break: break-all;
+    margin-top: 5px;
+    color: #000 !important;
+    white-space: pre-wrap;
+}
+
+/* --- Modal & 5-Column Grid --- */
+.modal {
+    position: fixed;
+    top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.hidden { display: none !important; }
+
+.modal-content {
+    background: #ffffff;
+    padding: 30px;
+    width: 90%;
+    max-width: 1100px;
+    max-height: 85vh;
+    overflow-y: auto;
+    border: 4px solid #000000;
+    position: relative; /* ×ボタンの絶対配置の基準 */
+}
+
+.modal-header {
+    margin-bottom: 25px;
+    border-bottom: 2px solid #000000;
+    padding-bottom: 10px;
+}
+
+/* 右上角の×ボタン */
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    background: none;
+    border: none;
+    font-size: 32px;
+    font-weight: bold;
+    cursor: pointer;
+    line-height: 1;
+}
+
+.filter-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); 
+    gap: 10px;
+    margin: 15px 0 25px 0;
+}
+
+.filter-grid label {
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.modal-footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 15px;
+    border-top: 2px solid #000000;
+    padding-top: 20px;
+}
