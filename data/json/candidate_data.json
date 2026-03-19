@@ -46,5 +46,5957 @@
     "method": "X-ray",
     "resolution": 2.0,
     "release_date": "1995-05-08"
+  },
+  {
+    "pdb_id": "110D",
+    "method": "X-ray",
+    "resolution": 1.9,
+    "release_date": "1993-04-15"
+  },
+  {
+    "pdb_id": "111D",
+    "method": "X-ray",
+    "resolution": 2.25,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "112D",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "113D",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "114D",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "115D",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "116D",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1993-04-15"
+  },
+  {
+    "pdb_id": "117D",
+    "method": "X-ray",
+    "resolution": 2.55,
+    "release_date": "1993-04-15"
+  },
+  {
+    "pdb_id": "118D",
+    "method": "X-ray",
+    "resolution": 1.64,
+    "release_date": "1993-02-11"
+  },
+  {
+    "pdb_id": "119D",
+    "method": "X-ray",
+    "resolution": 2.25,
+    "release_date": "1993-10-15"
+  },
+  {
+    "pdb_id": "121D",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "1994-01-15"
+  },
+  {
+    "pdb_id": "122D",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "1993-10-15"
+  },
+  {
+    "pdb_id": "123D",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "1993-10-15"
+  },
+  {
+    "pdb_id": "124D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1993-10-31"
+  },
+  {
+    "pdb_id": "126D",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "1993-10-15"
+  },
+  {
+    "pdb_id": "127D",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "1994-01-15"
+  },
+  {
+    "pdb_id": "128D",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1994-01-15"
+  },
+  {
+    "pdb_id": "129D",
+    "method": "X-ray",
+    "resolution": 2.25,
+    "release_date": "1994-01-15"
+  },
+  {
+    "pdb_id": "130D",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1994-01-15"
+  },
+  {
+    "pdb_id": "131D",
+    "method": "X-ray",
+    "resolution": 1.0,
+    "release_date": "1993-10-15"
+  },
+  {
+    "pdb_id": "132D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-01-31"
+  },
+  {
+    "pdb_id": "133D",
+    "method": "X-ray",
+    "resolution": 1.8,
+    "release_date": "1994-01-15"
+  },
+  {
+    "pdb_id": "134D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-04-30"
+  },
+  {
+    "pdb_id": "135D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-04-30"
+  },
+  {
+    "pdb_id": "136D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-04-30"
+  },
+  {
+    "pdb_id": "137D",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "1994-01-15"
+  },
+  {
+    "pdb_id": "138D",
+    "method": "X-ray",
+    "resolution": 1.8,
+    "release_date": "1994-01-15"
+  },
+  {
+    "pdb_id": "139D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-01-31"
+  },
+  {
+    "pdb_id": "140D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-04-30"
+  },
+  {
+    "pdb_id": "141D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-04-30"
+  },
+  {
+    "pdb_id": "142D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-04-30"
+  },
+  {
+    "pdb_id": "143D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-04-30"
+  },
+  {
+    "pdb_id": "144D",
+    "method": "X-ray",
+    "resolution": 2.25,
+    "release_date": "1995-05-30"
+  },
+  {
+    "pdb_id": "145D",
+    "method": "X-ray",
+    "resolution": 1.25,
+    "release_date": "1994-01-15"
+  },
+  {
+    "pdb_id": "146D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1995-03-31"
+  },
+  {
+    "pdb_id": "148D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-04-30"
+  },
+  {
+    "pdb_id": "149D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-04-30"
+  },
+  {
+    "pdb_id": "150D",
+    "method": "X-ray",
+    "resolution": 2.25,
+    "release_date": "1994-05-31"
+  },
+  {
+    "pdb_id": "151D",
+    "method": "X-ray",
+    "resolution": 1.4,
+    "release_date": "1994-05-04"
+  },
+  {
+    "pdb_id": "152D",
+    "method": "X-ray",
+    "resolution": 1.4,
+    "release_date": "1994-05-04"
+  },
+  {
+    "pdb_id": "153D",
+    "method": "X-ray",
+    "resolution": 2.9,
+    "release_date": "1994-01-15"
+  },
+  {
+    "pdb_id": "154D",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1994-08-31"
+  },
+  {
+    "pdb_id": "156D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-04-30"
+  },
+  {
+    "pdb_id": "157D",
+    "method": "X-ray",
+    "resolution": 1.8,
+    "release_date": "1994-05-31"
+  },
+  {
+    "pdb_id": "158D",
+    "method": "X-ray",
+    "resolution": 1.9,
+    "release_date": "1994-05-31"
+  },
+  {
+    "pdb_id": "159D",
+    "method": "X-ray",
+    "resolution": 1.8,
+    "release_date": "1995-02-07"
+  },
+  {
+    "pdb_id": "160D",
+    "method": "X-ray",
+    "resolution": 1.65,
+    "release_date": "1994-05-18"
+  },
+  {
+    "pdb_id": "165D",
+    "method": "X-ray",
+    "resolution": 1.55,
+    "release_date": "1994-08-31"
+  },
+  {
+    "pdb_id": "166D",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "1994-10-15"
+  },
+  {
+    "pdb_id": "167D",
+    "method": "X-ray",
+    "resolution": 2.3,
+    "release_date": "1994-08-31"
+  },
+  {
+    "pdb_id": "169D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-07-31"
+  },
+  {
+    "pdb_id": "171D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-07-31"
+  },
+  {
+    "pdb_id": "172D",
+    "method": "X-ray",
+    "resolution": 3.0,
+    "release_date": "1994-10-15"
+  },
+  {
+    "pdb_id": "175D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-09-30"
+  },
+  {
+    "pdb_id": "176D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-11-01"
+  },
+  {
+    "pdb_id": "177D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-10-15"
+  },
+  {
+    "pdb_id": "178D",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1994-10-04"
+  },
+  {
+    "pdb_id": "179D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-07-31"
+  },
+  {
+    "pdb_id": "17RA",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-04-20"
+  },
+  {
+    "pdb_id": "180D",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1995-07-19"
+  },
+  {
+    "pdb_id": "181D",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "1995-07-19"
+  },
+  {
+    "pdb_id": "182D",
+    "method": "X-ray",
+    "resolution": 1.8,
+    "release_date": "1994-11-30"
+  },
+  {
+    "pdb_id": "183D",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "1995-02-27"
+  },
+  {
+    "pdb_id": "184D",
+    "method": "X-ray",
+    "resolution": 1.8,
+    "release_date": "1995-07-10"
+  },
+  {
+    "pdb_id": "186D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-11-01"
+  },
+  {
+    "pdb_id": "187D",
+    "method": "X-ray",
+    "resolution": 2.25,
+    "release_date": "1995-02-07"
+  },
+  {
+    "pdb_id": "188D",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "1995-02-07"
+  },
+  {
+    "pdb_id": "189D",
+    "method": "X-ray",
+    "resolution": 2.1,
+    "release_date": "1995-02-07"
+  },
+  {
+    "pdb_id": "190D",
+    "method": "X-ray",
+    "resolution": 1.8,
+    "release_date": "1995-02-07"
+  },
+  {
+    "pdb_id": "191D",
+    "method": "X-ray",
+    "resolution": 1.4,
+    "release_date": "1994-11-30"
+  },
+  {
+    "pdb_id": "192D",
+    "method": "X-ray",
+    "resolution": 1.92,
+    "release_date": "1995-02-07"
+  },
+  {
+    "pdb_id": "194D",
+    "method": "X-ray",
+    "resolution": 2.3,
+    "release_date": "1995-03-31"
+  },
+  {
+    "pdb_id": "195D",
+    "method": "X-ray",
+    "resolution": 2.3,
+    "release_date": "1995-02-07"
+  },
+  {
+    "pdb_id": "196D",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "1995-02-27"
+  },
+  {
+    "pdb_id": "197D",
+    "method": "X-ray",
+    "resolution": 2.19,
+    "release_date": "1995-02-07"
+  },
+  {
+    "pdb_id": "198D",
+    "method": "X-ray",
+    "resolution": 1.97,
+    "release_date": "1995-03-15"
+  },
+  {
+    "pdb_id": "199D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1995-02-07"
+  },
+  {
+    "pdb_id": "1A2E",
+    "method": "X-ray",
+    "resolution": 1.63,
+    "release_date": "1999-04-12"
+  },
+  {
+    "pdb_id": "1A3M",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-04-29"
+  },
+  {
+    "pdb_id": "1A4D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-04-29"
+  },
+  {
+    "pdb_id": "1A51",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-05-27"
+  },
+  {
+    "pdb_id": "1A60",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-05-27"
+  },
+  {
+    "pdb_id": "1A6H",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-06-17"
+  },
+  {
+    "pdb_id": "1A83",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-06-17"
+  },
+  {
+    "pdb_id": "1A84",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-11-25"
+  },
+  {
+    "pdb_id": "1A8N",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-10-14"
+  },
+  {
+    "pdb_id": "1A8W",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-10-14"
+  },
+  {
+    "pdb_id": "1A9G",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-07-15"
+  },
+  {
+    "pdb_id": "1A9H",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-07-15"
+  },
+  {
+    "pdb_id": "1A9I",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-07-15"
+  },
+  {
+    "pdb_id": "1A9J",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-07-15"
+  },
+  {
+    "pdb_id": "1A9L",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-06-17"
+  },
+  {
+    "pdb_id": "1AC3",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-06-16"
+  },
+  {
+    "pdb_id": "1AC7",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-07-07"
+  },
+  {
+    "pdb_id": "1AC9",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-07-07"
+  },
+  {
+    "pdb_id": "1AF1",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-08-20"
+  },
+  {
+    "pdb_id": "1AFF",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-08-20"
+  },
+  {
+    "pdb_id": "1AFX",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-05-15"
+  },
+  {
+    "pdb_id": "1AFZ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-08-20"
+  },
+  {
+    "pdb_id": "1AG3",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-07-07"
+  },
+  {
+    "pdb_id": "1AG5",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-09-17"
+  },
+  {
+    "pdb_id": "1AGH",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-09-17"
+  },
+  {
+    "pdb_id": "1AGK",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-08-20"
+  },
+  {
+    "pdb_id": "1AGL",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "1997-04-29"
+  },
+  {
+    "pdb_id": "1AGO",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-08-20"
+  },
+  {
+    "pdb_id": "1AGU",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-08-20"
+  },
+  {
+    "pdb_id": "1AGZ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-08-20"
+  },
+  {
+    "pdb_id": "1AIO",
+    "method": "X-ray",
+    "resolution": 2.6,
+    "release_date": "1997-04-24"
+  },
+  {
+    "pdb_id": "1AJF",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-07-07"
+  },
+  {
+    "pdb_id": "1AJL",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-07-07"
+  },
+  {
+    "pdb_id": "1AJT",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-08-20"
+  },
+  {
+    "pdb_id": "1AJU",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-12-17"
+  },
+  {
+    "pdb_id": "1AKX",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-11-19"
+  },
+  {
+    "pdb_id": "1AL5",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-12-17"
+  },
+  {
+    "pdb_id": "1AL9",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-09-17"
+  },
+  {
+    "pdb_id": "1AM0",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-07-23"
+  },
+  {
+    "pdb_id": "1AMD",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-09-17"
+  },
+  {
+    "pdb_id": "1ANA",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "1982-07-29"
+  },
+  {
+    "pdb_id": "1ANR",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-01-11"
+  },
+  {
+    "pdb_id": "1AO1",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-09-17"
+  },
+  {
+    "pdb_id": "1AO9",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-01-28"
+  },
+  {
+    "pdb_id": "1AP1",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-07-22"
+  },
+  {
+    "pdb_id": "1AQO",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-02-04"
+  },
+  {
+    "pdb_id": "1ARJ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1996-11-08"
+  },
+  {
+    "pdb_id": "1AT4",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-02-18"
+  },
+  {
+    "pdb_id": "1ATO",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-11-12"
+  },
+  {
+    "pdb_id": "1ATV",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-02-25"
+  },
+  {
+    "pdb_id": "1ATW",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-02-25"
+  },
+  {
+    "pdb_id": "1AU5",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-02-25"
+  },
+  {
+    "pdb_id": "1AU6",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-02-25"
+  },
+  {
+    "pdb_id": "1AUL",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-12-24"
+  },
+  {
+    "pdb_id": "1AW4",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-04-15"
+  },
+  {
+    "pdb_id": "1AX6",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-07-01"
+  },
+  {
+    "pdb_id": "1AX7",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-07-01"
+  },
+  {
+    "pdb_id": "1AXL",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-07-01"
+  },
+  {
+    "pdb_id": "1AXO",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-07-01"
+  },
+  {
+    "pdb_id": "1AXP",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-04-22"
+  },
+  {
+    "pdb_id": "1AXU",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-07-01"
+  },
+  {
+    "pdb_id": "1AXV",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-07-01"
+  },
+  {
+    "pdb_id": "1B0S",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-08-31"
+  },
+  {
+    "pdb_id": "1B36",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-12-23"
+  },
+  {
+    "pdb_id": "1B3P",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-08-31"
+  },
+  {
+    "pdb_id": "1B4Y",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-09-13"
+  },
+  {
+    "pdb_id": "1B5K",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-01-13"
+  },
+  {
+    "pdb_id": "1B60",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-02-18"
+  },
+  {
+    "pdb_id": "1B6X",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-01-27"
+  },
+  {
+    "pdb_id": "1B6Y",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-01-27"
+  },
+  {
+    "pdb_id": "1BAE",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-01-14"
+  },
+  {
+    "pdb_id": "1BAU",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-04-27"
+  },
+  {
+    "pdb_id": "1BCB",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-08-12"
+  },
+  {
+    "pdb_id": "1BCE",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-08-12"
+  },
+  {
+    "pdb_id": "1BD1",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "1990-01-15"
+  },
+  {
+    "pdb_id": "1BDN",
+    "method": "X-ray",
+    "resolution": 2.6,
+    "release_date": "1991-04-15"
+  },
+  {
+    "pdb_id": "1BDZ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-12-02"
+  },
+  {
+    "pdb_id": "1BE5",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-08-12"
+  },
+  {
+    "pdb_id": "1BGZ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-01-13"
+  },
+  {
+    "pdb_id": "1BHR",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-11-04"
+  },
+  {
+    "pdb_id": "1BJ2",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-02-02"
+  },
+  {
+    "pdb_id": "1BJD",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-01-13"
+  },
+  {
+    "pdb_id": "1BJH",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-12-03"
+  },
+  {
+    "pdb_id": "1BN0",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-04-27"
+  },
+  {
+    "pdb_id": "1BN9",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-08-05"
+  },
+  {
+    "pdb_id": "1BNA",
+    "method": "X-ray",
+    "resolution": 1.9,
+    "release_date": "1981-05-21"
+  },
+  {
+    "pdb_id": "1BP8",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-08-16"
+  },
+  {
+    "pdb_id": "1BPS",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-08-19"
+  },
+  {
+    "pdb_id": "1BQJ",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "1999-03-18"
+  },
+  {
+    "pdb_id": "1BR3",
+    "method": "X-ray",
+    "resolution": 3.0,
+    "release_date": "1999-02-23"
+  },
+  {
+    "pdb_id": "1BUB",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-09-09"
+  },
+  {
+    "pdb_id": "1BUF",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-01-27"
+  },
+  {
+    "pdb_id": "1BUT",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-05-18"
+  },
+  {
+    "pdb_id": "1BVJ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-12-09"
+  },
+  {
+    "pdb_id": "1BW7",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-10-07"
+  },
+  {
+    "pdb_id": "1BWG",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-03-23"
+  },
+  {
+    "pdb_id": "1BWT",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-01-06"
+  },
+  {
+    "pdb_id": "1BX5",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-01-06"
+  },
+  {
+    "pdb_id": "1BYJ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-10-29"
+  },
+  {
+    "pdb_id": "1BYX",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-10-20"
+  },
+  {
+    "pdb_id": "1BZ2",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-04-27"
+  },
+  {
+    "pdb_id": "1BZ3",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-04-27"
+  },
+  {
+    "pdb_id": "1BZT",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-04-27"
+  },
+  {
+    "pdb_id": "1BZU",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-04-27"
+  },
+  {
+    "pdb_id": "1C0O",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-08-31"
+  },
+  {
+    "pdb_id": "1C0Y",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-08-31"
+  },
+  {
+    "pdb_id": "1C11",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-07-22"
+  },
+  {
+    "pdb_id": "1C2Q",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-11-29"
+  },
+  {
+    "pdb_id": "1C2W",
+    "method": "Other",
+    "resolution": 7.5,
+    "release_date": "2000-04-10"
+  },
+  {
+    "pdb_id": "1C2X",
+    "method": "Other",
+    "resolution": 7.5,
+    "release_date": "2000-04-10"
+  },
+  {
+    "pdb_id": "1C32",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-08-18"
+  },
+  {
+    "pdb_id": "1C34",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-08-18"
+  },
+  {
+    "pdb_id": "1C35",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-08-18"
+  },
+  {
+    "pdb_id": "1C38",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-08-25"
+  },
+  {
+    "pdb_id": "1C4L",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-08-09"
+  },
+  {
+    "pdb_id": "1C95",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-10-08"
+  },
+  {
+    "pdb_id": "1C9Z",
+    "method": "X-ray",
+    "resolution": 2.4,
+    "release_date": "2000-04-02"
+  },
+  {
+    "pdb_id": "1CFL",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-05-28"
+  },
+  {
+    "pdb_id": "1CGC",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "1993-04-15"
+  },
+  {
+    "pdb_id": "1CN0",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "2000-05-24"
+  },
+  {
+    "pdb_id": "1COC",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-06-09"
+  },
+  {
+    "pdb_id": "1CP8",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-07-01"
+  },
+  {
+    "pdb_id": "1CQ5",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-08-23"
+  },
+  {
+    "pdb_id": "1CQL",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-01-14"
+  },
+  {
+    "pdb_id": "1CQO",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-08-23"
+  },
+  {
+    "pdb_id": "1CR3",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-02-18"
+  },
+  {
+    "pdb_id": "1CS2",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-08-25"
+  },
+  {
+    "pdb_id": "1CS7",
+    "method": "X-ray",
+    "resolution": 3.2,
+    "release_date": "2001-10-19"
+  },
+  {
+    "pdb_id": "1CSL",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "2000-02-14"
+  },
+  {
+    "pdb_id": "1CVX",
+    "method": "X-ray",
+    "resolution": 2.27,
+    "release_date": "2000-01-15"
+  },
+  {
+    "pdb_id": "1CVY",
+    "method": "X-ray",
+    "resolution": 2.15,
+    "release_date": "2000-01-15"
+  },
+  {
+    "pdb_id": "1CW9",
+    "method": "X-ray",
+    "resolution": 1.55,
+    "release_date": "1999-10-14"
+  },
+  {
+    "pdb_id": "1CX3",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-11-19"
+  },
+  {
+    "pdb_id": "1CX5",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-09-14"
+  },
+  {
+    "pdb_id": "1CYZ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-09-14"
+  },
+  {
+    "pdb_id": "1D0T",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-05-24"
+  },
+  {
+    "pdb_id": "1D0U",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-05-24"
+  },
+  {
+    "pdb_id": "1D10",
+    "method": "X-ray",
+    "resolution": 1.5,
+    "release_date": "1990-10-15"
+  },
+  {
+    "pdb_id": "1D11",
+    "method": "X-ray",
+    "resolution": 1.18,
+    "release_date": "1990-10-15"
+  },
+  {
+    "pdb_id": "1D12",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "1990-10-15"
+  },
+  {
+    "pdb_id": "1D13",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "1990-10-15"
+  },
+  {
+    "pdb_id": "1D14",
+    "method": "X-ray",
+    "resolution": 1.5,
+    "release_date": "1990-10-15"
+  },
+  {
+    "pdb_id": "1D15",
+    "method": "X-ray",
+    "resolution": 1.5,
+    "release_date": "1991-07-15"
+  },
+  {
+    "pdb_id": "1D16",
+    "method": "X-ray",
+    "resolution": 2.1,
+    "release_date": "1989-01-09"
+  },
+  {
+    "pdb_id": "1D17",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "1991-07-15"
+  },
+  {
+    "pdb_id": "1D18",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1991-07-15"
+  },
+  {
+    "pdb_id": "1D19",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1991-07-15"
+  },
+  {
+    "pdb_id": "1D20",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1991-07-15"
+  },
+  {
+    "pdb_id": "1D21",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "1991-07-15"
+  },
+  {
+    "pdb_id": "1D22",
+    "method": "X-ray",
+    "resolution": 1.8,
+    "release_date": "1991-07-15"
+  },
+  {
+    "pdb_id": "1D23",
+    "method": "X-ray",
+    "resolution": 1.5,
+    "release_date": "1991-10-15"
+  },
+  {
+    "pdb_id": "1D24",
+    "method": "X-ray",
+    "resolution": 1.9,
+    "release_date": "1992-04-07"
+  },
+  {
+    "pdb_id": "1D26",
+    "method": "X-ray",
+    "resolution": 2.12,
+    "release_date": "1992-04-07"
+  },
+  {
+    "pdb_id": "1D27",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "1992-04-07"
+  },
+  {
+    "pdb_id": "1D28",
+    "method": "X-ray",
+    "resolution": 2.7,
+    "release_date": "1992-04-07"
+  },
+  {
+    "pdb_id": "1D29",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1992-04-15"
+  },
+  {
+    "pdb_id": "1D30",
+    "method": "X-ray",
+    "resolution": 2.4,
+    "release_date": "1992-04-15"
+  },
+  {
+    "pdb_id": "1D31",
+    "method": "X-ray",
+    "resolution": 2.6,
+    "release_date": "1992-04-15"
+  },
+  {
+    "pdb_id": "1D32",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "1992-04-15"
+  },
+  {
+    "pdb_id": "1D33",
+    "method": "X-ray",
+    "resolution": 1.5,
+    "release_date": "1992-04-15"
+  },
+  {
+    "pdb_id": "1D35",
+    "method": "X-ray",
+    "resolution": 1.3,
+    "release_date": "1992-04-15"
+  },
+  {
+    "pdb_id": "1D36",
+    "method": "X-ray",
+    "resolution": 1.5,
+    "release_date": "1992-04-15"
+  },
+  {
+    "pdb_id": "1D37",
+    "method": "X-ray",
+    "resolution": 1.8,
+    "release_date": "1992-04-15"
+  },
+  {
+    "pdb_id": "1D38",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "1992-04-15"
+  },
+  {
+    "pdb_id": "1D39",
+    "method": "X-ray",
+    "resolution": 1.2,
+    "release_date": "1992-04-15"
+  },
+  {
+    "pdb_id": "1D3R",
+    "method": "X-ray",
+    "resolution": 1.8,
+    "release_date": "2000-01-01"
+  },
+  {
+    "pdb_id": "1D3X",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-05-06"
+  },
+  {
+    "pdb_id": "1D40",
+    "method": "X-ray",
+    "resolution": 1.3,
+    "release_date": "1992-04-15"
+  },
+  {
+    "pdb_id": "1D41",
+    "method": "X-ray",
+    "resolution": 1.3,
+    "release_date": "1992-04-15"
+  },
+  {
+    "pdb_id": "1D42",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1993-04-15"
+  },
+  {
+    "pdb_id": "1D43",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "1992-04-15"
+  },
+  {
+    "pdb_id": "1D44",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "1992-04-15"
+  },
+  {
+    "pdb_id": "1D45",
+    "method": "X-ray",
+    "resolution": 1.9,
+    "release_date": "1992-04-15"
+  },
+  {
+    "pdb_id": "1D46",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "1992-04-15"
+  },
+  {
+    "pdb_id": "1D48",
+    "method": "X-ray",
+    "resolution": 1.0,
+    "release_date": "1992-04-15"
+  },
+  {
+    "pdb_id": "1D49",
+    "method": "X-ray",
+    "resolution": 1.5,
+    "release_date": "1992-04-15"
+  },
+  {
+    "pdb_id": "1D4R",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "1999-12-02"
+  },
+  {
+    "pdb_id": "1D53",
+    "method": "X-ray",
+    "resolution": 1.5,
+    "release_date": "1993-04-13"
+  },
+  {
+    "pdb_id": "1D54",
+    "method": "X-ray",
+    "resolution": 1.4,
+    "release_date": "1993-04-15"
+  },
+  {
+    "pdb_id": "1D56",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "1992-09-15"
+  },
+  {
+    "pdb_id": "1D57",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "1992-09-15"
+  },
+  {
+    "pdb_id": "1D58",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "1992-10-15"
+  },
+  {
+    "pdb_id": "1D59",
+    "method": "X-ray",
+    "resolution": 2.3,
+    "release_date": "1993-04-15"
+  },
+  {
+    "pdb_id": "1D60",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "1993-04-15"
+  },
+  {
+    "pdb_id": "1D61",
+    "method": "X-ray",
+    "resolution": 1.3,
+    "release_date": "1993-04-15"
+  },
+  {
+    "pdb_id": "1D62",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "1D63",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "1993-01-15"
+  },
+  {
+    "pdb_id": "1D64",
+    "method": "X-ray",
+    "resolution": 2.1,
+    "release_date": "1993-01-15"
+  },
+  {
+    "pdb_id": "1D65",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "1993-01-15"
+  },
+  {
+    "pdb_id": "1D67",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "1D68",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1993-04-15"
+  },
+  {
+    "pdb_id": "1D69",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1993-04-15"
+  },
+  {
+    "pdb_id": "1D6D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-01-17"
+  },
+  {
+    "pdb_id": "1D70",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1993-04-15"
+  },
+  {
+    "pdb_id": "1D75",
+    "method": "X-ray",
+    "resolution": 2.8,
+    "release_date": "1993-01-15"
+  },
+  {
+    "pdb_id": "1D76",
+    "method": "X-ray",
+    "resolution": 1.3,
+    "release_date": "1992-09-15"
+  },
+  {
+    "pdb_id": "1D77",
+    "method": "X-ray",
+    "resolution": 2.4,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "1D78",
+    "method": "X-ray",
+    "resolution": 1.4,
+    "release_date": "1993-04-15"
+  },
+  {
+    "pdb_id": "1D79",
+    "method": "X-ray",
+    "resolution": 1.45,
+    "release_date": "1993-04-15"
+  },
+  {
+    "pdb_id": "1D7Z",
+    "method": "X-ray",
+    "resolution": 2.21,
+    "release_date": "2002-06-28"
+  },
+  {
+    "pdb_id": "1D80",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "1D81",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1992-10-15"
+  },
+  {
+    "pdb_id": "1D82",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1992-10-15"
+  },
+  {
+    "pdb_id": "1D83",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "1D85",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "1D86",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "1D89",
+    "method": "X-ray",
+    "resolution": 2.3,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "1D8G",
+    "method": "X-ray",
+    "resolution": 0.74,
+    "release_date": "2000-02-21"
+  },
+  {
+    "pdb_id": "1D8X",
+    "method": "X-ray",
+    "resolution": 1.2,
+    "release_date": "1999-11-05"
+  },
+  {
+    "pdb_id": "1D90",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "1D91",
+    "method": "X-ray",
+    "resolution": 2.1,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "1D92",
+    "method": "X-ray",
+    "resolution": 2.25,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "1D93",
+    "method": "X-ray",
+    "resolution": 2.15,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "1D97",
+    "method": "X-ray",
+    "resolution": 2.17,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "1D98",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1993-04-15"
+  },
+  {
+    "pdb_id": "1D99",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "1D9R",
+    "method": "X-ray",
+    "resolution": 1.5,
+    "release_date": "1999-11-05"
+  },
+  {
+    "pdb_id": "1DA0",
+    "method": "X-ray",
+    "resolution": 1.5,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "1DA1",
+    "method": "X-ray",
+    "resolution": 2.25,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "1DA2",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "1993-07-15"
+  },
+  {
+    "pdb_id": "1DA3",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "1993-04-15"
+  },
+  {
+    "pdb_id": "1DA4",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-01-31"
+  },
+  {
+    "pdb_id": "1DA5",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-01-31"
+  },
+  {
+    "pdb_id": "1DA9",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "1993-04-15"
+  },
+  {
+    "pdb_id": "1DAU",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-05-27"
+  },
+  {
+    "pdb_id": "1DB6",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-02-03"
+  },
+  {
+    "pdb_id": "1DC0",
+    "method": "X-ray",
+    "resolution": 1.3,
+    "release_date": "2000-03-06"
+  },
+  {
+    "pdb_id": "1DCG",
+    "method": "X-ray",
+    "resolution": 1.0,
+    "release_date": "1989-01-09"
+  },
+  {
+    "pdb_id": "1DCR",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "1999-11-19"
+  },
+  {
+    "pdb_id": "1DCV",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "2000-04-17"
+  },
+  {
+    "pdb_id": "1DCW",
+    "method": "X-ray",
+    "resolution": 2.1,
+    "release_date": "2000-04-17"
+  },
+  {
+    "pdb_id": "1DDP",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1996-03-08"
+  },
+  {
+    "pdb_id": "1DDY",
+    "method": "X-ray",
+    "resolution": 3.0,
+    "release_date": "2000-01-01"
+  },
+  {
+    "pdb_id": "1DGO",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-05-03"
+  },
+  {
+    "pdb_id": "1DHH",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1996-04-03"
+  },
+  {
+    "pdb_id": "1DJ6",
+    "method": "X-ray",
+    "resolution": 1.0,
+    "release_date": "1999-12-18"
+  },
+  {
+    "pdb_id": "1DJD",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-12-16"
+  },
+  {
+    "pdb_id": "1DK6",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-01-11"
+  },
+  {
+    "pdb_id": "1DK9",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-12-16"
+  },
+  {
+    "pdb_id": "1DL4",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-01-12"
+  },
+  {
+    "pdb_id": "1DL8",
+    "method": "X-ray",
+    "resolution": 1.55,
+    "release_date": "2000-10-30"
+  },
+  {
+    "pdb_id": "1DN4",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "1987-04-16"
+  },
+  {
+    "pdb_id": "1DN5",
+    "method": "X-ray",
+    "resolution": 1.4,
+    "release_date": "1987-04-16"
+  },
+  {
+    "pdb_id": "1DN6",
+    "method": "X-ray",
+    "resolution": 3.0,
+    "release_date": "1988-01-16"
+  },
+  {
+    "pdb_id": "1DN8",
+    "method": "X-ray",
+    "resolution": 1.5,
+    "release_date": "1988-04-16"
+  },
+  {
+    "pdb_id": "1DN9",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "1990-04-15"
+  },
+  {
+    "pdb_id": "1DNE",
+    "method": "X-ray",
+    "resolution": 2.4,
+    "release_date": "1989-01-09"
+  },
+  {
+    "pdb_id": "1DNF",
+    "method": "X-ray",
+    "resolution": 1.5,
+    "release_date": "1990-10-15"
+  },
+  {
+    "pdb_id": "1DNH",
+    "method": "X-ray",
+    "resolution": 2.25,
+    "release_date": "1989-01-09"
+  },
+  {
+    "pdb_id": "1DNM",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1991-07-15"
+  },
+  {
+    "pdb_id": "1DNS",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "1990-04-15"
+  },
+  {
+    "pdb_id": "1DNZ",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "2000-04-10"
+  },
+  {
+    "pdb_id": "1DOU",
+    "method": "X-ray",
+    "resolution": 1.82,
+    "release_date": "1999-12-27"
+  },
+  {
+    "pdb_id": "1DPL",
+    "method": "X-ray",
+    "resolution": 0.83,
+    "release_date": "2000-04-04"
+  },
+  {
+    "pdb_id": "1DPN",
+    "method": "X-ray",
+    "resolution": 0.95,
+    "release_date": "2000-04-04"
+  },
+  {
+    "pdb_id": "1DQF",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "2000-11-13"
+  },
+  {
+    "pdb_id": "1DQH",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "2000-11-13"
+  },
+  {
+    "pdb_id": "1DRN",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1996-04-03"
+  },
+  {
+    "pdb_id": "1DRR",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-04-22"
+  },
+  {
+    "pdb_id": "1DSA",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-08-20"
+  },
+  {
+    "pdb_id": "1DSI",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-08-05"
+  },
+  {
+    "pdb_id": "1DSM",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-04-02"
+  },
+  {
+    "pdb_id": "1DUF",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-07-14"
+  },
+  {
+    "pdb_id": "1DUH",
+    "method": "X-ray",
+    "resolution": 2.7,
+    "release_date": "2000-05-08"
+  },
+  {
+    "pdb_id": "1DUQ",
+    "method": "X-ray",
+    "resolution": 2.1,
+    "release_date": "2000-05-16"
+  },
+  {
+    "pdb_id": "1DVL",
+    "method": "X-ray",
+    "resolution": 2.4,
+    "release_date": "2002-03-29"
+  },
+  {
+    "pdb_id": "1DXA",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1995-12-07"
+  },
+  {
+    "pdb_id": "1E4P",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-01-16"
+  },
+  {
+    "pdb_id": "1E95",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-08-23"
+  },
+  {
+    "pdb_id": "1EBQ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-07-07"
+  },
+  {
+    "pdb_id": "1EBR",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-07-07"
+  },
+  {
+    "pdb_id": "1EBS",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-07-07"
+  },
+  {
+    "pdb_id": "1EC4",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-04-22"
+  },
+  {
+    "pdb_id": "1ECU",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-02-02"
+  },
+  {
+    "pdb_id": "1EDR",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "2000-02-16"
+  },
+  {
+    "pdb_id": "1EEG",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-04-02"
+  },
+  {
+    "pdb_id": "1EEK",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-02-16"
+  },
+  {
+    "pdb_id": "1EEL",
+    "method": "X-ray",
+    "resolution": 2.4,
+    "release_date": "2000-02-09"
+  },
+  {
+    "pdb_id": "1EFO",
+    "method": "X-ray",
+    "resolution": 2.3,
+    "release_date": "2000-05-29"
+  },
+  {
+    "pdb_id": "1EFS",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-03-06"
+  },
+  {
+    "pdb_id": "1EG6",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "2001-01-03"
+  },
+  {
+    "pdb_id": "1EGK",
+    "method": "X-ray",
+    "resolution": 3.1,
+    "release_date": "2000-06-26"
+  },
+  {
+    "pdb_id": "1EHT",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-12-24"
+  },
+  {
+    "pdb_id": "1EHV",
+    "method": "X-ray",
+    "resolution": 1.8,
+    "release_date": "2000-07-14"
+  },
+  {
+    "pdb_id": "1EHZ",
+    "method": "X-ray",
+    "resolution": 1.93,
+    "release_date": "2000-10-02"
+  },
+  {
+    "pdb_id": "1EI2",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-03-06"
+  },
+  {
+    "pdb_id": "1EI4",
+    "method": "X-ray",
+    "resolution": 1.43,
+    "release_date": "2000-03-27"
+  },
+  {
+    "pdb_id": "1EJZ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-10-23"
+  },
+  {
+    "pdb_id": "1EKA",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-11-13"
+  },
+  {
+    "pdb_id": "1EKD",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-11-13"
+  },
+  {
+    "pdb_id": "1EKH",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-03-20"
+  },
+  {
+    "pdb_id": "1EKI",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-03-20"
+  },
+  {
+    "pdb_id": "1EKW",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-03-20"
+  },
+  {
+    "pdb_id": "1EL2",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-03-27"
+  },
+  {
+    "pdb_id": "1ELH",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-01-31"
+  },
+  {
+    "pdb_id": "1ELN",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-03-27"
+  },
+  {
+    "pdb_id": "1EM0",
+    "method": "X-ray",
+    "resolution": 0.9,
+    "release_date": "2000-08-21"
+  },
+  {
+    "pdb_id": "1EMQ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-04-04"
+  },
+  {
+    "pdb_id": "1EN1",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-04-04"
+  },
+  {
+    "pdb_id": "1EN3",
+    "method": "X-ray",
+    "resolution": 0.985,
+    "release_date": "2000-09-25"
+  },
+  {
+    "pdb_id": "1EN8",
+    "method": "X-ray",
+    "resolution": 0.985,
+    "release_date": "2000-09-25"
+  },
+  {
+    "pdb_id": "1EN9",
+    "method": "X-ray",
+    "resolution": 0.985,
+    "release_date": "2000-09-25"
+  },
+  {
+    "pdb_id": "1ENE",
+    "method": "X-ray",
+    "resolution": 0.985,
+    "release_date": "2000-09-25"
+  },
+  {
+    "pdb_id": "1ENN",
+    "method": "X-ray",
+    "resolution": 0.89,
+    "release_date": "2000-05-03"
+  },
+  {
+    "pdb_id": "1ESH",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-04-24"
+  },
+  {
+    "pdb_id": "1ESS",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-09-17"
+  },
+  {
+    "pdb_id": "1ESY",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-05-31"
+  },
+  {
+    "pdb_id": "1ET4",
+    "method": "X-ray",
+    "resolution": 2.3,
+    "release_date": "2000-11-13"
+  },
+  {
+    "pdb_id": "1EU2",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-01-24"
+  },
+  {
+    "pdb_id": "1EU6",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-01-24"
+  },
+  {
+    "pdb_id": "1EVM",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-05-22"
+  },
+  {
+    "pdb_id": "1EVN",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-05-22"
+  },
+  {
+    "pdb_id": "1EVO",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-05-01"
+  },
+  {
+    "pdb_id": "1EVV",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "2000-05-01"
+  },
+  {
+    "pdb_id": "1EW1",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-05-08"
+  },
+  {
+    "pdb_id": "1EXL",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-05-15"
+  },
+  {
+    "pdb_id": "1EZN",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-04-21"
+  },
+  {
+    "pdb_id": "1F1T",
+    "method": "X-ray",
+    "resolution": 2.8,
+    "release_date": "2000-09-04"
+  },
+  {
+    "pdb_id": "1F27",
+    "method": "X-ray",
+    "resolution": 1.3,
+    "release_date": "2000-06-12"
+  },
+  {
+    "pdb_id": "1F3S",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-11-13"
+  },
+  {
+    "pdb_id": "1F5G",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-06-26"
+  },
+  {
+    "pdb_id": "1F5H",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-06-26"
+  },
+  {
+    "pdb_id": "1F5U",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-08-21"
+  },
+  {
+    "pdb_id": "1F69",
+    "method": "X-ray",
+    "resolution": 2.6,
+    "release_date": "2000-08-28"
+  },
+  {
+    "pdb_id": "1F6C",
+    "method": "X-ray",
+    "resolution": 2.7,
+    "release_date": "2000-08-28"
+  },
+  {
+    "pdb_id": "1F6E",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "2000-08-28"
+  },
+  {
+    "pdb_id": "1F6I",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "2000-08-28"
+  },
+  {
+    "pdb_id": "1F6J",
+    "method": "X-ray",
+    "resolution": 2.25,
+    "release_date": "2000-08-28"
+  },
+  {
+    "pdb_id": "1F6X",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-10-09"
+  },
+  {
+    "pdb_id": "1F6Z",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-10-09"
+  },
+  {
+    "pdb_id": "1F78",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-10-09"
+  },
+  {
+    "pdb_id": "1F79",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-10-09"
+  },
+  {
+    "pdb_id": "1F7F",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-10-09"
+  },
+  {
+    "pdb_id": "1F7G",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-10-09"
+  },
+  {
+    "pdb_id": "1F7H",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-10-09"
+  },
+  {
+    "pdb_id": "1F7I",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-10-09"
+  },
+  {
+    "pdb_id": "1F84",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-11-17"
+  },
+  {
+    "pdb_id": "1F85",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-11-17"
+  },
+  {
+    "pdb_id": "1F9L",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-07-26"
+  },
+  {
+    "pdb_id": "1FCW",
+    "method": "Other",
+    "resolution": 17.0,
+    "release_date": "2000-08-11"
+  },
+  {
+    "pdb_id": "1FD5",
+    "method": "X-ray",
+    "resolution": 1.1,
+    "release_date": "2000-08-07"
+  },
+  {
+    "pdb_id": "1FDG",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "2000-08-07"
+  },
+  {
+    "pdb_id": "1FEQ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-11-22"
+  },
+  {
+    "pdb_id": "1FFZ",
+    "method": "X-ray",
+    "resolution": 3.2,
+    "release_date": "2000-08-28"
+  },
+  {
+    "pdb_id": "1FG0",
+    "method": "X-ray",
+    "resolution": 3.0,
+    "release_date": "2000-08-28"
+  },
+  {
+    "pdb_id": "1FHK",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-03-21"
+  },
+  {
+    "pdb_id": "1FHY",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "2001-04-21"
+  },
+  {
+    "pdb_id": "1FHZ",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "2001-04-21"
+  },
+  {
+    "pdb_id": "1FIR",
+    "method": "X-ray",
+    "resolution": 3.3,
+    "release_date": "2001-01-17"
+  },
+  {
+    "pdb_id": "1FIX",
+    "method": "X-ray",
+    "resolution": 2.3,
+    "release_date": "1996-12-11"
+  },
+  {
+    "pdb_id": "1FJ5",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-09-11"
+  },
+  {
+    "pdb_id": "1FJB",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1996-06-10"
+  },
+  {
+    "pdb_id": "1FKY",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-04-01"
+  },
+  {
+    "pdb_id": "1FKZ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-03-12"
+  },
+  {
+    "pdb_id": "1FL8",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-10-16"
+  },
+  {
+    "pdb_id": "1FMN",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1996-07-11"
+  },
+  {
+    "pdb_id": "1FMQ",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "2000-09-11"
+  },
+  {
+    "pdb_id": "1FMS",
+    "method": "X-ray",
+    "resolution": 1.9,
+    "release_date": "2000-09-11"
+  },
+  {
+    "pdb_id": "1FN1",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "2000-10-30"
+  },
+  {
+    "pdb_id": "1FN2",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "2000-10-30"
+  },
+  {
+    "pdb_id": "1FOQ",
+    "method": "Other",
+    "resolution": 20.0,
+    "release_date": "2000-12-22"
+  },
+  {
+    "pdb_id": "1FQ2",
+    "method": "X-ray",
+    "resolution": 1.2,
+    "release_date": "2000-11-27"
+  },
+  {
+    "pdb_id": "1FQP",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-02-12"
+  },
+  {
+    "pdb_id": "1FQZ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-01-17"
+  },
+  {
+    "pdb_id": "1FTD",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "2001-02-26"
+  },
+  {
+    "pdb_id": "1FUF",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "2001-11-09"
+  },
+  {
+    "pdb_id": "1FV7",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-10-11"
+  },
+  {
+    "pdb_id": "1FV8",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-10-11"
+  },
+  {
+    "pdb_id": "1FYI",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-10-18"
+  },
+  {
+    "pdb_id": "1FYO",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-03-14"
+  },
+  {
+    "pdb_id": "1FYP",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-03-14"
+  },
+  {
+    "pdb_id": "1FYY",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-12-06"
+  },
+  {
+    "pdb_id": "1FZL",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-10-18"
+  },
+  {
+    "pdb_id": "1FZS",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-10-18"
+  },
+  {
+    "pdb_id": "1FZX",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-03-14"
+  },
+  {
+    "pdb_id": "1G00",
+    "method": "X-ray",
+    "resolution": 2.3,
+    "release_date": "2001-02-05"
+  },
+  {
+    "pdb_id": "1G14",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-03-14"
+  },
+  {
+    "pdb_id": "1G1N",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-03-14"
+  },
+  {
+    "pdb_id": "1G22",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-05-02"
+  },
+  {
+    "pdb_id": "1G2J",
+    "method": "X-ray",
+    "resolution": 1.97,
+    "release_date": "2000-12-06"
+  },
+  {
+    "pdb_id": "1G3A",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-08-01"
+  },
+  {
+    "pdb_id": "1G3V",
+    "method": "X-ray",
+    "resolution": 3.1,
+    "release_date": "2002-01-11"
+  },
+  {
+    "pdb_id": "1G4Q",
+    "method": "X-ray",
+    "resolution": 1.15,
+    "release_date": "2003-07-08"
+  },
+  {
+    "pdb_id": "1G5D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-08-22"
+  },
+  {
+    "pdb_id": "1G5E",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-08-22"
+  },
+  {
+    "pdb_id": "1G5K",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-01-07"
+  },
+  {
+    "pdb_id": "1G5L",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-06-06"
+  },
+  {
+    "pdb_id": "1G6D",
+    "method": "X-ray",
+    "resolution": 2.9,
+    "release_date": "2002-04-19"
+  },
+  {
+    "pdb_id": "1G75",
+    "method": "X-ray",
+    "resolution": 1.57,
+    "release_date": "2001-02-05"
+  },
+  {
+    "pdb_id": "1G7Z",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-03-28"
+  },
+  {
+    "pdb_id": "1G80",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-03-28"
+  },
+  {
+    "pdb_id": "1G8N",
+    "method": "X-ray",
+    "resolution": 1.55,
+    "release_date": "2001-02-05"
+  },
+  {
+    "pdb_id": "1G8U",
+    "method": "X-ray",
+    "resolution": 1.85,
+    "release_date": "2001-02-05"
+  },
+  {
+    "pdb_id": "1G8V",
+    "method": "X-ray",
+    "resolution": 1.8,
+    "release_date": "2001-02-05"
+  },
+  {
+    "pdb_id": "1GID",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1996-12-31"
+  },
+  {
+    "pdb_id": "1GIP",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-08-01"
+  },
+  {
+    "pdb_id": "1GIZ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-08-22"
+  },
+  {
+    "pdb_id": "1GJ0",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-08-22"
+  },
+  {
+    "pdb_id": "1GJ1",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-01-07"
+  },
+  {
+    "pdb_id": "1GJ2",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-06-06"
+  },
+  {
+    "pdb_id": "1GN7",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-05-15"
+  },
+  {
+    "pdb_id": "1GQU",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "2002-12-05"
+  },
+  {
+    "pdb_id": "1GRZ",
+    "method": "X-ray",
+    "resolution": 5.0,
+    "release_date": "1998-11-24"
+  },
+  {
+    "pdb_id": "1GTC",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1996-12-23"
+  },
+  {
+    "pdb_id": "1GUC",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-02-12"
+  },
+  {
+    "pdb_id": "1GV6",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-07-05"
+  },
+  {
+    "pdb_id": "1H0Q",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-07-17"
+  },
+  {
+    "pdb_id": "1H1K",
+    "method": "X-ray",
+    "resolution": 10.0,
+    "release_date": "2002-09-26"
+  },
+  {
+    "pdb_id": "1HG9",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-01-02"
+  },
+  {
+    "pdb_id": "1HHW",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-05-30"
+  },
+  {
+    "pdb_id": "1HHX",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-05-30"
+  },
+  {
+    "pdb_id": "1HLX",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1995-09-15"
+  },
+  {
+    "pdb_id": "1HM1",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-10-14"
+  },
+  {
+    "pdb_id": "1HMH",
+    "method": "X-ray",
+    "resolution": 2.6,
+    "release_date": "1995-12-07"
+  },
+  {
+    "pdb_id": "1HQ7",
+    "method": "X-ray",
+    "resolution": 2.1,
+    "release_date": "2003-07-07"
+  },
+  {
+    "pdb_id": "1HR2",
+    "method": "X-ray",
+    "resolution": 2.25,
+    "release_date": "2001-04-12"
+  },
+  {
+    "pdb_id": "1HS1",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-09-02"
+  },
+  {
+    "pdb_id": "1HS2",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-08-29"
+  },
+  {
+    "pdb_id": "1HS3",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-09-02"
+  },
+  {
+    "pdb_id": "1HS4",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-09-02"
+  },
+  {
+    "pdb_id": "1HS8",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-09-02"
+  },
+  {
+    "pdb_id": "1HT4",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-05-02"
+  },
+  {
+    "pdb_id": "1HT7",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-05-02"
+  },
+  {
+    "pdb_id": "1HWQ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-05-16"
+  },
+  {
+    "pdb_id": "1HWV",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-03-21"
+  },
+  {
+    "pdb_id": "1HX4",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-03-21"
+  },
+  {
+    "pdb_id": "1HZ0",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-08-08"
+  },
+  {
+    "pdb_id": "1HZ2",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-02-07"
+  },
+  {
+    "pdb_id": "1HZS",
+    "method": "X-ray",
+    "resolution": 1.82,
+    "release_date": "2001-07-26"
+  },
+  {
+    "pdb_id": "1I0F",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "2001-04-04"
+  },
+  {
+    "pdb_id": "1I0G",
+    "method": "X-ray",
+    "resolution": 1.45,
+    "release_date": "2001-04-04"
+  },
+  {
+    "pdb_id": "1I0J",
+    "method": "X-ray",
+    "resolution": 1.06,
+    "release_date": "2001-04-04"
+  },
+  {
+    "pdb_id": "1I0K",
+    "method": "X-ray",
+    "resolution": 1.05,
+    "release_date": "2001-04-04"
+  },
+  {
+    "pdb_id": "1I0M",
+    "method": "X-ray",
+    "resolution": 1.05,
+    "release_date": "2001-04-04"
+  },
+  {
+    "pdb_id": "1I0N",
+    "method": "X-ray",
+    "resolution": 1.3,
+    "release_date": "2001-04-04"
+  },
+  {
+    "pdb_id": "1I0O",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "2001-04-04"
+  },
+  {
+    "pdb_id": "1I0P",
+    "method": "X-ray",
+    "resolution": 1.3,
+    "release_date": "2001-04-04"
+  },
+  {
+    "pdb_id": "1I0Q",
+    "method": "X-ray",
+    "resolution": 1.3,
+    "release_date": "2001-04-04"
+  },
+  {
+    "pdb_id": "1I0T",
+    "method": "X-ray",
+    "resolution": 0.6,
+    "release_date": "2001-04-04"
+  },
+  {
+    "pdb_id": "1I1P",
+    "method": "X-ray",
+    "resolution": 1.63,
+    "release_date": "2002-06-21"
+  },
+  {
+    "pdb_id": "1I34",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-06-27"
+  },
+  {
+    "pdb_id": "1I3T",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "2001-09-14"
+  },
+  {
+    "pdb_id": "1I3X",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-04-04"
+  },
+  {
+    "pdb_id": "1I3Y",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-04-04"
+  },
+  {
+    "pdb_id": "1I46",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-04-21"
+  },
+  {
+    "pdb_id": "1I47",
+    "method": "X-ray",
+    "resolution": 2.1,
+    "release_date": "2003-02-11"
+  },
+  {
+    "pdb_id": "1I4B",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-04-21"
+  },
+  {
+    "pdb_id": "1I4C",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-04-21"
+  },
+  {
+    "pdb_id": "1I5V",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-03-14"
+  },
+  {
+    "pdb_id": "1I5W",
+    "method": "X-ray",
+    "resolution": 1.4,
+    "release_date": "2001-04-04"
+  },
+  {
+    "pdb_id": "1I7J",
+    "method": "X-ray",
+    "resolution": 1.19,
+    "release_date": "2001-09-21"
+  },
+  {
+    "pdb_id": "1I7V",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-03-28"
+  },
+  {
+    "pdb_id": "1I9K",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-05-30"
+  },
+  {
+    "pdb_id": "1I9V",
+    "method": "X-ray",
+    "resolution": 2.6,
+    "release_date": "2001-06-04"
+  },
+  {
+    "pdb_id": "1I9X",
+    "method": "X-ray",
+    "resolution": 2.18,
+    "release_date": "2001-09-05"
+  },
+  {
+    "pdb_id": "1ICK",
+    "method": "X-ray",
+    "resolution": 0.95,
+    "release_date": "2001-04-12"
+  },
+  {
+    "pdb_id": "1IDV",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-10-05"
+  },
+  {
+    "pdb_id": "1IDX",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-05-08"
+  },
+  {
+    "pdb_id": "1IE1",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-06-20"
+  },
+  {
+    "pdb_id": "1IE2",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-06-20"
+  },
+  {
+    "pdb_id": "1IEK",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-07-25"
+  },
+  {
+    "pdb_id": "1IEY",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-07-25"
+  },
+  {
+    "pdb_id": "1IH1",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "2001-06-18"
+  },
+  {
+    "pdb_id": "1IH2",
+    "method": "X-ray",
+    "resolution": 2.8,
+    "release_date": "2001-06-18"
+  },
+  {
+    "pdb_id": "1IH3",
+    "method": "X-ray",
+    "resolution": 2.4,
+    "release_date": "2001-06-18"
+  },
+  {
+    "pdb_id": "1IH4",
+    "method": "X-ray",
+    "resolution": 1.9,
+    "release_date": "2001-06-18"
+  },
+  {
+    "pdb_id": "1IH6",
+    "method": "X-ray",
+    "resolution": 1.45,
+    "release_date": "2001-06-18"
+  },
+  {
+    "pdb_id": "1IHH",
+    "method": "X-ray",
+    "resolution": 2.4,
+    "release_date": "2001-10-26"
+  },
+  {
+    "pdb_id": "1II1",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-05-08"
+  },
+  {
+    "pdb_id": "1IK1",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-07-18"
+  },
+  {
+    "pdb_id": "1IK5",
+    "method": "X-ray",
+    "resolution": 1.8,
+    "release_date": "2001-11-09"
+  },
+  {
+    "pdb_id": "1IKD",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-04-01"
+  },
+  {
+    "pdb_id": "1IKK",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "2001-10-05"
+  },
+  {
+    "pdb_id": "1ILC",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "2002-05-08"
+  },
+  {
+    "pdb_id": "1IMR",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "1996-04-04"
+  },
+  {
+    "pdb_id": "1IMS",
+    "method": "X-ray",
+    "resolution": 1.5,
+    "release_date": "1996-04-04"
+  },
+  {
+    "pdb_id": "1IR5",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-09-23"
+  },
+  {
+    "pdb_id": "1IXJ",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "2002-12-11"
+  },
+  {
+    "pdb_id": "1J4Y",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-07-17"
+  },
+  {
+    "pdb_id": "1J6S",
+    "method": "X-ray",
+    "resolution": 1.4,
+    "release_date": "2003-08-05"
+  },
+  {
+    "pdb_id": "1J7T",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "2002-05-18"
+  },
+  {
+    "pdb_id": "1J8G",
+    "method": "X-ray",
+    "resolution": 0.61,
+    "release_date": "2001-11-23"
+  },
+  {
+    "pdb_id": "1J8L",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "2001-09-28"
+  },
+  {
+    "pdb_id": "1J9H",
+    "method": "X-ray",
+    "resolution": 1.4,
+    "release_date": "2001-10-26"
+  },
+  {
+    "pdb_id": "1JB8",
+    "method": "X-ray",
+    "resolution": 2.38,
+    "release_date": "2003-07-01"
+  },
+  {
+    "pdb_id": "1JDG",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-07-04"
+  },
+  {
+    "pdb_id": "1JES",
+    "method": "X-ray",
+    "resolution": 1.5,
+    "release_date": "2001-11-23"
+  },
+  {
+    "pdb_id": "1JGR",
+    "method": "X-ray",
+    "resolution": 1.2,
+    "release_date": "2001-09-05"
+  },
+  {
+    "pdb_id": "1JHI",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-07-08"
+  },
+  {
+    "pdb_id": "1JJP",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-09-19"
+  },
+  {
+    "pdb_id": "1JO1",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-09-12"
+  },
+  {
+    "pdb_id": "1JO7",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-09-19"
+  },
+  {
+    "pdb_id": "1JOX",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-05-01"
+  },
+  {
+    "pdb_id": "1JP0",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-05-01"
+  },
+  {
+    "pdb_id": "1JPQ",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "2002-06-28"
+  },
+  {
+    "pdb_id": "1JRN",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "2002-06-28"
+  },
+  {
+    "pdb_id": "1JRV",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-06-19"
+  },
+  {
+    "pdb_id": "1JRW",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-08-28"
+  },
+  {
+    "pdb_id": "1JS5",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-08-28"
+  },
+  {
+    "pdb_id": "1JS7",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-06-19"
+  },
+  {
+    "pdb_id": "1JTJ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-12-11"
+  },
+  {
+    "pdb_id": "1JTL",
+    "method": "X-ray",
+    "resolution": 1.85,
+    "release_date": "2002-08-09"
+  },
+  {
+    "pdb_id": "1JTW",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-12-12"
+  },
+  {
+    "pdb_id": "1JU0",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-08-23"
+  },
+  {
+    "pdb_id": "1JU1",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-08-23"
+  },
+  {
+    "pdb_id": "1JU7",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-03-20"
+  },
+  {
+    "pdb_id": "1JUA",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-01-20"
+  },
+  {
+    "pdb_id": "1JUC",
+    "method": "X-ray",
+    "resolution": 2.35,
+    "release_date": "2002-02-22"
+  },
+  {
+    "pdb_id": "1JUR",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-01-16"
+  },
+  {
+    "pdb_id": "1JUU",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-04-03"
+  },
+  {
+    "pdb_id": "1JUX",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "2004-01-27"
+  },
+  {
+    "pdb_id": "1JVC",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-10-24"
+  },
+  {
+    "pdb_id": "1JVE",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-05-22"
+  },
+  {
+    "pdb_id": "1JWC",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-03-20"
+  },
+  {
+    "pdb_id": "1JZC",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-10-07"
+  },
+  {
+    "pdb_id": "1JZV",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "2003-11-11"
+  },
+  {
+    "pdb_id": "1K1H",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-06-19"
+  },
+  {
+    "pdb_id": "1K1R",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-06-19"
+  },
+  {
+    "pdb_id": "1K29",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-01-16"
+  },
+  {
+    "pdb_id": "1K2G",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-05-08"
+  },
+  {
+    "pdb_id": "1K2J",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-04-10"
+  },
+  {
+    "pdb_id": "1K2K",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-04-10"
+  },
+  {
+    "pdb_id": "1K2L",
+    "method": "X-ray",
+    "resolution": 2.4,
+    "release_date": "2002-10-16"
+  },
+  {
+    "pdb_id": "1K2Z",
+    "method": "X-ray",
+    "resolution": 2.38,
+    "release_date": "2002-08-09"
+  },
+  {
+    "pdb_id": "1K4A",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-12-19"
+  },
+  {
+    "pdb_id": "1K4B",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-12-19"
+  },
+  {
+    "pdb_id": "1K4X",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-06-23"
+  },
+  {
+    "pdb_id": "1K5E",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-01-23"
+  },
+  {
+    "pdb_id": "1K5F",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-01-23"
+  },
+  {
+    "pdb_id": "1K5I",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-10-17"
+  },
+  {
+    "pdb_id": "1K6G",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-12-19"
+  },
+  {
+    "pdb_id": "1K6H",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-12-19"
+  },
+  {
+    "pdb_id": "1K8J",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-04-15"
+  },
+  {
+    "pdb_id": "1K8L",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-04-15"
+  },
+  {
+    "pdb_id": "1K8N",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-04-15"
+  },
+  {
+    "pdb_id": "1K8P",
+    "method": "X-ray",
+    "resolution": 2.4,
+    "release_date": "2002-05-31"
+  },
+  {
+    "pdb_id": "1K8S",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-11-14"
+  },
+  {
+    "pdb_id": "1K9G",
+    "method": "X-ray",
+    "resolution": 1.4,
+    "release_date": "2001-11-30"
+  },
+  {
+    "pdb_id": "1K9H",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-11-07"
+  },
+  {
+    "pdb_id": "1K9L",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-11-07"
+  },
+  {
+    "pdb_id": "1K9W",
+    "method": "X-ray",
+    "resolution": 3.1,
+    "release_date": "2001-11-30"
+  },
+  {
+    "pdb_id": "1KAJ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1996-07-11"
+  },
+  {
+    "pdb_id": "1KB1",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-11-28"
+  },
+  {
+    "pdb_id": "1KBD",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-12-02"
+  },
+  {
+    "pdb_id": "1KBM",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2001-11-28"
+  },
+  {
+    "pdb_id": "1KCI",
+    "method": "X-ray",
+    "resolution": 1.8,
+    "release_date": "2002-02-01"
+  },
+  {
+    "pdb_id": "1KD3",
+    "method": "X-ray",
+    "resolution": 1.8,
+    "release_date": "2003-03-04"
+  },
+  {
+    "pdb_id": "1KD4",
+    "method": "X-ray",
+    "resolution": 1.85,
+    "release_date": "2003-03-04"
+  },
+  {
+    "pdb_id": "1KD5",
+    "method": "X-ray",
+    "resolution": 1.58,
+    "release_date": "2003-03-04"
+  },
+  {
+    "pdb_id": "1KF1",
+    "method": "X-ray",
+    "resolution": 2.1,
+    "release_date": "2002-05-31"
+  },
+  {
+    "pdb_id": "1KFO",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "2001-12-07"
+  },
+  {
+    "pdb_id": "1KGK",
+    "method": "X-ray",
+    "resolution": 1.0,
+    "release_date": "2001-12-21"
+  },
+  {
+    "pdb_id": "1KH6",
+    "method": "X-ray",
+    "resolution": 2.9,
+    "release_date": "2002-04-26"
+  },
+  {
+    "pdb_id": "1KIS",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-10-15"
+  },
+  {
+    "pdb_id": "1KKA",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-07-17"
+  },
+  {
+    "pdb_id": "1KKS",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-03-13"
+  },
+  {
+    "pdb_id": "1KKV",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-06-19"
+  },
+  {
+    "pdb_id": "1KKW",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-06-19"
+  },
+  {
+    "pdb_id": "1KOC",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1996-08-17"
+  },
+  {
+    "pdb_id": "1KOD",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1996-11-08"
+  },
+  {
+    "pdb_id": "1KOS",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-10-22"
+  },
+  {
+    "pdb_id": "1KP7",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-04-10"
+  },
+  {
+    "pdb_id": "1KPD",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-04-01"
+  },
+  {
+    "pdb_id": "1KPY",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-01-11"
+  },
+  {
+    "pdb_id": "1KPZ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-01-11"
+  },
+  {
+    "pdb_id": "1KR8",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-12-11"
+  },
+  {
+    "pdb_id": "1KSB",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-01-17"
+  },
+  {
+    "pdb_id": "1KSE",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-05-08"
+  },
+  {
+    "pdb_id": "1KVH",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-06-19"
+  },
+  {
+    "pdb_id": "1KXK",
+    "method": "X-ray",
+    "resolution": 3.0,
+    "release_date": "2002-03-22"
+  },
+  {
+    "pdb_id": "1KXS",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-03-06"
+  },
+  {
+    "pdb_id": "1L0R",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-06-19"
+  },
+  {
+    "pdb_id": "1L1H",
+    "method": "X-ray",
+    "resolution": 1.75,
+    "release_date": "2003-02-11"
+  },
+  {
+    "pdb_id": "1L1W",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-05-22"
+  },
+  {
+    "pdb_id": "1L2X",
+    "method": "X-ray",
+    "resolution": 1.25,
+    "release_date": "2002-03-22"
+  },
+  {
+    "pdb_id": "1L3D",
+    "method": "X-ray",
+    "resolution": 2.85,
+    "release_date": "2002-03-22"
+  },
+  {
+    "pdb_id": "1L3Z",
+    "method": "X-ray",
+    "resolution": 2.01,
+    "release_date": "2003-02-25"
+  },
+  {
+    "pdb_id": "1L4J",
+    "method": "X-ray",
+    "resolution": 1.85,
+    "release_date": "2003-03-04"
+  },
+  {
+    "pdb_id": "1L6B",
+    "method": "X-ray",
+    "resolution": 1.5,
+    "release_date": "2002-08-07"
+  },
+  {
+    "pdb_id": "1L8V",
+    "method": "X-ray",
+    "resolution": 2.8,
+    "release_date": "2002-08-23"
+  },
+  {
+    "pdb_id": "1LA8",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-04-17"
+  },
+  {
+    "pdb_id": "1LAE",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-04-17"
+  },
+  {
+    "pdb_id": "1LAI",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-04-17"
+  },
+  {
+    "pdb_id": "1LAQ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-04-17"
+  },
+  {
+    "pdb_id": "1LAS",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-04-17"
+  },
+  {
+    "pdb_id": "1LC4",
+    "method": "X-ray",
+    "resolution": 2.54,
+    "release_date": "2003-04-08"
+  },
+  {
+    "pdb_id": "1LC6",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-05-29"
+  },
+  {
+    "pdb_id": "1LDZ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-11-25"
+  },
+  {
+    "pdb_id": "1LEJ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-05-08"
+  },
+  {
+    "pdb_id": "1LEX",
+    "method": "X-ray",
+    "resolution": 2.25,
+    "release_date": "1996-04-03"
+  },
+  {
+    "pdb_id": "1LEY",
+    "method": "X-ray",
+    "resolution": 2.25,
+    "release_date": "1996-04-03"
+  },
+  {
+    "pdb_id": "1LJX",
+    "method": "X-ray",
+    "resolution": 1.64,
+    "release_date": "2002-05-03"
+  },
+  {
+    "pdb_id": "1LMV",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-11-27"
+  },
+  {
+    "pdb_id": "1LNT",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "2003-06-03"
+  },
+  {
+    "pdb_id": "1LP7",
+    "method": "X-ray",
+    "resolution": 2.4,
+    "release_date": "2004-01-20"
+  },
+  {
+    "pdb_id": "1LPW",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-11-27"
+  },
+  {
+    "pdb_id": "1LU3",
+    "method": "Other",
+    "resolution": 16.8,
+    "release_date": "2002-06-26"
+  },
+  {
+    "pdb_id": "1LU5",
+    "method": "X-ray",
+    "resolution": 2.4,
+    "release_date": "2002-12-20"
+  },
+  {
+    "pdb_id": "1LUH",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-02-11"
+  },
+  {
+    "pdb_id": "1LUU",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-09-09"
+  },
+  {
+    "pdb_id": "1LUX",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-09-09"
+  },
+  {
+    "pdb_id": "1LVJ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-12-11"
+  },
+  {
+    "pdb_id": "1LVS",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-07-24"
+  },
+  {
+    "pdb_id": "1LWA",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-10-16"
+  },
+  {
+    "pdb_id": "1M5L",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-09-18"
+  },
+  {
+    "pdb_id": "1M69",
+    "method": "X-ray",
+    "resolution": 1.1,
+    "release_date": "2003-08-19"
+  },
+  {
+    "pdb_id": "1M6A",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-08-07"
+  },
+  {
+    "pdb_id": "1M6F",
+    "method": "X-ray",
+    "resolution": 1.78,
+    "release_date": "2002-11-15"
+  },
+  {
+    "pdb_id": "1M6G",
+    "method": "X-ray",
+    "resolution": 1.652,
+    "release_date": "2003-05-06"
+  },
+  {
+    "pdb_id": "1M6R",
+    "method": "X-ray",
+    "resolution": 1.54,
+    "release_date": "2003-02-25"
+  },
+  {
+    "pdb_id": "1M77",
+    "method": "X-ray",
+    "resolution": 1.25,
+    "release_date": "2003-01-07"
+  },
+  {
+    "pdb_id": "1M82",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-06-03"
+  },
+  {
+    "pdb_id": "1MA8",
+    "method": "X-ray",
+    "resolution": 1.3,
+    "release_date": "2002-12-11"
+  },
+  {
+    "pdb_id": "1MDG",
+    "method": "X-ray",
+    "resolution": 1.5,
+    "release_date": "2003-08-12"
+  },
+  {
+    "pdb_id": "1ME1",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-08-19"
+  },
+  {
+    "pdb_id": "1MF5",
+    "method": "X-ray",
+    "resolution": 1.1,
+    "release_date": "2003-02-11"
+  },
+  {
+    "pdb_id": "1MFJ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-11-06"
+  },
+  {
+    "pdb_id": "1MFK",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-11-13"
+  },
+  {
+    "pdb_id": "1MFY",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-09-18"
+  },
+  {
+    "pdb_id": "1MHK",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "2002-09-06"
+  },
+  {
+    "pdb_id": "1MIS",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-07-07"
+  },
+  {
+    "pdb_id": "1MK6",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-10-16"
+  },
+  {
+    "pdb_id": "1MKL",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-10-16"
+  },
+  {
+    "pdb_id": "1MLX",
+    "method": "X-ray",
+    "resolution": 1.25,
+    "release_date": "2002-12-04"
+  },
+  {
+    "pdb_id": "1MME",
+    "method": "X-ray",
+    "resolution": 3.1,
+    "release_date": "1996-02-06"
+  },
+  {
+    "pdb_id": "1MNX",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-01-14"
+  },
+  {
+    "pdb_id": "1MP7",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-02-18"
+  },
+  {
+    "pdb_id": "1MSY",
+    "method": "X-ray",
+    "resolution": 1.41,
+    "release_date": "2003-02-25"
+  },
+  {
+    "pdb_id": "1MT4",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-01-14"
+  },
+  {
+    "pdb_id": "1MTG",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-10-16"
+  },
+  {
+    "pdb_id": "1MUV",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-12-18"
+  },
+  {
+    "pdb_id": "1MV1",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-12-18"
+  },
+  {
+    "pdb_id": "1MV2",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-12-18"
+  },
+  {
+    "pdb_id": "1MV6",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-12-18"
+  },
+  {
+    "pdb_id": "1MWG",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-03-12"
+  },
+  {
+    "pdb_id": "1MWL",
+    "method": "X-ray",
+    "resolution": 2.4,
+    "release_date": "2003-02-18"
+  },
+  {
+    "pdb_id": "1MXJ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-03-11"
+  },
+  {
+    "pdb_id": "1MXK",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-10-16"
+  },
+  {
+    "pdb_id": "1MY9",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-10-07"
+  },
+  {
+    "pdb_id": "1MYQ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-10-23"
+  },
+  {
+    "pdb_id": "1N0K",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-01-07"
+  },
+  {
+    "pdb_id": "1N0O",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-01-07"
+  },
+  {
+    "pdb_id": "1N14",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-10-23"
+  },
+  {
+    "pdb_id": "1N17",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-10-23"
+  },
+  {
+    "pdb_id": "1N1K",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-10-30"
+  },
+  {
+    "pdb_id": "1N1N",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-10-28"
+  },
+  {
+    "pdb_id": "1N1O",
+    "method": "X-ray",
+    "resolution": 1.2,
+    "release_date": "2002-11-15"
+  },
+  {
+    "pdb_id": "1N2W",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2002-11-13"
+  },
+  {
+    "pdb_id": "1N37",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-01-28"
+  },
+  {
+    "pdb_id": "1N4B",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-11-04"
+  },
+  {
+    "pdb_id": "1N4E",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "2003-02-04"
+  },
+  {
+    "pdb_id": "1N53",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-04-29"
+  },
+  {
+    "pdb_id": "1N5C",
+    "method": "X-ray",
+    "resolution": 1.79,
+    "release_date": "2003-06-03"
+  },
+  {
+    "pdb_id": "1N66",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-08-19"
+  },
+  {
+    "pdb_id": "1N8C",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-02-14"
+  },
+  {
+    "pdb_id": "1N8X",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-04-08"
+  },
+  {
+    "pdb_id": "1N96",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-05-13"
+  },
+  {
+    "pdb_id": "1NA2",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-01-21"
+  },
+  {
+    "pdb_id": "1NAB",
+    "method": "X-ray",
+    "resolution": 2.15,
+    "release_date": "2003-02-25"
+  },
+  {
+    "pdb_id": "1NAJ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-07-08"
+  },
+  {
+    "pdb_id": "1NAO",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-01-27"
+  },
+  {
+    "pdb_id": "1NBK",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-12-03"
+  },
+  {
+    "pdb_id": "1NBR",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-03-04"
+  },
+  {
+    "pdb_id": "1NBS",
+    "method": "X-ray",
+    "resolution": 3.15,
+    "release_date": "2003-02-18"
+  },
+  {
+    "pdb_id": "1NC0",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-02-25"
+  },
+  {
+    "pdb_id": "1NDN",
+    "method": "X-ray",
+    "resolution": 3.0,
+    "release_date": "1992-07-14"
+  },
+  {
+    "pdb_id": "1NEM",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-08-31"
+  },
+  {
+    "pdb_id": "1NEV",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-03-11"
+  },
+  {
+    "pdb_id": "1NGO",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-06-10"
+  },
+  {
+    "pdb_id": "1NGT",
+    "method": "X-ray",
+    "resolution": 2.04,
+    "release_date": "2003-03-04"
+  },
+  {
+    "pdb_id": "1NGU",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-06-10"
+  },
+  {
+    "pdb_id": "1NJN",
+    "method": "X-ray",
+    "resolution": 3.7,
+    "release_date": "2003-02-11"
+  },
+  {
+    "pdb_id": "1NJO",
+    "method": "X-ray",
+    "resolution": 3.7,
+    "release_date": "2003-02-11"
+  },
+  {
+    "pdb_id": "1NLC",
+    "method": "X-ray",
+    "resolution": 1.85,
+    "release_date": "2003-05-13"
+  },
+  {
+    "pdb_id": "1NOQ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-02-11"
+  },
+  {
+    "pdb_id": "1NP5",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-02-11"
+  },
+  {
+    "pdb_id": "1NP9",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-09-16"
+  },
+  {
+    "pdb_id": "1NQS",
+    "method": "X-ray",
+    "resolution": 1.97,
+    "release_date": "2003-02-04"
+  },
+  {
+    "pdb_id": "1NR8",
+    "method": "X-ray",
+    "resolution": 1.66,
+    "release_date": "2003-10-28"
+  },
+  {
+    "pdb_id": "1NT8",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "2003-02-11"
+  },
+  {
+    "pdb_id": "1NTA",
+    "method": "X-ray",
+    "resolution": 2.9,
+    "release_date": "2003-05-13"
+  },
+  {
+    "pdb_id": "1NTB",
+    "method": "X-ray",
+    "resolution": 2.9,
+    "release_date": "2003-05-13"
+  },
+  {
+    "pdb_id": "1NTQ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-06-10"
+  },
+  {
+    "pdb_id": "1NTS",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-06-10"
+  },
+  {
+    "pdb_id": "1NTT",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-06-10"
+  },
+  {
+    "pdb_id": "1NUJ",
+    "method": "X-ray",
+    "resolution": 1.8,
+    "release_date": "2003-08-19"
+  },
+  {
+    "pdb_id": "1NUV",
+    "method": "X-ray",
+    "resolution": 1.81,
+    "release_date": "2003-08-19"
+  },
+  {
+    "pdb_id": "1NVN",
+    "method": "X-ray",
+    "resolution": 1.8,
+    "release_date": "2003-02-25"
+  },
+  {
+    "pdb_id": "1NVY",
+    "method": "X-ray",
+    "resolution": 1.5,
+    "release_date": "2003-02-25"
+  },
+  {
+    "pdb_id": "1NXR",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-07-07"
+  },
+  {
+    "pdb_id": "1NYD",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-02-24"
+  },
+  {
+    "pdb_id": "1NYI",
+    "method": "X-ray",
+    "resolution": 2.85,
+    "release_date": "2004-02-24"
+  },
+  {
+    "pdb_id": "1NZ1",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-05-13"
+  },
+  {
+    "pdb_id": "1NZG",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "2003-08-26"
+  },
+  {
+    "pdb_id": "1NZM",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-11-04"
+  },
+  {
+    "pdb_id": "1O0K",
+    "method": "X-ray",
+    "resolution": 1.17,
+    "release_date": "2003-04-15"
+  },
+  {
+    "pdb_id": "1O15",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-02-18"
+  },
+  {
+    "pdb_id": "1O3Z",
+    "method": "X-ray",
+    "resolution": 2.65,
+    "release_date": "2003-05-27"
+  },
+  {
+    "pdb_id": "1O55",
+    "method": "X-ray",
+    "resolution": 1.04,
+    "release_date": "2003-08-26"
+  },
+  {
+    "pdb_id": "1O56",
+    "method": "X-ray",
+    "resolution": 0.9,
+    "release_date": "2003-08-26"
+  },
+  {
+    "pdb_id": "1O9M",
+    "method": "X-ray",
+    "resolution": 2.4,
+    "release_date": "2003-03-27"
+  },
+  {
+    "pdb_id": "1OCI",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-07-14"
+  },
+  {
+    "pdb_id": "1OFX",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "1993-04-15"
+  },
+  {
+    "pdb_id": "1OKA",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1996-11-08"
+  },
+  {
+    "pdb_id": "1OKF",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-10-09"
+  },
+  {
+    "pdb_id": "1OLD",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-04-21"
+  },
+  {
+    "pdb_id": "1ON5",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-08-05"
+  },
+  {
+    "pdb_id": "1ONM",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-11-04"
+  },
+  {
+    "pdb_id": "1OO7",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-11-11"
+  },
+  {
+    "pdb_id": "1OPQ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-04-27"
+  },
+  {
+    "pdb_id": "1OQ0",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-05-13"
+  },
+  {
+    "pdb_id": "1OQ2",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-04-27"
+  },
+  {
+    "pdb_id": "1OSR",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-10-14"
+  },
+  {
+    "pdb_id": "1OSU",
+    "method": "X-ray",
+    "resolution": 1.4,
+    "release_date": "1996-04-04"
+  },
+  {
+    "pdb_id": "1OMK",
+    "method": "X-ray",
+    "resolution": 1.3,
+    "release_date": "2003-11-04"
+  },
+  {
+    "pdb_id": "1OSW",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-05-20"
+  },
+  {
+    "pdb_id": "1OW9",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-05-20"
+  },
+  {
+    "pdb_id": "1OZ8",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-04-08"
+  },
+  {
+    "pdb_id": "1P0U",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-06-03"
+  },
+  {
+    "pdb_id": "1P1Y",
+    "method": "X-ray",
+    "resolution": 2.1,
+    "release_date": "2004-06-01"
+  },
+  {
+    "pdb_id": "1P20",
+    "method": "X-ray",
+    "resolution": 1.34,
+    "release_date": "2003-05-13"
+  },
+  {
+    "pdb_id": "1P24",
+    "method": "X-ray",
+    "resolution": 3.02,
+    "release_date": "2003-12-09"
+  },
+  {
+    "pdb_id": "1P25",
+    "method": "X-ray",
+    "resolution": 2.9,
+    "release_date": "2003-12-09"
+  },
+  {
+    "pdb_id": "1P26",
+    "method": "X-ray",
+    "resolution": 2.92,
+    "release_date": "2003-12-09"
+  },
+  {
+    "pdb_id": "1P3X",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-05-06"
+  },
+  {
+    "pdb_id": "1P4Y",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "2003-09-02"
+  },
+  {
+    "pdb_id": "1P4Z",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "2003-09-02"
+  },
+  {
+    "pdb_id": "1P54",
+    "method": "X-ray",
+    "resolution": 1.9,
+    "release_date": "2003-09-02"
+  },
+  {
+    "pdb_id": "1P5M",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-11-04"
+  },
+  {
+    "pdb_id": "1P5N",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-11-04"
+  },
+  {
+    "pdb_id": "1P5O",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-11-04"
+  },
+  {
+    "pdb_id": "1P5P",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-11-04"
+  },
+  {
+    "pdb_id": "1P79",
+    "method": "X-ray",
+    "resolution": 1.1,
+    "release_date": "2003-11-04"
+  },
+  {
+    "pdb_id": "1P96",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-08-26"
+  },
+  {
+    "pdb_id": "1P9X",
+    "method": "X-ray",
+    "resolution": 3.4,
+    "release_date": "2003-08-05"
+  },
+  {
+    "pdb_id": "1PBL",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-07-07"
+  },
+  {
+    "pdb_id": "1PBM",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-07-07"
+  },
+  {
+    "pdb_id": "1PBR",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-09-17"
+  },
+  {
+    "pdb_id": "1PDT",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1996-10-14"
+  },
+  {
+    "pdb_id": "1PG9",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-07-06"
+  },
+  {
+    "pdb_id": "1PGC",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-07-06"
+  },
+  {
+    "pdb_id": "1PIB",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-05-18"
+  },
+  {
+    "pdb_id": "1PIK",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-03-12"
+  },
+  {
+    "pdb_id": "1PJG",
+    "method": "X-ray",
+    "resolution": 1.15,
+    "release_date": "2003-12-09"
+  },
+  {
+    "pdb_id": "1PJO",
+    "method": "X-ray",
+    "resolution": 1.1,
+    "release_date": "2003-12-09"
+  },
+  {
+    "pdb_id": "1PJY",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-08-05"
+  },
+  {
+    "pdb_id": "1PLY",
+    "method": "X-ray",
+    "resolution": 3.2,
+    "release_date": "1995-06-03"
+  },
+  {
+    "pdb_id": "1PNN",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1996-03-08"
+  },
+  {
+    "pdb_id": "1PQQ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-06-29"
+  },
+  {
+    "pdb_id": "1PQT",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-07-01"
+  },
+  {
+    "pdb_id": "1PRP",
+    "method": "X-ray",
+    "resolution": 2.1,
+    "release_date": "1994-01-15"
+  },
+  {
+    "pdb_id": "1PUP",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "1997-02-25"
+  },
+  {
+    "pdb_id": "1PUY",
+    "method": "X-ray",
+    "resolution": 1.5,
+    "release_date": "2003-10-14"
+  },
+  {
+    "pdb_id": "1PWF",
+    "method": "X-ray",
+    "resolution": 1.16,
+    "release_date": "2004-07-13"
+  },
+  {
+    "pdb_id": "1PYJ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-04-20"
+  },
+  {
+    "pdb_id": "1Q29",
+    "method": "X-ray",
+    "resolution": 3.0,
+    "release_date": "2004-02-24"
+  },
+  {
+    "pdb_id": "1Q2T",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-09-23"
+  },
+  {
+    "pdb_id": "1Q75",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-12-23"
+  },
+  {
+    "pdb_id": "1Q8N",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-03-23"
+  },
+  {
+    "pdb_id": "1Q93",
+    "method": "X-ray",
+    "resolution": 2.25,
+    "release_date": "2003-11-25"
+  },
+  {
+    "pdb_id": "1Q96",
+    "method": "X-ray",
+    "resolution": 1.75,
+    "release_date": "2003-11-25"
+  },
+  {
+    "pdb_id": "1Q9A",
+    "method": "X-ray",
+    "resolution": 1.04,
+    "release_date": "2003-11-25"
+  },
+  {
+    "pdb_id": "1QBP",
+    "method": "X-ray",
+    "resolution": 2.1,
+    "release_date": "1999-11-26"
+  },
+  {
+    "pdb_id": "1QBY",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-05-06"
+  },
+  {
+    "pdb_id": "1QC0",
+    "method": "X-ray",
+    "resolution": 1.55,
+    "release_date": "1999-11-11"
+  },
+  {
+    "pdb_id": "1QC1",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1999-05-28"
+  },
+  {
+    "pdb_id": "1QC8",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-08-31"
+  },
+  {
+    "pdb_id": "1QCH",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-08-02"
+  },
+  {
+    "pdb_id": "1QCU",
+    "method": "X-ray",
+    "resolution": 1.2,
+    "release_date": "1999-11-11"
+  },
+  {
+    "pdb_id": "1QD3",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-07-12"
+  },
+  {
+    "pdb_id": "1QDA",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "1999-09-15"
+  },
+  {
+    "pdb_id": "1QDF",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1996-11-08"
+  },
+  {
+    "pdb_id": "1QDH",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1996-11-08"
+  },
+  {
+    "pdb_id": "1QDI",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1996-11-08"
+  },
+  {
+    "pdb_id": "1QDK",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1996-11-08"
+  },
+  {
+    "pdb_id": "1QE7",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-02-02"
+  },
+  {
+    "pdb_id": "1QES",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-06-05"
+  },
+  {
+    "pdb_id": "1QET",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-06-05"
+  },
+  {
+    "pdb_id": "1QKG",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-05-11"
+  },
+  {
+    "pdb_id": "1QL5",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-04-10"
+  },
+  {
+    "pdb_id": "1QMS",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-10-12"
+  },
+  {
+    "pdb_id": "1QP5",
+    "method": "X-ray",
+    "resolution": 2.6,
+    "release_date": "1999-06-14"
+  },
+  {
+    "pdb_id": "1QPH",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "1999-05-27"
+  },
+  {
+    "pdb_id": "1QPY",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "2001-02-21"
+  },
+  {
+    "pdb_id": "1QSK",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-11-05"
+  },
+  {
+    "pdb_id": "1QSX",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2000-02-07"
+  },
+  {
+    "pdb_id": "1QV4",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "2004-09-07"
+  },
+  {
+    "pdb_id": "1QV8",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "2004-09-07"
+  },
+  {
+    "pdb_id": "1QWA",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-11-25"
+  },
+  {
+    "pdb_id": "1QWB",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-11-25"
+  },
+  {
+    "pdb_id": "1QXB",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-02-03"
+  },
+  {
+    "pdb_id": "1QYK",
+    "method": "X-ray",
+    "resolution": 1.4,
+    "release_date": "2003-10-21"
+  },
+  {
+    "pdb_id": "1QYL",
+    "method": "X-ray",
+    "resolution": 1.0,
+    "release_date": "2003-10-21"
+  },
+  {
+    "pdb_id": "1QZA",
+    "method": "Other",
+    "resolution": 10.0,
+    "release_date": "2003-11-04"
+  },
+  {
+    "pdb_id": "1QZB",
+    "method": "Other",
+    "resolution": 9.0,
+    "release_date": "2003-11-04"
+  },
+  {
+    "pdb_id": "1QZL",
+    "method": "X-ray",
+    "resolution": 2.85,
+    "release_date": "2003-10-21"
+  },
+  {
+    "pdb_id": "1R2L",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-10-12"
+  },
+  {
+    "pdb_id": "1R2O",
+    "method": "X-ray",
+    "resolution": 2.38,
+    "release_date": "2003-10-21"
+  },
+  {
+    "pdb_id": "1R2P",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-02-03"
+  },
+  {
+    "pdb_id": "1R3G",
+    "method": "X-ray",
+    "resolution": 1.16,
+    "release_date": "2003-10-21"
+  },
+  {
+    "pdb_id": "1R3O",
+    "method": "X-ray",
+    "resolution": 1.9,
+    "release_date": "2003-12-23"
+  },
+  {
+    "pdb_id": "1R3X",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-05-20"
+  },
+  {
+    "pdb_id": "1R3Z",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "2003-12-23"
+  },
+  {
+    "pdb_id": "1R41",
+    "method": "X-ray",
+    "resolution": 1.9,
+    "release_date": "2003-12-23"
+  },
+  {
+    "pdb_id": "1R4D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-10-21"
+  },
+  {
+    "pdb_id": "1R4E",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-04-27"
+  },
+  {
+    "pdb_id": "1R4H",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-10-19"
+  },
+  {
+    "pdb_id": "1R68",
+    "method": "X-ray",
+    "resolution": 1.2,
+    "release_date": "2005-02-22"
+  },
+  {
+    "pdb_id": "1R7W",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-05-25"
+  },
+  {
+    "pdb_id": "1R7Z",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-05-25"
+  },
+  {
+    "pdb_id": "1RAU",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1994-01-31"
+  },
+  {
+    "pdb_id": "1RAW",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-01-27"
+  },
+  {
+    "pdb_id": "1RDE",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2003-11-11"
+  },
+  {
+    "pdb_id": "1RFR",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-03-23"
+  },
+  {
+    "pdb_id": "1RHT",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1995-06-03"
+  },
+  {
+    "pdb_id": "1RME",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-01-11"
+  },
+  {
+    "pdb_id": "1RMN",
+    "method": "Other",
+    "resolution": null,
+    "release_date": "1995-01-26"
+  },
+  {
+    "pdb_id": "1RMX",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-08-24"
+  },
+  {
+    "pdb_id": "1RN9",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-08-24"
+  },
+  {
+    "pdb_id": "1RNA",
+    "method": "X-ray",
+    "resolution": 2.25,
+    "release_date": "1991-04-15"
+  },
+  {
+    "pdb_id": "1RNG",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1995-12-07"
+  },
+  {
+    "pdb_id": "1RNK",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1995-02-27"
+  },
+  {
+    "pdb_id": "1ROQ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-05-18"
+  },
+  {
+    "pdb_id": "1RQY",
+    "method": "X-ray",
+    "resolution": 1.55,
+    "release_date": "2004-05-11"
+  },
+  {
+    "pdb_id": "1RRD",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-04-22"
+  },
+  {
+    "pdb_id": "1RRR",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-04-22"
+  },
+  {
+    "pdb_id": "1RRU",
+    "method": "X-ray",
+    "resolution": 2.35,
+    "release_date": "2004-01-13"
+  },
+  {
+    "pdb_id": "1RSB",
+    "method": "X-ray",
+    "resolution": 2.17,
+    "release_date": "2004-05-25"
+  },
+  {
+    "pdb_id": "1RVH",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-02-10"
+  },
+  {
+    "pdb_id": "1RVI",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-02-10"
+  },
+  {
+    "pdb_id": "1RXA",
+    "method": "X-ray",
+    "resolution": 2.9,
+    "release_date": "1996-10-20"
+  },
+  {
+    "pdb_id": "1RXB",
+    "method": "X-ray",
+    "resolution": 1.8,
+    "release_date": "1996-08-26"
+  },
+  {
+    "pdb_id": "1S0T",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-04-20"
+  },
+  {
+    "pdb_id": "1S1K",
+    "method": "X-ray",
+    "resolution": 1.9,
+    "release_date": "2004-08-31"
+  },
+  {
+    "pdb_id": "1S1L",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "2004-08-31"
+  },
+  {
+    "pdb_id": "1S23",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "2004-04-06"
+  },
+  {
+    "pdb_id": "1S2F",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-08-31"
+  },
+  {
+    "pdb_id": "1S2R",
+    "method": "X-ray",
+    "resolution": 1.53,
+    "release_date": "2005-01-04"
+  },
+  {
+    "pdb_id": "1S34",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-08-31"
+  },
+  {
+    "pdb_id": "1S37",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2005-01-25"
+  },
+  {
+    "pdb_id": "1S45",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "2004-02-24"
+  },
+  {
+    "pdb_id": "1S47",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "2004-02-24"
+  },
+  {
+    "pdb_id": "1S74",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-04-20"
+  },
+  {
+    "pdb_id": "1S75",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-04-20"
+  },
+  {
+    "pdb_id": "1S88",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-05-25"
+  },
+  {
+    "pdb_id": "1S9B",
+    "method": "X-ray",
+    "resolution": 2.81,
+    "release_date": "2004-09-07"
+  },
+  {
+    "pdb_id": "1S9L",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-06-29"
+  },
+  {
+    "pdb_id": "1S9N",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2005-06-21"
+  },
+  {
+    "pdb_id": "1S9O",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2005-11-01"
+  },
+  {
+    "pdb_id": "1S9S",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-04-06"
+  },
+  {
+    "pdb_id": "1SA9",
+    "method": "X-ray",
+    "resolution": 2.86,
+    "release_date": "2004-05-18"
+  },
+  {
+    "pdb_id": "1SAA",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-11-12"
+  },
+  {
+    "pdb_id": "1SAQ",
+    "method": "X-ray",
+    "resolution": 2.7,
+    "release_date": "2004-05-18"
+  },
+  {
+    "pdb_id": "1SCL",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1995-01-26"
+  },
+  {
+    "pdb_id": "1SDR",
+    "method": "X-ray",
+    "resolution": 2.6,
+    "release_date": "1995-02-27"
+  },
+  {
+    "pdb_id": "1SGS",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "2004-03-23"
+  },
+  {
+    "pdb_id": "1SJK",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-12-03"
+  },
+  {
+    "pdb_id": "1SJL",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-12-03"
+  },
+  {
+    "pdb_id": "1SK5",
+    "method": "X-ray",
+    "resolution": 0.89,
+    "release_date": "2005-06-21"
+  },
+  {
+    "pdb_id": "1SKP",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-01-13"
+  },
+  {
+    "pdb_id": "1SLO",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1996-12-07"
+  },
+  {
+    "pdb_id": "1SLP",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-04-21"
+  },
+  {
+    "pdb_id": "1SLS",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-04-08"
+  },
+  {
+    "pdb_id": "1SM5",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "2004-05-25"
+  },
+  {
+    "pdb_id": "1SNH",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-05-18"
+  },
+  {
+    "pdb_id": "1SNJ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2005-04-05"
+  },
+  {
+    "pdb_id": "1SP6",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-06-01"
+  },
+  {
+    "pdb_id": "1SS7",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-12-07"
+  },
+  {
+    "pdb_id": "1SSJ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-06-01"
+  },
+  {
+    "pdb_id": "1SSV",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-12-07"
+  },
+  {
+    "pdb_id": "1SY4",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-04-06"
+  },
+  {
+    "pdb_id": "1SY8",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2005-01-04"
+  },
+  {
+    "pdb_id": "1SYZ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-11-09"
+  },
+  {
+    "pdb_id": "1SZY",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-04-20"
+  },
+  {
+    "pdb_id": "1T0D",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "2004-06-15"
+  },
+  {
+    "pdb_id": "1T0E",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "2004-06-15"
+  },
+  {
+    "pdb_id": "1T1O",
+    "method": "Other",
+    "resolution": 12.0,
+    "release_date": "2004-06-15"
+  },
+  {
+    "pdb_id": "1T28",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-08-10"
+  },
+  {
+    "pdb_id": "1T4I",
+    "method": "X-ray",
+    "resolution": 2.5,
+    "release_date": "2004-05-25"
+  },
+  {
+    "pdb_id": "1T4X",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-08-03"
+  },
+  {
+    "pdb_id": "1TAN",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-09-17"
+  },
+  {
+    "pdb_id": "1TBK",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2005-03-01"
+  },
+  {
+    "pdb_id": "1TFN",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-02-12"
+  },
+  {
+    "pdb_id": "1TJZ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-09-28"
+  },
+  {
+    "pdb_id": "1TLR",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-11-12"
+  },
+  {
+    "pdb_id": "1TN1",
+    "method": "X-ray",
+    "resolution": 3.0,
+    "release_date": "1987-01-15"
+  },
+  {
+    "pdb_id": "1TN2",
+    "method": "X-ray",
+    "resolution": 3.0,
+    "release_date": "1986-10-24"
+  },
+  {
+    "pdb_id": "1TNE",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1996-07-11"
+  },
+  {
+    "pdb_id": "1TOB",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-06-16"
+  },
+  {
+    "pdb_id": "1TQR",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2005-04-19"
+  },
+  {
+    "pdb_id": "1TRA",
+    "method": "X-ray",
+    "resolution": 3.0,
+    "release_date": "1986-07-14"
+  },
+  {
+    "pdb_id": "1TTD",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-02-02"
+  },
+  {
+    "pdb_id": "1TUQ",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-10-05"
+  },
+  {
+    "pdb_id": "1TUT",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-12-28"
+  },
+  {
+    "pdb_id": "1TXS",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-10-05"
+  },
+  {
+    "pdb_id": "1U01",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2005-05-31"
+  },
+  {
+    "pdb_id": "1U2A",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1998-03-04"
+  },
+  {
+    "pdb_id": "1U3K",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2005-07-12"
+  },
+  {
+    "pdb_id": "1U64",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-10-26"
+  },
+  {
+    "pdb_id": "1U6C",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-08-17"
+  },
+  {
+    "pdb_id": "1U6N",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-08-10"
+  },
+  {
+    "pdb_id": "1U6O",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-08-10"
+  },
+  {
+    "pdb_id": "1U9S",
+    "method": "X-ray",
+    "resolution": 2.9,
+    "release_date": "2004-10-26"
+  },
+  {
+    "pdb_id": "1UAB",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2004-04-27"
+  },
+  {
+    "pdb_id": "1UB8",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "2004-03-09"
+  },
+  {
+    "pdb_id": "1UE2",
+    "method": "X-ray",
+    "resolution": 1.4,
+    "release_date": "2004-01-13"
+  },
+  {
+    "pdb_id": "1UE3",
+    "method": "X-ray",
+    "resolution": 2.15,
+    "release_date": "2004-01-13"
+  },
+  {
+    "pdb_id": "1UE4",
+    "method": "X-ray",
+    "resolution": 1.65,
+    "release_date": "2004-03-09"
+  },
+  {
+    "pdb_id": "1UHX",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "2004-02-03"
+  },
+  {
+    "pdb_id": "1UHY",
+    "method": "X-ray",
+    "resolution": 1.7,
+    "release_date": "2004-02-03"
+  },
+  {
+    "pdb_id": "1UQA",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-01-27"
+  },
+  {
+    "pdb_id": "1UQB",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-01-27"
+  },
+  {
+    "pdb_id": "1UQC",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-01-27"
+  },
+  {
+    "pdb_id": "1UQD",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-01-27"
+  },
+  {
+    "pdb_id": "1UQE",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1997-01-27"
   }
 ]
