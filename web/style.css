@@ -1,4 +1,3 @@
-/* --- Base Styles --- */
 * {
     box-sizing: border-box;
 }
@@ -12,7 +11,6 @@ body {
     line-height: 1.4;
 }
 
-/* 全てのテキストを黒に統一 */
 h1, h2, h3, h4, p, th, td, label, div, span, input, select, button {
     color: #000000 !important;
     font-family: Arial, Helvetica, sans-serif !important;
@@ -30,7 +28,6 @@ header h1 {
     letter-spacing: 1px;
 }
 
-/* --- Toolbar --- */
 .toolbar {
     margin-bottom: 20px;
     display: flex;
@@ -60,7 +57,6 @@ header h1 {
     color: #ffffff !important;
 }
 
-/* --- Table Styles --- */
 .table-container {
     width: 100%;
     overflow-x: auto;
@@ -84,7 +80,7 @@ th, td {
 
 th {
     background-color: #f2f2f2;
-    text-transform: none; /* 大文字強制を解除 */
+    text-transform: none;
     font-size: 13px;
     white-space: nowrap;
     position: sticky;
@@ -92,7 +88,6 @@ th {
     z-index: 10;
 }
 
-/* カラム幅の制御用クラス */
 .pdb-id, .links-cell, .method-cell, .res-cell, .assembly-cell, .purified-cell, .release-date-cell {
     width: 1%; 
     white-space: nowrap; 
@@ -104,7 +99,6 @@ th {
 .sortable { cursor: pointer; }
 .sortable:hover { background-color: #e0e0e0; }
 
-/* --- Button-style Links --- */
 .btn-link-sm {
     display: inline-block;
     padding: 3px 8px;
@@ -133,7 +127,6 @@ th {
     border: 1px solid #000000;
 }
 
-/* --- Sequence Display (Full Height, No Scroll) --- */
 .chain-sequence-container {
     width: 100%;
 }
@@ -162,7 +155,6 @@ th {
     white-space: pre-wrap;
 }
 
-/* --- Modal & 5-Column Grid --- */
 .modal {
     position: fixed;
     top: 0; left: 0; width: 100%; height: 100%;
@@ -183,7 +175,7 @@ th {
     max-height: 85vh;
     overflow-y: auto;
     border: 4px solid #000000;
-    position: relative; /* ×ボタンの絶対配置の基準 */
+    position: relative; 
 }
 
 .modal-header {
@@ -192,7 +184,6 @@ th {
     padding-bottom: 10px;
 }
 
-/* 右上角の×ボタン */
 .close-btn {
     position: absolute;
     top: 10px;
