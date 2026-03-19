@@ -1,0 +1,32 @@
+[
+  {
+    "pdb_id": "101D",
+    "method": "X-ray",
+    "resolution": 2.25,
+    "release_date": "1995-02-27"
+  },
+  {
+    "pdb_id": "102D",
+    "method": "X-ray",
+    "resolution": 2.2,
+    "release_date": "1995-02-07"
+  },
+  {
+    "pdb_id": "103D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1995-03-31"
+  },
+  {
+    "pdb_id": "105D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1995-02-07"
+  },
+  {
+    "pdb_id": "106D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1995-02-07"
+  }
+]
