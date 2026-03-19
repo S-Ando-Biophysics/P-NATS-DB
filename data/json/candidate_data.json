@@ -28,5 +28,23 @@
     "method": "NMR",
     "resolution": null,
     "release_date": "1995-02-07"
+  },
+  {
+    "pdb_id": "107D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1995-05-08"
+  },
+  {
+    "pdb_id": "108D",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1995-06-03"
+  },
+  {
+    "pdb_id": "109D",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "1995-05-08"
   }
 ]
