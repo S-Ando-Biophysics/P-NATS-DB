@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   try {
 
-    const response = await fetch("../data/json/entries_final.json");
+    const response = await fetch("./data/json/entries_final.json");
     if (!response.ok) throw new Error("Failed to load entries_final.json");
     const data = await response.json();
     allEntries = Array.isArray(data) ? data : (data.entries || []);
@@ -197,7 +197,7 @@ async function handleAssemblyChange(e, entry, tr) {
   fetchControllers.set(pdbId, controller);
 
   try {
-    const response = await fetch(`../data/json/entries/${pdbId}.json`, { signal: controller.signal });
+    const response = await fetch(`./data/json/entries/${pdbId}.json`, { signal: controller.signal });
     if (!response.ok) throw new Error("Fetch failed");
     const detail = await response.json();
     const assembly = detail.assemblies.find(a => a.assembly_id === newId);
@@ -222,7 +222,7 @@ function updatePurifiedLink(container, path) {
   if (path) {
     const btn = document.createElement("a");
     btn.className = "btn-link";
-    btn.href = `../${path}`;
+    btn.href = `./${path}`;
     btn.download = "";
     btn.textContent = "Download";
     container.appendChild(btn);
