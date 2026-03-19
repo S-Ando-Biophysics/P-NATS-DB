@@ -1,0 +1,72 @@
+{
+  "pdb_id": "9D31",
+  "method": "X-ray",
+  "resolution": 6.53,
+  "release_date": "2025-08-13",
+  "rcsb_url": "https://www.rcsb.org/structure/9D31",
+  "nakb_url": "https://nakb.org/atlas=9D31",
+  "view_structure_url": "https://pdbj.org/molmil2/#fetch%209D31;%20hide%20cartoon,%20all;%20show%20sticks,%20all;%20hide%20sticks,%20hydro;%20orient%20all;%20color%20orange,%20resn%20A;%20color%20cyan,%20resn%20G;%20color%20green,%20resn%20C;%20color%20purple,%20resn%20U;%20color%20orange,%20resn%20DA;%20color%20cyan,%20resn%20DG;%20color%20green,%20resn%20DC;%20color%20purple,%20resn%20DT;%20color%20red,%20symbol%20O;%20color%20blue,%20symbol%20N;%20show%20cartoon,%20resn%20ALA;%20show%20cartoon,%20resn%20ARG;%20show%20cartoon,%20resn%20ASN;%20show%20cartoon,%20resn%20ASP;%20show%20cartoon,%20resn%20CYS;%20show%20cartoon,%20resn%20GLN;%20show%20cartoon,%20resn%20GLU;%20show%20cartoon,%20resn%20GLY;%20show%20cartoon,%20resn%20HIS;%20show%20cartoon,%20resn%20ILE;%20show%20cartoon,%20resn%20LEU;%20show%20cartoon,%20resn%20LYS;%20show%20cartoon,%20resn%20MET;%20show%20cartoon,%20resn%20PHE;%20show%20cartoon,%20resn%20PRO;%20show%20cartoon,%20resn%20SER;%20show%20cartoon,%20resn%20THR;%20show%20cartoon,%20resn%20TRP;%20show%20cartoon,%20resn%20TYR;%20show%20cartoon,%20resn%20VAL;",
+  "assemblies": [
+    {
+      "assembly_id": 1,
+      "na_info": "more than two strands",
+      "chains": [
+        {
+          "chain_id": "A",
+          "na_type": "DNA",
+          "sequence": "GAGCAGCCTGTgTGGACATCA",
+          "length": 21
+        },
+        {
+          "chain_id": "B",
+          "na_type": "DNA",
+          "sequence": "CCAtACA",
+          "length": 7
+        },
+        {
+          "chain_id": "C",
+          "na_type": "DNA",
+          "sequence": "GGCTGCT",
+          "length": 7
+        },
+        {
+          "chain_id": "D",
+          "na_type": "DNA",
+          "sequence": "CTGATGT",
+          "length": 7
+        }
+      ],
+      "purified_structure": "data/purified_pdb/9D31-1-Purified.pdb"
+    }
+  ],
+  "representative_assembly_id": 1,
+  "na_info": "more than two strands",
+  "chains": [
+    {
+      "chain_id": "A",
+      "na_type": "DNA",
+      "sequence": "GAGCAGCCTGTgTGGACATCA",
+      "length": 21
+    },
+    {
+      "chain_id": "B",
+      "na_type": "DNA",
+      "sequence": "CCAtACA",
+      "length": 7
+    },
+    {
+      "chain_id": "C",
+      "na_type": "DNA",
+      "sequence": "GGCTGCT",
+      "length": 7
+    },
+    {
+      "chain_id": "D",
+      "na_type": "DNA",
+      "sequence": "CTGATGT",
+      "length": 7
+    }
+  ],
+  "purified_structure": "data/purified_pdb/9D31-1-Purified.pdb",
+  "json_path": "data/json/entries/9D31.json"
+}

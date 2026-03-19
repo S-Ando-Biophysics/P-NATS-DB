@@ -1,0 +1,15 @@
+{
+  "pdb_id": "7Z7Z",
+  "method": "X-ray",
+  "resolution": 2.9,
+  "release_date": "2023-03-29",
+  "rcsb_url": "https://www.rcsb.org/structure/7Z7Z",
+  "nakb_url": "https://nakb.org/atlas=7Z7Z",
+  "view_structure_url": "https://pdbj.org/molmil2/#fetch%207Z7Z;%20hide%20cartoon,%20all;%20show%20sticks,%20all;%20hide%20sticks,%20hydro;%20orient%20all;%20color%20orange,%20resn%20A;%20color%20cyan,%20resn%20G;%20color%20green,%20resn%20C;%20color%20purple,%20resn%20U;%20color%20orange,%20resn%20DA;%20color%20cyan,%20resn%20DG;%20color%20green,%20resn%20DC;%20color%20purple,%20resn%20DT;%20color%20red,%20symbol%20O;%20color%20blue,%20symbol%20N;%20show%20cartoon,%20resn%20ALA;%20show%20cartoon,%20resn%20ARG;%20show%20cartoon,%20resn%20ASN;%20show%20cartoon,%20resn%20ASP;%20show%20cartoon,%20resn%20CYS;%20show%20cartoon,%20resn%20GLN;%20show%20cartoon,%20resn%20GLU;%20show%20cartoon,%20resn%20GLY;%20show%20cartoon,%20resn%20HIS;%20show%20cartoon,%20resn%20ILE;%20show%20cartoon,%20resn%20LEU;%20show%20cartoon,%20resn%20LYS;%20show%20cartoon,%20resn%20MET;%20show%20cartoon,%20resn%20PHE;%20show%20cartoon,%20resn%20PRO;%20show%20cartoon,%20resn%20SER;%20show%20cartoon,%20resn%20THR;%20show%20cartoon,%20resn%20TRP;%20show%20cartoon,%20resn%20TYR;%20show%20cartoon,%20resn%20VAL;",
+  "assemblies": [],
+  "representative_assembly_id": null,
+  "na_info": "N/A",
+  "chains": [],
+  "purified_structure": "",
+  "json_path": "data/json/entries/7Z7Z.json"
+}
