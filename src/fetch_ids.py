@@ -146,7 +146,7 @@ def main() -> None:
     pdb_ids = search_pdb_ids()
     
     # Only When testing (limitation of number) --> Comment out
-    pdb_ids = pdb_ids[:5]
+    pdb_ids = pdb_ids[:100]
     
     print(f"Found {len(pdb_ids)} entries for processing.")
     
