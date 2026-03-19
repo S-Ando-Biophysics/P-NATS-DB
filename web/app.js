@@ -1,23 +1,15 @@
-/**
- * P-NATS Database Viewer
- * Version: 4.3
- * Features: Static Filter Logic, Fuzzy NA Type matching, 
- * Support for X-ray, NMR, EM, Neutron, Other categories.
- */
-
 let allEntries = [];
 let filteredEntries = [];
 let sortState = { key: null, direction: 'asc' };
 const fetchControllers = new Map();
 
 document.addEventListener("DOMContentLoaded", async () => {
-  // Selectors
+
   const tableBody = document.querySelector("#entryTable tbody");
   const searchBox = document.getElementById("searchBox");
   const sortRes = document.getElementById("sortRes");
   const sortDate = document.getElementById("sortDate");
 
-  // Modal Selectors
   const filterModal = document.getElementById("filterModal");
   const openFilterBtn = document.getElementById("openFilterBtn");
   const closeFilterBtn = document.getElementById("closeFilterBtn");
@@ -28,14 +20,13 @@ document.addEventListener("DOMContentLoaded", async () => {
   if (!tableBody) return;
 
   try {
-    // 1. Fetch data
+
     const response = await fetch("../data/json/entries_final.json");
     if (!response.ok) throw new Error("Failed to load entries_final.json");
     const data = await response.json();
     allEntries = Array.isArray(data) ? data : (data.entries || []);
     filteredEntries = [...allEntries];
 
-    // 2. Setup Method Filter with specified order
     const methodOrder = ["X-ray", "NMR", "EM", "Neutron", "Other"]; 
     const foundMethods = [...new Set(allEntries.map(e => e.method).filter(Boolean))];
     
@@ -53,10 +44,8 @@ document.addEventListener("DOMContentLoaded", async () => {
       ).join("");
     }
 
-    // 3. Initial Render
     renderTable(filteredEntries, tableBody);
 
-    // 4. Events
     if (searchBox) {
       searchBox.addEventListener("input", () => {
         applyAllFilters();
@@ -93,9 +82,6 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 });
 
-/**
- * Enhanced filtering logic to handle complex NA labels
- */
 function applyAllFilters() {
   const searchBox = document.getElementById("searchBox");
   const query = searchBox ? searchBox.value.toLowerCase() : "";
@@ -106,8 +92,6 @@ function applyAllFilters() {
     const naInfo = entry.na_info || "";
     const matchesSearch = entry.pdb_id.toLowerCase().includes(query);
     const matchesMethod = selectedMethods.length === 0 || selectedMethods.includes(entry.method);
-    
-    // Exact match for NA types based on checkbox values
     const matchesNA = selectedNATypes.length === 0 || selectedNATypes.includes(naInfo);
 
     return matchesSearch && matchesMethod && matchesNA;
@@ -118,9 +102,6 @@ function applyAllFilters() {
   }
 }
 
-/**
- * Handle UI sorting interactions
- */
 function handleSort(key, element) {
   if (sortState.key === key) {
     sortState.direction = sortState.direction === 'asc' ? 'desc' : 'asc';
@@ -151,9 +132,6 @@ function sortData(key, direction) {
   });
 }
 
-/**
- * Render the table rows
- */
 function renderTable(entries, container) {
   if (!container) return;
   container.innerHTML = "";
