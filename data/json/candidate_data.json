@@ -1128,6 +1128,12 @@
     "release_date": "1999-04-27"
   },
   {
+    "pdb_id": "1BZU",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "1999-04-27"
+  },
+  {
     "pdb_id": "1C0O",
     "method": "NMR",
     "resolution": null,
@@ -1192,12 +1198,6 @@
     "method": "NMR",
     "resolution": null,
     "release_date": "2000-08-09"
-  },
-  {
-    "pdb_id": "1BZU",
-    "method": "NMR",
-    "resolution": null,
-    "release_date": "1999-04-27"
   },
   {
     "pdb_id": "1C95",
@@ -6492,6 +6492,12 @@
     "release_date": "2004-12-14"
   },
   {
+    "pdb_id": "1XUX",
+    "method": "X-ray",
+    "resolution": 1.3,
+    "release_date": "2004-12-14"
+  },
+  {
     "pdb_id": "1XV0",
     "method": "NMR",
     "resolution": null,
@@ -6592,12 +6598,6 @@
     "method": "X-ray",
     "resolution": 1.5,
     "release_date": "2005-06-28"
-  },
-  {
-    "pdb_id": "1XUX",
-    "method": "X-ray",
-    "resolution": 1.3,
-    "release_date": "2004-12-14"
   },
   {
     "pdb_id": "1Y8V",
@@ -7056,6 +7056,12 @@
     "release_date": "1997-03-12"
   },
   {
+    "pdb_id": "1ZJE",
+    "method": "X-ray",
+    "resolution": 2.1,
+    "release_date": "2005-05-10"
+  },
+  {
     "pdb_id": "1ZJF",
     "method": "X-ray",
     "resolution": 2.2,
@@ -7192,12 +7198,6 @@
     "method": "X-ray",
     "resolution": 1.9,
     "release_date": "1996-01-31"
-  },
-  {
-    "pdb_id": "1ZJE",
-    "method": "X-ray",
-    "resolution": 2.1,
-    "release_date": "2005-05-10"
   },
   {
     "pdb_id": "213D",
@@ -7512,6 +7512,12 @@
     "release_date": "1996-08-28"
   },
   {
+    "pdb_id": "272D",
+    "method": "X-ray",
+    "resolution": 2.0,
+    "release_date": "1996-09-20"
+  },
+  {
     "pdb_id": "274D",
     "method": "X-ray",
     "resolution": 2.3,
@@ -7540,6 +7546,12 @@
     "method": "X-ray",
     "resolution": 1.8,
     "release_date": "1996-09-16"
+  },
+  {
+    "pdb_id": "279D",
+    "method": "X-ray",
+    "resolution": 1.9,
+    "release_date": "1996-06-27"
   },
   {
     "pdb_id": "280D",
@@ -7786,18 +7798,6 @@
     "method": "NMR",
     "resolution": null,
     "release_date": "2006-09-05"
-  },
-  {
-    "pdb_id": "279D",
-    "method": "X-ray",
-    "resolution": 1.9,
-    "release_date": "1996-06-27"
-  },
-  {
-    "pdb_id": "272D",
-    "method": "X-ray",
-    "resolution": 2.0,
-    "release_date": "1996-09-20"
   },
   {
     "pdb_id": "2AQY",
@@ -8646,6 +8646,12 @@
     "release_date": "2007-06-19"
   },
   {
+    "pdb_id": "2GYX",
+    "method": "X-ray",
+    "resolution": 1.86,
+    "release_date": "2007-05-22"
+  },
+  {
     "pdb_id": "2H05",
     "method": "X-ray",
     "resolution": 1.8,
@@ -8992,12 +8998,6 @@
     "method": "NMR",
     "resolution": null,
     "release_date": "2007-08-07"
-  },
-  {
-    "pdb_id": "2GYX",
-    "method": "X-ray",
-    "resolution": 1.86,
-    "release_date": "2007-05-22"
   },
   {
     "pdb_id": "2JSK",
@@ -12396,6 +12396,12 @@
     "release_date": "1998-10-06"
   },
   {
+    "pdb_id": "399D",
+    "method": "X-ray",
+    "resolution": 1.9,
+    "release_date": "1999-01-18"
+  },
+  {
     "pdb_id": "3A3A",
     "method": "X-ray",
     "resolution": 3.1,
@@ -12592,12 +12598,6 @@
     "method": "X-ray",
     "resolution": 2.2,
     "release_date": "2008-09-23"
-  },
-  {
-    "pdb_id": "399D",
-    "method": "X-ray",
-    "resolution": 1.9,
-    "release_date": "1999-01-18"
   },
   {
     "pdb_id": "3CDM",
@@ -17184,6 +17184,12 @@
     "release_date": "2016-05-18"
   },
   {
+    "pdb_id": "5EZF",
+    "method": "X-ray",
+    "resolution": 1.65,
+    "release_date": "2016-05-18"
+  },
+  {
     "pdb_id": "5F26",
     "method": "X-ray",
     "resolution": 3.0,
@@ -17392,12 +17398,6 @@
     "method": "X-ray",
     "resolution": 5.123,
     "release_date": "2017-01-18"
-  },
-  {
-    "pdb_id": "5EZF",
-    "method": "X-ray",
-    "resolution": 1.65,
-    "release_date": "2016-05-18"
   },
   {
     "pdb_id": "5I4S",
