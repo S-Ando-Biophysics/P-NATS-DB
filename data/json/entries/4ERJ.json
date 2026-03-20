@@ -18,7 +18,7 @@
           "length": 161
         }
       ],
-      "purified_structure": "data/purified_pdb/4ERJ-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2012/4ERJ-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -31,6 +31,6 @@
       "length": 161
     }
   ],
-  "purified_structure": "data/purified_pdb/4ERJ-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2012/4ERJ-1-Purified.pdb",
   "json_path": "data/json/entries/4ERJ.json"
 }

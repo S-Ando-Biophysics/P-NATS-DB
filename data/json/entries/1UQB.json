@@ -24,7 +24,7 @@
           "length": 6
         }
       ],
-      "purified_structure": "data/purified_pdb/1UQB-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/1997/1UQB-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -43,6 +43,6 @@
       "length": 6
     }
   ],
-  "purified_structure": "data/purified_pdb/1UQB-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/1997/1UQB-1-Purified.pdb",
   "json_path": "data/json/entries/1UQB.json"
 }

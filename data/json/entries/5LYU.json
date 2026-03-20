@@ -18,7 +18,7 @@
           "length": 58
         }
       ],
-      "purified_structure": "data/purified_pdb/5LYU-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2017/5LYU-1-Purified.pdb"
     },
     {
       "assembly_id": 2,
@@ -31,7 +31,7 @@
           "length": 58
         }
       ],
-      "purified_structure": "data/purified_pdb/5LYU-2-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2017/5LYU-2-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -44,6 +44,6 @@
       "length": 58
     }
   ],
-  "purified_structure": "data/purified_pdb/5LYU-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2017/5LYU-1-Purified.pdb",
   "json_path": "data/json/entries/5LYU.json"
 }

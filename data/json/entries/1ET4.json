@@ -18,7 +18,7 @@
           "length": 35
         }
       ],
-      "purified_structure": "data/purified_pdb/1ET4-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2000/1ET4-1-Purified.pdb"
     },
     {
       "assembly_id": 2,
@@ -31,7 +31,7 @@
           "length": 35
         }
       ],
-      "purified_structure": "data/purified_pdb/1ET4-2-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2000/1ET4-2-Purified.pdb"
     },
     {
       "assembly_id": 3,
@@ -44,7 +44,7 @@
           "length": 35
         }
       ],
-      "purified_structure": "data/purified_pdb/1ET4-3-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2000/1ET4-3-Purified.pdb"
     },
     {
       "assembly_id": 4,
@@ -57,7 +57,7 @@
           "length": 35
         }
       ],
-      "purified_structure": "data/purified_pdb/1ET4-4-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2000/1ET4-4-Purified.pdb"
     },
     {
       "assembly_id": 5,
@@ -70,7 +70,7 @@
           "length": 35
         }
       ],
-      "purified_structure": "data/purified_pdb/1ET4-5-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2000/1ET4-5-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -83,6 +83,6 @@
       "length": 35
     }
   ],
-  "purified_structure": "data/purified_pdb/1ET4-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2000/1ET4-1-Purified.pdb",
   "json_path": "data/json/entries/1ET4.json"
 }

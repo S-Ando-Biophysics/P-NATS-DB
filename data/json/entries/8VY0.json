@@ -30,7 +30,7 @@
           "length": 36
         }
       ],
-      "purified_structure": "data/purified_pdb/8VY0-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2025/8VY0-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -55,6 +55,6 @@
       "length": 36
     }
   ],
-  "purified_structure": "data/purified_pdb/8VY0-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2025/8VY0-1-Purified.pdb",
   "json_path": "data/json/entries/8VY0.json"
 }

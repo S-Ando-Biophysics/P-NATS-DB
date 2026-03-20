@@ -30,7 +30,7 @@
           "length": 7
         }
       ],
-      "purified_structure": "data/purified_pdb/9NK5-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2025/9NK5-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -55,6 +55,6 @@
       "length": 7
     }
   ],
-  "purified_structure": "data/purified_pdb/9NK5-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2025/9NK5-1-Purified.pdb",
   "json_path": "data/json/entries/9NK5.json"
 }

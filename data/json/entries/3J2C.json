@@ -30,7 +30,7 @@
           "length": 144
         }
       ],
-      "purified_structure": "data/purified_pdb/3J2C-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2013/3J2C-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -55,6 +55,6 @@
       "length": 144
     }
   ],
-  "purified_structure": "data/purified_pdb/3J2C-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2013/3J2C-1-Purified.pdb",
   "json_path": "data/json/entries/3J2C.json"
 }

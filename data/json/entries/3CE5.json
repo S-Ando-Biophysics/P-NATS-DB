@@ -24,7 +24,7 @@
           "length": 12
         }
       ],
-      "purified_structure": "data/purified_pdb/3CE5-2-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2008/3CE5-2-Purified.pdb"
     }
   ],
   "representative_assembly_id": 2,
@@ -43,6 +43,6 @@
       "length": 12
     }
   ],
-  "purified_structure": "data/purified_pdb/3CE5-2-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2008/3CE5-2-Purified.pdb",
   "json_path": "data/json/entries/3CE5.json"
 }

@@ -24,7 +24,7 @@
           "length": 6
         }
       ],
-      "purified_structure": "data/purified_pdb/6GIM-3-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2018/6GIM-3-Purified.pdb"
     }
   ],
   "representative_assembly_id": 3,
@@ -43,6 +43,6 @@
       "length": 6
     }
   ],
-  "purified_structure": "data/purified_pdb/6GIM-3-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2018/6GIM-3-Purified.pdb",
   "json_path": "data/json/entries/6GIM.json"
 }

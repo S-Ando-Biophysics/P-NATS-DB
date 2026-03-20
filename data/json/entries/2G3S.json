@@ -24,7 +24,7 @@
           "length": 8
         }
       ],
-      "purified_structure": "data/purified_pdb/2G3S-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2007/2G3S-1-Purified.pdb"
     },
     {
       "assembly_id": 2,
@@ -43,7 +43,7 @@
           "length": 8
         }
       ],
-      "purified_structure": "data/purified_pdb/2G3S-2-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2007/2G3S-2-Purified.pdb"
     },
     {
       "assembly_id": 3,
@@ -62,7 +62,7 @@
           "length": 8
         }
       ],
-      "purified_structure": "data/purified_pdb/2G3S-3-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2007/2G3S-3-Purified.pdb"
     },
     {
       "assembly_id": 4,
@@ -81,7 +81,7 @@
           "length": 8
         }
       ],
-      "purified_structure": "data/purified_pdb/2G3S-4-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2007/2G3S-4-Purified.pdb"
     },
     {
       "assembly_id": 5,
@@ -100,7 +100,7 @@
           "length": 8
         }
       ],
-      "purified_structure": "data/purified_pdb/2G3S-5-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2007/2G3S-5-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -119,6 +119,6 @@
       "length": 8
     }
   ],
-  "purified_structure": "data/purified_pdb/2G3S-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2007/2G3S-1-Purified.pdb",
   "json_path": "data/json/entries/2G3S.json"
 }

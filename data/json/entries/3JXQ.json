@@ -24,7 +24,7 @@
           "length": 6
         }
       ],
-      "purified_structure": "data/purified_pdb/3JXQ-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2010/3JXQ-1-Purified.pdb"
     },
     {
       "assembly_id": 2,
@@ -43,7 +43,7 @@
           "length": 6
         }
       ],
-      "purified_structure": "data/purified_pdb/3JXQ-2-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2010/3JXQ-2-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -62,6 +62,6 @@
       "length": 6
     }
   ],
-  "purified_structure": "data/purified_pdb/3JXQ-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2010/3JXQ-1-Purified.pdb",
   "json_path": "data/json/entries/3JXQ.json"
 }

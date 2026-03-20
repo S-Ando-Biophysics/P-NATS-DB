@@ -24,7 +24,7 @@
           "length": 12
         }
       ],
-      "purified_structure": "data/purified_pdb/1D64-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/1993/1D64-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -43,6 +43,6 @@
       "length": 12
     }
   ],
-  "purified_structure": "data/purified_pdb/1D64-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/1993/1D64-1-Purified.pdb",
   "json_path": "data/json/entries/1D64.json"
 }

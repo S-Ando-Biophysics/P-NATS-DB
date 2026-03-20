@@ -24,7 +24,7 @@
           "length": 47
         }
       ],
-      "purified_structure": "data/purified_pdb/8SA4-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2023/8SA4-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -43,6 +43,6 @@
       "length": 47
     }
   ],
-  "purified_structure": "data/purified_pdb/8SA4-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2023/8SA4-1-Purified.pdb",
   "json_path": "data/json/entries/8SA4.json"
 }

@@ -18,7 +18,7 @@
           "length": 51
         }
       ],
-      "purified_structure": "data/purified_pdb/7JRR-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2021/7JRR-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -31,6 +31,6 @@
       "length": 51
     }
   ],
-  "purified_structure": "data/purified_pdb/7JRR-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2021/7JRR-1-Purified.pdb",
   "json_path": "data/json/entries/7JRR.json"
 }

@@ -72,7 +72,7 @@
           "length": 434
         }
       ],
-      "purified_structure": "data/purified_pdb/9LEM-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2025/9LEM-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -139,6 +139,6 @@
       "length": 434
     }
   ],
-  "purified_structure": "data/purified_pdb/9LEM-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2025/9LEM-1-Purified.pdb",
   "json_path": "data/json/entries/9LEM.json"
 }

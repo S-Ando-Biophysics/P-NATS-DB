@@ -24,7 +24,7 @@
           "length": 162
         }
       ],
-      "purified_structure": "data/purified_pdb/9NDX-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2026/9NDX-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -43,6 +43,6 @@
       "length": 162
     }
   ],
-  "purified_structure": "data/purified_pdb/9NDX-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2026/9NDX-1-Purified.pdb",
   "json_path": "data/json/entries/9NDX.json"
 }

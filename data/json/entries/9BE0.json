@@ -24,7 +24,7 @@
           "length": 11
         }
       ],
-      "purified_structure": "data/purified_pdb/9BE0-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2024/9BE0-1-Purified.pdb"
     },
     {
       "assembly_id": 2,
@@ -43,7 +43,7 @@
           "length": 11
         }
       ],
-      "purified_structure": "data/purified_pdb/9BE0-2-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2024/9BE0-2-Purified.pdb"
     },
     {
       "assembly_id": 3,
@@ -62,7 +62,7 @@
           "length": 11
         }
       ],
-      "purified_structure": "data/purified_pdb/9BE0-3-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2024/9BE0-3-Purified.pdb"
     },
     {
       "assembly_id": 4,
@@ -81,7 +81,7 @@
           "length": 11
         }
       ],
-      "purified_structure": "data/purified_pdb/9BE0-4-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2024/9BE0-4-Purified.pdb"
     },
     {
       "assembly_id": 5,
@@ -100,7 +100,7 @@
           "length": 11
         }
       ],
-      "purified_structure": "data/purified_pdb/9BE0-5-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2024/9BE0-5-Purified.pdb"
     },
     {
       "assembly_id": 7,
@@ -119,7 +119,7 @@
           "length": 11
         }
       ],
-      "purified_structure": "data/purified_pdb/9BE0-7-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2024/9BE0-7-Purified.pdb"
     },
     {
       "assembly_id": 9,
@@ -138,7 +138,7 @@
           "length": 11
         }
       ],
-      "purified_structure": "data/purified_pdb/9BE0-9-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2024/9BE0-9-Purified.pdb"
     },
     {
       "assembly_id": 11,
@@ -157,7 +157,7 @@
           "length": 11
         }
       ],
-      "purified_structure": "data/purified_pdb/9BE0-11-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2024/9BE0-11-Purified.pdb"
     },
     {
       "assembly_id": 12,
@@ -176,7 +176,7 @@
           "length": 11
         }
       ],
-      "purified_structure": "data/purified_pdb/9BE0-12-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2024/9BE0-12-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -195,6 +195,6 @@
       "length": 11
     }
   ],
-  "purified_structure": "data/purified_pdb/9BE0-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2024/9BE0-1-Purified.pdb",
   "json_path": "data/json/entries/9BE0.json"
 }

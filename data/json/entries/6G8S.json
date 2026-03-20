@@ -24,7 +24,7 @@
           "length": 10
         }
       ],
-      "purified_structure": "data/purified_pdb/6G8S-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2019/6G8S-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -43,6 +43,6 @@
       "length": 10
     }
   ],
-  "purified_structure": "data/purified_pdb/6G8S-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2019/6G8S-1-Purified.pdb",
   "json_path": "data/json/entries/6G8S.json"
 }

@@ -36,7 +36,7 @@
           "length": 5
         }
       ],
-      "purified_structure": "data/purified_pdb/1RSB-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2004/1RSB-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -67,6 +67,6 @@
       "length": 5
     }
   ],
-  "purified_structure": "data/purified_pdb/1RSB-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2004/1RSB-1-Purified.pdb",
   "json_path": "data/json/entries/1RSB.json"
 }

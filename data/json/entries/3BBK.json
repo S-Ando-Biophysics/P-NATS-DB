@@ -30,7 +30,7 @@
           "length": 19
         }
       ],
-      "purified_structure": "data/purified_pdb/3BBK-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2008/3BBK-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -55,6 +55,6 @@
       "length": 19
     }
   ],
-  "purified_structure": "data/purified_pdb/3BBK-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2008/3BBK-1-Purified.pdb",
   "json_path": "data/json/entries/3BBK.json"
 }

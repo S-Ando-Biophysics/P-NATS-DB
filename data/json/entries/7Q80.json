@@ -30,7 +30,7 @@
           "length": 25
         }
       ],
-      "purified_structure": "data/purified_pdb/7Q80-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2022/7Q80-1-Purified.pdb"
     },
     {
       "assembly_id": 2,
@@ -55,7 +55,7 @@
           "length": 25
         }
       ],
-      "purified_structure": "data/purified_pdb/7Q80-2-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2022/7Q80-2-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -80,6 +80,6 @@
       "length": 25
     }
   ],
-  "purified_structure": "data/purified_pdb/7Q80-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2022/7Q80-1-Purified.pdb",
   "json_path": "data/json/entries/7Q80.json"
 }

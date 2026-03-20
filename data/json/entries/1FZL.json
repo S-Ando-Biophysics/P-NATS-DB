@@ -24,7 +24,7 @@
           "length": 12
         }
       ],
-      "purified_structure": "data/purified_pdb/1FZL-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2000/1FZL-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -43,6 +43,6 @@
       "length": 12
     }
   ],
-  "purified_structure": "data/purified_pdb/1FZL-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2000/1FZL-1-Purified.pdb",
   "json_path": "data/json/entries/1FZL.json"
 }

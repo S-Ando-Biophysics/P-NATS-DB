@@ -30,7 +30,7 @@
           "length": 393
         }
       ],
-      "purified_structure": "data/purified_pdb/7YGC-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2023/7YGC-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -55,6 +55,6 @@
       "length": 393
     }
   ],
-  "purified_structure": "data/purified_pdb/7YGC-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2023/7YGC-1-Purified.pdb",
   "json_path": "data/json/entries/7YGC.json"
 }

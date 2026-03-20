@@ -24,7 +24,7 @@
           "length": 15
         }
       ],
-      "purified_structure": "data/purified_pdb/5V2R-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2017/5V2R-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -43,6 +43,6 @@
       "length": 15
     }
   ],
-  "purified_structure": "data/purified_pdb/5V2R-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2017/5V2R-1-Purified.pdb",
   "json_path": "data/json/entries/5V2R.json"
 }

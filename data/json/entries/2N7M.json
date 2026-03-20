@@ -18,7 +18,7 @@
           "length": 92
         }
       ],
-      "purified_structure": "data/purified_pdb/2N7M-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2015/2N7M-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -31,6 +31,6 @@
       "length": 92
     }
   ],
-  "purified_structure": "data/purified_pdb/2N7M-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2015/2N7M-1-Purified.pdb",
   "json_path": "data/json/entries/2N7M.json"
 }

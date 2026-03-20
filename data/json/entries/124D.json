@@ -24,7 +24,7 @@
           "length": 8
         }
       ],
-      "purified_structure": "data/purified_pdb/124D-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/1993/124D-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -43,6 +43,6 @@
       "length": 8
     }
   ],
-  "purified_structure": "data/purified_pdb/124D-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/1993/124D-1-Purified.pdb",
   "json_path": "data/json/entries/124D.json"
 }

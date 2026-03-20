@@ -24,7 +24,7 @@
           "length": 23
         }
       ],
-      "purified_structure": "data/purified_pdb/5ZEG-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2018/5ZEG-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -43,6 +43,6 @@
       "length": 23
     }
   ],
-  "purified_structure": "data/purified_pdb/5ZEG-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2018/5ZEG-1-Purified.pdb",
   "json_path": "data/json/entries/5ZEG.json"
 }

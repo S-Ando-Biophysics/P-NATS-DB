@@ -78,7 +78,7 @@
           "length": 10
         }
       ],
-      "purified_structure": "data/purified_pdb/7U3Y-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2022/7U3Y-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -151,6 +151,6 @@
       "length": 10
     }
   ],
-  "purified_structure": "data/purified_pdb/7U3Y-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2022/7U3Y-1-Purified.pdb",
   "json_path": "data/json/entries/7U3Y.json"
 }

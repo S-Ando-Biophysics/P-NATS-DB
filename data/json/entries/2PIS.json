@@ -24,7 +24,7 @@
           "length": 13
         }
       ],
-      "purified_structure": "data/purified_pdb/2PIS-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2007/2PIS-1-Purified.pdb"
     },
     {
       "assembly_id": 2,
@@ -43,7 +43,7 @@
           "length": 13
         }
       ],
-      "purified_structure": "data/purified_pdb/2PIS-2-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2007/2PIS-2-Purified.pdb"
     },
     {
       "assembly_id": 3,
@@ -62,7 +62,7 @@
           "length": 13
         }
       ],
-      "purified_structure": "data/purified_pdb/2PIS-3-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2007/2PIS-3-Purified.pdb"
     },
     {
       "assembly_id": 4,
@@ -81,7 +81,7 @@
           "length": 13
         }
       ],
-      "purified_structure": "data/purified_pdb/2PIS-4-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2007/2PIS-4-Purified.pdb"
     },
     {
       "assembly_id": 5,
@@ -100,7 +100,7 @@
           "length": 13
         }
       ],
-      "purified_structure": "data/purified_pdb/2PIS-5-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2007/2PIS-5-Purified.pdb"
     },
     {
       "assembly_id": 6,
@@ -119,7 +119,7 @@
           "length": 13
         }
       ],
-      "purified_structure": "data/purified_pdb/2PIS-6-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2007/2PIS-6-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -138,6 +138,6 @@
       "length": 13
     }
   ],
-  "purified_structure": "data/purified_pdb/2PIS-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2007/2PIS-1-Purified.pdb",
   "json_path": "data/json/entries/2PIS.json"
 }

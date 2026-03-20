@@ -24,7 +24,7 @@
           "length": 9
         }
       ],
-      "purified_structure": "data/purified_pdb/6QIS-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2019/6QIS-1-Purified.pdb"
     },
     {
       "assembly_id": 2,
@@ -43,7 +43,7 @@
           "length": 8
         }
       ],
-      "purified_structure": "data/purified_pdb/6QIS-2-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2019/6QIS-2-Purified.pdb"
     },
     {
       "assembly_id": 3,
@@ -62,7 +62,7 @@
           "length": 8
         }
       ],
-      "purified_structure": "data/purified_pdb/6QIS-3-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2019/6QIS-3-Purified.pdb"
     },
     {
       "assembly_id": 4,
@@ -81,7 +81,7 @@
           "length": 9
         }
       ],
-      "purified_structure": "data/purified_pdb/6QIS-4-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2019/6QIS-4-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -100,6 +100,6 @@
       "length": 9
     }
   ],
-  "purified_structure": "data/purified_pdb/6QIS-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2019/6QIS-1-Purified.pdb",
   "json_path": "data/json/entries/6QIS.json"
 }

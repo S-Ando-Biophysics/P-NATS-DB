@@ -24,7 +24,7 @@
           "length": 14
         }
       ],
-      "purified_structure": "data/purified_pdb/1DUQ-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2000/1DUQ-1-Purified.pdb"
     },
     {
       "assembly_id": 2,
@@ -43,7 +43,7 @@
           "length": 14
         }
       ],
-      "purified_structure": "data/purified_pdb/1DUQ-2-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2000/1DUQ-2-Purified.pdb"
     },
     {
       "assembly_id": 3,
@@ -62,7 +62,7 @@
           "length": 14
         }
       ],
-      "purified_structure": "data/purified_pdb/1DUQ-3-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2000/1DUQ-3-Purified.pdb"
     },
     {
       "assembly_id": 4,
@@ -81,7 +81,7 @@
           "length": 14
         }
       ],
-      "purified_structure": "data/purified_pdb/1DUQ-4-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2000/1DUQ-4-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -100,6 +100,6 @@
       "length": 14
     }
   ],
-  "purified_structure": "data/purified_pdb/1DUQ-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2000/1DUQ-1-Purified.pdb",
   "json_path": "data/json/entries/1DUQ.json"
 }

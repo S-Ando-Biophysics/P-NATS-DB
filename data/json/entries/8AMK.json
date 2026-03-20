@@ -24,7 +24,7 @@
           "length": 9
         }
       ],
-      "purified_structure": "data/purified_pdb/8AMK-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2022/8AMK-1-Purified.pdb"
     },
     {
       "assembly_id": 2,
@@ -43,7 +43,7 @@
           "length": 9
         }
       ],
-      "purified_structure": "data/purified_pdb/8AMK-2-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2022/8AMK-2-Purified.pdb"
     },
     {
       "assembly_id": 3,
@@ -62,7 +62,7 @@
           "length": 9
         }
       ],
-      "purified_structure": "data/purified_pdb/8AMK-3-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2022/8AMK-3-Purified.pdb"
     },
     {
       "assembly_id": 4,
@@ -81,7 +81,7 @@
           "length": 9
         }
       ],
-      "purified_structure": "data/purified_pdb/8AMK-4-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2022/8AMK-4-Purified.pdb"
     },
     {
       "assembly_id": 5,
@@ -100,7 +100,7 @@
           "length": 9
         }
       ],
-      "purified_structure": "data/purified_pdb/8AMK-5-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2022/8AMK-5-Purified.pdb"
     },
     {
       "assembly_id": 6,
@@ -119,7 +119,7 @@
           "length": 9
         }
       ],
-      "purified_structure": "data/purified_pdb/8AMK-6-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2022/8AMK-6-Purified.pdb"
     },
     {
       "assembly_id": 7,
@@ -138,7 +138,7 @@
           "length": 9
         }
       ],
-      "purified_structure": "data/purified_pdb/8AMK-7-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2022/8AMK-7-Purified.pdb"
     },
     {
       "assembly_id": 8,
@@ -157,7 +157,7 @@
           "length": 9
         }
       ],
-      "purified_structure": "data/purified_pdb/8AMK-8-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2022/8AMK-8-Purified.pdb"
     },
     {
       "assembly_id": 9,
@@ -176,7 +176,7 @@
           "length": 9
         }
       ],
-      "purified_structure": "data/purified_pdb/8AMK-9-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2022/8AMK-9-Purified.pdb"
     },
     {
       "assembly_id": 10,
@@ -195,7 +195,7 @@
           "length": 9
         }
       ],
-      "purified_structure": "data/purified_pdb/8AMK-10-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2022/8AMK-10-Purified.pdb"
     },
     {
       "assembly_id": 11,
@@ -214,7 +214,7 @@
           "length": 9
         }
       ],
-      "purified_structure": "data/purified_pdb/8AMK-11-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2022/8AMK-11-Purified.pdb"
     },
     {
       "assembly_id": 12,
@@ -233,7 +233,7 @@
           "length": 9
         }
       ],
-      "purified_structure": "data/purified_pdb/8AMK-12-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2022/8AMK-12-Purified.pdb"
     },
     {
       "assembly_id": 13,
@@ -252,7 +252,7 @@
           "length": 9
         }
       ],
-      "purified_structure": "data/purified_pdb/8AMK-13-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2022/8AMK-13-Purified.pdb"
     },
     {
       "assembly_id": 14,
@@ -271,7 +271,7 @@
           "length": 9
         }
       ],
-      "purified_structure": "data/purified_pdb/8AMK-14-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2022/8AMK-14-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -290,6 +290,6 @@
       "length": 9
     }
   ],
-  "purified_structure": "data/purified_pdb/8AMK-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2022/8AMK-1-Purified.pdb",
   "json_path": "data/json/entries/8AMK.json"
 }

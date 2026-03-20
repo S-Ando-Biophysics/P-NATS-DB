@@ -24,7 +24,7 @@
           "length": 13
         }
       ],
-      "purified_structure": "data/purified_pdb/2O80-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2007/2O80-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -43,6 +43,6 @@
       "length": 13
     }
   ],
-  "purified_structure": "data/purified_pdb/2O80-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2007/2O80-1-Purified.pdb",
   "json_path": "data/json/entries/2O80.json"
 }

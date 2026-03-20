@@ -30,7 +30,7 @@
           "length": 7
         }
       ],
-      "purified_structure": "data/purified_pdb/149D-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/1994/149D-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -55,6 +55,6 @@
       "length": 7
     }
   ],
-  "purified_structure": "data/purified_pdb/149D-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/1994/149D-1-Purified.pdb",
   "json_path": "data/json/entries/149D.json"
 }

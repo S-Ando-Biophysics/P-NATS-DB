@@ -36,7 +36,7 @@
           "length": 2
         }
       ],
-      "purified_structure": "data/purified_pdb/5UEF-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2017/5UEF-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -67,6 +67,6 @@
       "length": 2
     }
   ],
-  "purified_structure": "data/purified_pdb/5UEF-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2017/5UEF-1-Purified.pdb",
   "json_path": "data/json/entries/5UEF.json"
 }

@@ -18,7 +18,7 @@
           "length": 108
         }
       ],
-      "purified_structure": "data/purified_pdb/8TKK-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2025/8TKK-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -31,6 +31,6 @@
       "length": 108
     }
   ],
-  "purified_structure": "data/purified_pdb/8TKK-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2025/8TKK-1-Purified.pdb",
   "json_path": "data/json/entries/8TKK.json"
 }

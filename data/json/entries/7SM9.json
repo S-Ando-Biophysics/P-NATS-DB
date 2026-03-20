@@ -36,7 +36,7 @@
           "length": 7
         }
       ],
-      "purified_structure": "data/purified_pdb/7SM9-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2022/7SM9-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -67,6 +67,6 @@
       "length": 7
     }
   ],
-  "purified_structure": "data/purified_pdb/7SM9-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2022/7SM9-1-Purified.pdb",
   "json_path": "data/json/entries/7SM9.json"
 }

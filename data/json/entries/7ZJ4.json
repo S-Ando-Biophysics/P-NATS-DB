@@ -18,7 +18,7 @@
           "length": 374
         }
       ],
-      "purified_structure": "data/purified_pdb/7ZJ4-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2023/7ZJ4-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -31,6 +31,6 @@
       "length": 374
     }
   ],
-  "purified_structure": "data/purified_pdb/7ZJ4-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2023/7ZJ4-1-Purified.pdb",
   "json_path": "data/json/entries/7ZJ4.json"
 }

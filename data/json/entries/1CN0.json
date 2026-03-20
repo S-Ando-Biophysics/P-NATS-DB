@@ -36,7 +36,7 @@
           "length": 5
         }
       ],
-      "purified_structure": "data/purified_pdb/1CN0-1-Purified.pdb"
+      "purified_structure": "data/purified_pdb/2000/1CN0-1-Purified.pdb"
     }
   ],
   "representative_assembly_id": 1,
@@ -67,6 +67,6 @@
       "length": 5
     }
   ],
-  "purified_structure": "data/purified_pdb/1CN0-1-Purified.pdb",
+  "purified_structure": "data/purified_pdb/2000/1CN0-1-Purified.pdb",
   "json_path": "data/json/entries/1CN0.json"
 }
