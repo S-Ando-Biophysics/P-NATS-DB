@@ -1,6 +1,7 @@
 let allEntries = [];
 let filteredEntries = [];
-let sortState = { key: null, direction: 'asc' };
+let sortState = { key: null, direction: "asc" };
+let sequenceVisibility = "show";
 const fetchControllers = new Map();
 
 document.addEventListener("DOMContentLoaded", async () => {
@@ -15,6 +16,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   const applyFilterBtn = document.getElementById("applyFilterBtn");
   const clearFilterBtn = document.getElementById("clearFilterBtn");
   const methodContainer = document.getElementById("methodFilterContainer");
+  const sequenceHeader = document.getElementById("sequenceHeader");
 
   if (!tableBody) return;
 
@@ -44,6 +46,8 @@ document.addEventListener("DOMContentLoaded", async () => {
         `<label><input type="checkbox" class="method-filter" value="${m}"> ${m}</label>`
       ).join("");
     }
+
+    setupSequenceVisibilityToggle(sequenceHeader, tableBody);
 
     renderTable(filteredEntries, tableBody);
     updatePdbCount();
@@ -208,10 +212,15 @@ function renderTable(entries, container) {
     tr.innerHTML = `
       <td class="pdb-id">${entry.pdb_id}</td>
       <td class="links-cell">
-        <a href="${entry.rcsb_url}" target="_blank" class="btn-link-sm">PDB</a>
-        <a href="${entry.nakb_url}" target="_blank" class="btn-link-sm">NAKB</a>
-        <a href="${entry.view_structure_url}" target="_blank" class="btn-link-sm">View structure</a>
+        <div class="links-row">
+          <a href="${entry.rcsb_url}" target="_blank" class="btn-link-sm">PDB</a>
+          <a href="${entry.nakb_url}" target="_blank" class="btn-link-sm">NAKB</a>
+        </div>
+        <div class="links-row">
+          <a href="${entry.view_structure_url}" target="_blank" class="btn-link-sm">View structure</a>
+        </div>
       </td>
+      <td class="release-date-cell">${entry.release_date || ""}</td>
       <td class="method-cell">${entry.method || ""}</td>
       <td class="res-cell">${entry.resolution ? entry.resolution.toFixed(2) + " Å" : ""}</td>
       <td class="assembly-cell">
@@ -222,7 +231,6 @@ function renderTable(entries, container) {
         <div class="chain-sequence-container">${formatChains(entry.chains)}</div>
       </td>
       <td class="purified-cell"></td>
-      <td class="release-date-cell">${entry.release_date || ""}</td>
     `;
 
     updatePurifiedLink(tr.querySelector(".purified-cell"), entry.purified_structure);
@@ -239,12 +247,68 @@ function renderTable(entries, container) {
 function formatChains(chains) {
   if (!chains || !Array.isArray(chains)) return "";
 
-  return chains.map(c =>
-    `<div class="chain-item">
-      <strong>Chain ${c.chain_id}</strong> (${c.na_type}):<br>
-      <code class="seq-text">${c.sequence}</code>
-    </div>`
-  ).join("");
+  return chains.map(c => {
+    const header = `<strong>Chain ${c.chain_id}</strong> (${c.na_type}):`;
+
+    if (sequenceVisibility === "hide") {
+      return `
+        <div class="chain-item">
+          ${header}
+        </div>
+      `;
+    }
+
+    return `
+      <div class="chain-item">
+        ${header}<br>
+        <code class="seq-text">${c.sequence}</code>
+      </div>
+    `;
+  }).join("");
+}
+
+function setupSequenceVisibilityToggle(headerEl, tableBody) {
+  if (!headerEl || !tableBody) return;
+
+  headerEl.innerHTML = `
+    <div class="sequence-header-wrap">
+      <span>Sequence (lowercase: modified)</span>
+      <span class="sequence-toggle" role="group" aria-label="Sequence visibility toggle">
+        <button
+          type="button"
+          class="sequence-toggle-btn active"
+          data-seq-visibility="show"
+        >
+          Show
+        </button>
+        <button
+          type="button"
+          class="sequence-toggle-btn"
+          data-seq-visibility="hide"
+        >
+          Hide
+        </button>
+      </span>
+    </div>
+  `;
+
+  const buttons = headerEl.querySelectorAll(".sequence-toggle-btn");
+
+  buttons.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const newVisibility = btn.dataset.seqVisibility;
+      if (!newVisibility || newVisibility === sequenceVisibility) return;
+
+      sequenceVisibility = newVisibility;
+
+      buttons.forEach((b) => {
+        b.classList.toggle("active", b.dataset.seqVisibility === sequenceVisibility);
+      });
+
+      renderTable(filteredEntries, tableBody);
+      updatePdbCount();
+    });
+  });
 }
 
 async function handleAssemblyChange(e, entry, tr) {
