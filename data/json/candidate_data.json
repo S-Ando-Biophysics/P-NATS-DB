@@ -10338,12 +10338,6 @@
     "release_date": "2013-11-27"
   },
   {
-    "pdb_id": "2M3P",
-    "method": "NMR",
-    "resolution": null,
-    "release_date": "2014-01-08"
-  },
-  {
     "pdb_id": "2M3Y",
     "method": "NMR",
     "resolution": null,
@@ -10798,6 +10792,12 @@
     "method": "NMR",
     "resolution": null,
     "release_date": "2015-05-06"
+  },
+  {
+    "pdb_id": "2M3P",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2014-01-08"
   },
   {
     "pdb_id": "2MXL",
