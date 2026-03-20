@@ -9,15 +9,18 @@
 <body>
   <header>
     <h1>P-NATS DataBase</h1>
-    <p>Purified Nucleic Acid Three-dimensional Structure DataBase</p>
+    <p>
+      Purified Nucleic Acid Three-dimensional Structure DataBase
+      <span id="lastUpdated"></span>
+    </p>
   </header>
 
   <main>
     <div class="toolbar">
       <input id="searchBox" type="text" placeholder="Search by PDB ID">
       <button id="openFilterBtn" class="toolbar-btn" type="button">Filters</button>
+      <span id="pdbCount"></span>
     </div>
-   
 
     <table id="entryTable">
       <thead>
@@ -34,7 +37,7 @@
         </tr>
       </thead>
       <tbody>
-        </tbody>
+      </tbody>
     </table>
   </main>
 
@@ -53,7 +56,7 @@
 
         <section>
           <h3>Nucleic Acid Type</h3>
-          
+
           <h5>Single Strand (ss)</h5>
           <div class="filter-grid">
             <label><input type="checkbox" class="na-filter" value="ss DNA"> ss DNA</label>
@@ -67,17 +70,16 @@
             <label><input type="checkbox" class="na-filter" value="ds DNA/DNA"> ds DNA/DNA</label>
             <label><input type="checkbox" class="na-filter" value="ds DNA/RNA"> ds DNA/RNA</label>
             <label><input type="checkbox" class="na-filter" value="ds DNA/Chimera"> ds DNA/Chimera</label>
-            <label><input type="checkbox" class="na-filter" value="ds DNA/Other"> ds DNA/Other</label>     
+            <label><input type="checkbox" class="na-filter" value="ds DNA/Other"> ds DNA/Other</label>
 
             <label><input type="checkbox" class="na-filter" value="ds RNA/RNA"> ds RNA/RNA</label>
             <label><input type="checkbox" class="na-filter" value="ds RNA/Chimera"> ds RNA/Chimera</label>
             <label><input type="checkbox" class="na-filter" value="ds RNA/Other"> ds RNA/Other</label>
-            
+
             <label><input type="checkbox" class="na-filter" value="ds Chimera/Chimera"> ds Chimera/Chimera</label>
             <label><input type="checkbox" class="na-filter" value="ds Chimera/Other"> ds Chimera/Other</label>
 
             <label><input type="checkbox" class="na-filter" value="ds Other/Other"> ds Other/Other</label>
-
           </div>
 
           <h5>More</h5>
