@@ -2,9 +2,10 @@
 from __future__ import annotations
 
 import json
-import requests
 from pathlib import Path
 from typing import Any, Dict, List
+
+import requests
 
 
 # Project root directory
@@ -20,6 +21,7 @@ def ensure_dirs() -> None:
 
 
 def load_excluded_pdb_ids() -> set[str]:
+    """Load excluded PDB IDs from text file."""
     if not EXCLUDED_PDB_FILE.exists():
         print(f"Excluded PDB file not found: {EXCLUDED_PDB_FILE}")
         return set()
@@ -34,28 +36,35 @@ def load_excluded_pdb_ids() -> set[str]:
     return excluded_ids
 
 
-def categorize_method(raw_val: Any) -> str:
+def normalize_broader_method(raw_val: Any) -> str:
     """
-    Map raw PDB experimental methods to 5 specific categories:
+    Normalize RCSB broader experimental method categories into 5 classes:
     X-ray, NMR, EM, Neutron, Other.
+
+    RCSB broader categories:
+      - X-ray
+      - NMR
+      - EM
+      - Neutron
+      - Integrative
+      - Multiple methods
+      - Other
+
+    Here, Integrative / Multiple methods / Other are merged into "Other".
     """
-    if not raw_val:
+    if raw_val is None:
         return "Other"
 
-    if isinstance(raw_val, list):
-        m_str = " ".join(raw_val).upper()
-    else:
-        m_str = str(raw_val).upper()
+    method = str(raw_val).strip()
 
-    if "X-RAY" in m_str:
-        return "X-ray"
-    if "NMR" in m_str:
-        return "NMR"
-    if "ELECTRON MICROSCOPY" in m_str or "CRYO-EM" in m_str:
-        return "EM"
-    if "NEUTRON" in m_str:
-        return "Neutron"
+    if method in {"X-ray", "NMR", "EM", "Neutron"}:
+        return method
 
+    if method in {"Integrative", "Multiple methods", "Other"}:
+        return "Other"
+
+    # Fallback for unexpected values
+    print(f"[warn] Unexpected broader experimental method: {method!r}")
     return "Other"
 
 
@@ -63,6 +72,7 @@ def search_pdb_ids(excluded_ids: set[str]) -> List[str]:
     """Search for PDB IDs that contain nucleic acids but no proteins."""
     print("Searching for nucleic-acid-only structures...")
     url = "https://search.rcsb.org/rcsbsearch/v2/query"
+
     query = {
         "query": {
             "type": "group",
@@ -94,7 +104,7 @@ def search_pdb_ids(excluded_ids: set[str]) -> List[str]:
         },
     }
 
-    response = requests.post(url, json=query)
+    response = requests.post(url, json=query, timeout=60)
     response.raise_for_status()
     result = response.json()
 
@@ -106,16 +116,19 @@ def search_pdb_ids(excluded_ids: set[str]) -> List[str]:
 
 
 def fetch_metadata(pdb_ids: List[str]) -> List[Dict[str, Any]]:
-    """Fetch metadata (method, resolution, release date) for given PDB IDs via GraphQL."""
+    """
+    Fetch metadata (broader experimental method, resolution, release date)
+    for given PDB IDs via GraphQL.
+    """
     print(f"Fetching metadata for {len(pdb_ids)} entries...")
     url = "https://data.rcsb.org/graphql"
 
     batch_size = 100
-    metadata_list = []
+    metadata_list: List[Dict[str, Any]] = []
 
     for i in range(0, len(pdb_ids), batch_size):
         batch = pdb_ids[i:i + batch_size]
-        ids_str = ",".join([f'"{pdb_id}"' for pdb_id in batch])
+        ids_str = ",".join(f'"{pdb_id}"' for pdb_id in batch)
 
         query = f"""
         {{
@@ -132,7 +145,7 @@ def fetch_metadata(pdb_ids: List[str]) -> List[Dict[str, Any]]:
         }}
         """
 
-        response = requests.post(url, json={"query": query})
+        response = requests.post(url, json={"query": query}, timeout=60)
         response.raise_for_status()
         data = response.json()
 
@@ -151,14 +164,16 @@ def fetch_metadata(pdb_ids: List[str]) -> List[Dict[str, Any]]:
             resolution = res_list[0] if res_list else None
 
             raw_method = entry.get("rcsb_entry_info", {}).get("experimental_method")
-            method = categorize_method(raw_method)
+            method = normalize_broader_method(raw_method)
 
-            metadata_list.append({
-                "pdb_id": entry.get("rcsb_id"),
-                "method": method,
-                "resolution": resolution,
-                "release_date": release_date,
-            })
+            metadata_list.append(
+                {
+                    "pdb_id": entry.get("rcsb_id"),
+                    "method": method,
+                    "resolution": resolution,
+                    "release_date": release_date,
+                }
+            )
 
         print(f"  Progress: {min(i + batch_size, len(pdb_ids))}/{len(pdb_ids)}")
 
@@ -166,6 +181,7 @@ def fetch_metadata(pdb_ids: List[str]) -> List[Dict[str, Any]]:
 
 
 def main() -> None:
+    """Main pipeline to create candidate_data.json."""
     ensure_dirs()
 
     excluded_ids = load_excluded_pdb_ids()
