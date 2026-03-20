@@ -36,8 +36,8 @@ def load_candidates() -> List[Dict[str, Any]]:
 
 def run_command_safe(cmd: List[str]) -> bool:
     """
-    Execute an external command. 
-    Returns True if success (exit 0), False otherwise (e.g. exit 1).
+    Execute an external command.
+    Returns True if success (exit 0), False otherwise.
     Does not raise Exception on non-zero exit status.
     """
     print("  Running:", " ".join(cmd))
@@ -54,20 +54,32 @@ def run_command_safe(cmd: List[str]) -> bool:
         return False
 
 
+def get_release_year(candidate: Dict[str, Any]) -> str:
+    """Extract release year from release_date."""
+    release_date = str(candidate.get("release_date", "")).strip()
+    if len(release_date) >= 4 and release_date[:4].isdigit():
+        return release_date[:4]
+    return "unknown"
+
+
 def glob_purified_root(pdb_id: str) -> List[Path]:
     """Search for Purified PDB files generated in the root directory."""
     return sorted(ROOT.glob(f"{pdb_id.upper()}-*-Purified.pdb"))
 
 
-def glob_purified_data(pdb_id: str) -> List[Path]:
-    """Search for Purified PDB files in the data/purified_pdb directory."""
-    return sorted(PURIFIED_DIR.glob(f"{pdb_id.upper()}-*-Purified.pdb"))
+def glob_purified_data(pdb_id: str, release_year: str) -> List[Path]:
+    """Search for Purified PDB files in the year-based data/purified_pdb directory."""
+    year_dir = PURIFIED_DIR / release_year
+    if not year_dir.exists():
+        return []
+    return sorted(year_dir.glob(f"{pdb_id.upper()}-*-Purified.pdb"))
 
 
-def collect_outputs_from_root(pdb_id: str) -> List[str]:
-    """Move generated files from the root directory to the data directory."""
+def collect_outputs_from_root(pdb_id: str, release_year: str) -> List[str]:
+    """Move generated files from the root directory to the year-based data directory."""
     src_files = glob_purified_root(pdb_id)
-    dest_dir = PURIFIED_DIR
+    dest_dir = PURIFIED_DIR / release_year
+    dest_dir.mkdir(parents=True, exist_ok=True)
 
     collected: List[str] = []
     for src in src_files:
@@ -75,15 +87,14 @@ def collect_outputs_from_root(pdb_id: str) -> List[str]:
         if dst.exists():
             dst.unlink()
         shutil.move(str(src), str(dst))
-
         collected.append(dst.relative_to(ROOT).as_posix())
 
     return collected
 
 
-def list_existing_outputs(pdb_id: str) -> List[str]:
-    """Return a list of already existing output files."""
-    files = glob_purified_data(pdb_id)
+def list_existing_outputs(pdb_id: str, release_year: str) -> List[str]:
+    """Return a list of already existing output files in the year-based directory."""
+    files = glob_purified_data(pdb_id, release_year)
     return [f.relative_to(ROOT).as_posix() for f in files]
 
 
@@ -118,21 +129,19 @@ def make_view_structure_url(pdb_id: str) -> str:
     )
 
 
-def ensure_outputs_with_pnats(pdb_id: str) -> List[str]:
+def ensure_outputs_with_pnats(pdb_id: str, release_year: str) -> List[str]:
     """Execute P-NATS and collect the generated files even if status is non-zero."""
-    
-    existing_purified = list_existing_outputs(pdb_id)
+    existing_purified = list_existing_outputs(pdb_id, release_year)
     if existing_purified:
         print(f"  Skip existing outputs for {pdb_id}")
         return existing_purified
 
-    # Run P-NATS. 
     run_command_safe(["P-NATS", pdb_id.upper()])
 
-    purified_paths = collect_outputs_from_root(pdb_id)
+    purified_paths = collect_outputs_from_root(pdb_id, release_year)
 
     if not purified_paths:
-        purified_paths = list_existing_outputs(pdb_id)
+        purified_paths = list_existing_outputs(pdb_id, release_year)
 
     return purified_paths
 
@@ -140,16 +149,17 @@ def ensure_outputs_with_pnats(pdb_id: str) -> List[str]:
 def process_one(candidate: Dict[str, Any]) -> Dict[str, Any]:
     """Process a single PDB entry. Generates entry data even if some files are missing."""
     pdb_id = candidate["pdb_id"]
+    release_year = get_release_year(candidate)
+
     print(f"Processing {pdb_id}...")
 
-    purified_paths = ensure_outputs_with_pnats(pdb_id)
+    purified_paths = ensure_outputs_with_pnats(pdb_id, release_year)
 
     if not purified_paths:
         print(f"  [warning] No purified files found for {pdb_id}")
 
     assembly_ids = sorted({parse_assembly_id(p) for p in purified_paths})
 
-    # Return combined data
     return {
         "pdb_id": pdb_id,
         "method": candidate.get("method", "Unknown"),
@@ -182,7 +192,6 @@ def main() -> None:
         if i % 50 == 0 or i == total:
             print(f"Progress: {i}/{total}")
 
-    # Write processed metadata to entries_processed.json
     ENTRIES_PROCESSED_JSON.write_text(
         json.dumps(processed, ensure_ascii=False, indent=2),
         encoding="utf-8",
