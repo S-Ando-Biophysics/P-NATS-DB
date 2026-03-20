@@ -217,3 +217,58 @@ th {
     border-top: 2px solid #000000;
     padding-top: 20px;
 }
+
+.links-cell .links-row {
+    display: flex;
+    gap: 4px;
+    margin-bottom: 4px;
+}
+
+.links-cell .links-row:last-child {
+    margin-bottom: 0;
+}
+
+header p a {
+    color: #000000 !important;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: #000000;
+}
+
+header p a:hover {
+    color: #000000 !important;
+}
+
+.sequence-header-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+.sequence-toggle {
+    display: inline-flex;
+    gap: 4px;
+    margin-left: 8px;
+}
+
+.sequence-toggle-btn {
+    padding: 2px 8px;
+    border: 1px solid #000000;
+    background-color: #ffffff;
+    color: #000000 !important;
+    font-size: 11px;
+    font-weight: bold;
+    cursor: pointer;
+    line-height: 1.2;
+}
+
+.sequence-toggle-btn.active {
+    background-color: #000000;
+    color: #ffffff !important;
+}
+
+.sequence-toggle-btn:hover {
+    background-color: #000000;
+    color: #ffffff !important;
+}
