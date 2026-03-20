@@ -126,7 +126,7 @@ function updateLastUpdatedDisplay() {
 
   const date = getLastUpdateUTC();
   const formatted = date.toISOString().replace("T", " ").slice(0, 16) + " UTC";
-  el.textContent = `(${formatted})`;
+  el.textContent = `(Last updated: ${formatted.slice(0, 10)})`;
 }
 
 function updatePdbCount() {
@@ -134,7 +134,7 @@ function updatePdbCount() {
   if (!countEl) return;
 
   const count = filteredEntries.length;
-  countEl.textContent = `${count} PDB ID${count === 1 ? "" : "s"}`;
+  countEl.textContent = `${count} structures`;
 }
 
 function applyAllFilters() {
