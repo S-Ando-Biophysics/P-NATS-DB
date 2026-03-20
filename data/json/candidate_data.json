@@ -1159,13 +1159,13 @@
   },
   {
     "pdb_id": "1C2W",
-    "method": "Other",
+    "method": "EM",
     "resolution": 7.5,
     "release_date": "2000-04-10"
   },
   {
     "pdb_id": "1C2X",
-    "method": "Other",
+    "method": "EM",
     "resolution": 7.5,
     "release_date": "2000-04-10"
   },
@@ -2545,7 +2545,7 @@
   },
   {
     "pdb_id": "1FCW",
-    "method": "Other",
+    "method": "EM",
     "resolution": 17.0,
     "release_date": "2000-08-11"
   },
@@ -2671,7 +2671,7 @@
   },
   {
     "pdb_id": "1FOQ",
-    "method": "Other",
+    "method": "EM",
     "resolution": 20.0,
     "release_date": "2000-12-22"
   },
@@ -4087,7 +4087,7 @@
   },
   {
     "pdb_id": "1LU3",
-    "method": "Other",
+    "method": "EM",
     "resolution": 16.8,
     "release_date": "2002-06-26"
   },
@@ -7081,7 +7081,7 @@
   },
   {
     "pdb_id": "1ZO3",
-    "method": "Other",
+    "method": "EM",
     "resolution": 13.8,
     "release_date": "2005-06-14"
   },
@@ -10338,6 +10338,12 @@
     "release_date": "2013-11-27"
   },
   {
+    "pdb_id": "2M3P",
+    "method": "NMR",
+    "resolution": null,
+    "release_date": "2014-01-08"
+  },
+  {
     "pdb_id": "2M3Y",
     "method": "NMR",
     "resolution": null,
@@ -10792,12 +10798,6 @@
     "method": "NMR",
     "resolution": null,
     "release_date": "2015-05-06"
-  },
-  {
-    "pdb_id": "2M3P",
-    "method": "NMR",
-    "resolution": null,
-    "release_date": "2014-01-08"
   },
   {
     "pdb_id": "2MXL",
@@ -12252,12 +12252,6 @@
     "release_date": "1998-07-15"
   },
   {
-    "pdb_id": "371D",
-    "method": "X-ray",
-    "resolution": 1.9,
-    "release_date": "1998-07-15"
-  },
-  {
     "pdb_id": "372D",
     "method": "X-ray",
     "resolution": 2.6,
@@ -12505,7 +12499,7 @@
   },
   {
     "pdb_id": "3BBV",
-    "method": "Other",
+    "method": "EM",
     "resolution": 10.0,
     "release_date": "2008-10-21"
   },
@@ -12598,6 +12592,12 @@
     "method": "X-ray",
     "resolution": 2.2,
     "release_date": "2008-09-23"
+  },
+  {
+    "pdb_id": "371D",
+    "method": "X-ray",
+    "resolution": 1.9,
+    "release_date": "1998-07-15"
   },
   {
     "pdb_id": "3CDM",
@@ -13465,67 +13465,67 @@
   },
   {
     "pdb_id": "3IZD",
-    "method": "Other",
+    "method": "EM",
     "resolution": 8.6,
     "release_date": "2010-12-01"
   },
   {
     "pdb_id": "3J28",
-    "method": "Other",
+    "method": "EM",
     "resolution": 12.9,
     "release_date": "2013-01-16"
   },
   {
     "pdb_id": "3J29",
-    "method": "Other",
+    "method": "EM",
     "resolution": 14.0,
     "release_date": "2013-01-16"
   },
   {
     "pdb_id": "3J2A",
-    "method": "Other",
+    "method": "EM",
     "resolution": 13.1,
     "release_date": "2013-01-16"
   },
   {
     "pdb_id": "3J2B",
-    "method": "Other",
+    "method": "EM",
     "resolution": 13.6,
     "release_date": "2013-01-16"
   },
   {
     "pdb_id": "3J2C",
-    "method": "Other",
+    "method": "EM",
     "resolution": 13.2,
     "release_date": "2013-01-16"
   },
   {
     "pdb_id": "3J2D",
-    "method": "Other",
+    "method": "EM",
     "resolution": 18.7,
     "release_date": "2013-01-16"
   },
   {
     "pdb_id": "3J2E",
-    "method": "Other",
+    "method": "EM",
     "resolution": 15.3,
     "release_date": "2013-01-16"
   },
   {
     "pdb_id": "3J2F",
-    "method": "Other",
+    "method": "EM",
     "resolution": 17.6,
     "release_date": "2013-01-16"
   },
   {
     "pdb_id": "3J2G",
-    "method": "Other",
+    "method": "EM",
     "resolution": 16.5,
     "release_date": "2013-01-16"
   },
   {
     "pdb_id": "3J2H",
-    "method": "Other",
+    "method": "EM",
     "resolution": 18.8,
     "release_date": "2013-01-16"
   },
@@ -14959,7 +14959,7 @@
   },
   {
     "pdb_id": "4C4Q",
-    "method": "Other",
+    "method": "EM",
     "resolution": 8.5,
     "release_date": "2013-10-30"
   },
@@ -17299,7 +17299,7 @@
   },
   {
     "pdb_id": "5G2Y",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.5,
     "release_date": "2016-05-04"
   },
@@ -20131,7 +20131,7 @@
   },
   {
     "pdb_id": "6POM",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.9,
     "release_date": "2019-11-20"
   },
@@ -20251,7 +20251,7 @@
   },
   {
     "pdb_id": "6QYZ",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.6,
     "release_date": "2019-06-12"
   },
@@ -20617,13 +20617,13 @@
   },
   {
     "pdb_id": "6UES",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.7,
     "release_date": "2019-12-18"
   },
   {
     "pdb_id": "6UET",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.1,
     "release_date": "2019-12-18"
   },
@@ -20845,67 +20845,67 @@
   },
   {
     "pdb_id": "6WLJ",
-    "method": "Other",
+    "method": "EM",
     "resolution": 9.6,
     "release_date": "2020-07-08"
   },
   {
     "pdb_id": "6WLK",
-    "method": "Other",
+    "method": "EM",
     "resolution": 10.0,
     "release_date": "2020-07-08"
   },
   {
     "pdb_id": "6WLL",
-    "method": "Other",
+    "method": "EM",
     "resolution": 10.0,
     "release_date": "2020-07-08"
   },
   {
     "pdb_id": "6WLM",
-    "method": "Other",
+    "method": "EM",
     "resolution": 7.4,
     "release_date": "2020-07-08"
   },
   {
     "pdb_id": "6WLN",
-    "method": "Other",
+    "method": "EM",
     "resolution": 10.0,
     "release_date": "2020-07-08"
   },
   {
     "pdb_id": "6WLO",
-    "method": "Other",
+    "method": "EM",
     "resolution": 11.0,
     "release_date": "2020-07-08"
   },
   {
     "pdb_id": "6WLQ",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.7,
     "release_date": "2020-07-08"
   },
   {
     "pdb_id": "6WLR",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.8,
     "release_date": "2020-07-08"
   },
   {
     "pdb_id": "6WLS",
-    "method": "Other",
+    "method": "EM",
     "resolution": 6.8,
     "release_date": "2020-07-08"
   },
   {
     "pdb_id": "6WLT",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.8,
     "release_date": "2020-07-08"
   },
   {
     "pdb_id": "6WLU",
-    "method": "Other",
+    "method": "EM",
     "resolution": 5.7,
     "release_date": "2020-07-08"
   },
@@ -21343,7 +21343,7 @@
   },
   {
     "pdb_id": "6XRZ",
-    "method": "Other",
+    "method": "EM",
     "resolution": 6.9,
     "release_date": "2020-08-19"
   },
@@ -21475,7 +21475,7 @@
   },
   {
     "pdb_id": "6Z0S",
-    "method": "Other",
+    "method": "EM",
     "resolution": 5.7,
     "release_date": "2021-04-07"
   },
@@ -22213,13 +22213,13 @@
   },
   {
     "pdb_id": "7EZ0",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.14,
     "release_date": "2021-08-25"
   },
   {
     "pdb_id": "7EZ2",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.05,
     "release_date": "2021-08-25"
   },
@@ -22939,7 +22939,7 @@
   },
   {
     "pdb_id": "7LJY",
-    "method": "Other",
+    "method": "EM",
     "resolution": 5.6,
     "release_date": "2021-04-14"
   },
@@ -23059,7 +23059,7 @@
   },
   {
     "pdb_id": "7NBN",
-    "method": "Other",
+    "method": "EM",
     "resolution": 7.0,
     "release_date": "2021-04-07"
   },
@@ -23233,25 +23233,25 @@
   },
   {
     "pdb_id": "7PTK",
-    "method": "Other",
+    "method": "EM",
     "resolution": 5.18,
     "release_date": "2022-10-05"
   },
   {
     "pdb_id": "7PTL",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.9,
     "release_date": "2022-10-05"
   },
   {
     "pdb_id": "7PTQ",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.08,
     "release_date": "2022-10-05"
   },
   {
     "pdb_id": "7PTS",
-    "method": "Other",
+    "method": "EM",
     "resolution": 5.71,
     "release_date": "2022-10-05"
   },
@@ -23323,7 +23323,7 @@
   },
   {
     "pdb_id": "7QDU",
-    "method": "Other",
+    "method": "EM",
     "resolution": 5.14,
     "release_date": "2022-12-14"
   },
@@ -23359,19 +23359,19 @@
   },
   {
     "pdb_id": "7R6L",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.85,
     "release_date": "2022-05-04"
   },
   {
     "pdb_id": "7R6M",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.68,
     "release_date": "2022-05-04"
   },
   {
     "pdb_id": "7R6N",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.1,
     "release_date": "2022-05-04"
   },
@@ -23413,7 +23413,7 @@
   },
   {
     "pdb_id": "7SAM",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.3,
     "release_date": "2021-12-01"
   },
@@ -24175,13 +24175,13 @@
   },
   {
     "pdb_id": "7UR5",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.6,
     "release_date": "2022-08-10"
   },
   {
     "pdb_id": "7URI",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.6,
     "release_date": "2022-08-10"
   },
@@ -24193,13 +24193,13 @@
   },
   {
     "pdb_id": "7URM",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.0,
     "release_date": "2022-08-10"
   },
   {
     "pdb_id": "7UVT",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.9,
     "release_date": "2022-08-31"
   },
@@ -24367,31 +24367,31 @@
   },
   {
     "pdb_id": "7XD3",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.05,
     "release_date": "2023-03-29"
   },
   {
     "pdb_id": "7XD4",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.89,
     "release_date": "2023-03-29"
   },
   {
     "pdb_id": "7XD5",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.84,
     "release_date": "2023-04-05"
   },
   {
     "pdb_id": "7XD6",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.84,
     "release_date": "2023-04-05"
   },
   {
     "pdb_id": "7XD7",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.02,
     "release_date": "2023-03-29"
   },
@@ -24451,25 +24451,25 @@
   },
   {
     "pdb_id": "7XSK",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.53,
     "release_date": "2022-08-03"
   },
   {
     "pdb_id": "7XSL",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.84,
     "release_date": "2022-08-03"
   },
   {
     "pdb_id": "7XSM",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.01,
     "release_date": "2022-08-03"
   },
   {
     "pdb_id": "7XSN",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.01,
     "release_date": "2022-08-03"
   },
@@ -24493,25 +24493,25 @@
   },
   {
     "pdb_id": "7YC8",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.14,
     "release_date": "2023-07-05"
   },
   {
     "pdb_id": "7YCG",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.18,
     "release_date": "2023-07-05"
   },
   {
     "pdb_id": "7YCH",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.09,
     "release_date": "2023-07-05"
   },
   {
     "pdb_id": "7YCI",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.98,
     "release_date": "2023-07-05"
   },
@@ -24523,37 +24523,37 @@
   },
   {
     "pdb_id": "7YG8",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.97,
     "release_date": "2023-03-29"
   },
   {
     "pdb_id": "7YG9",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.68,
     "release_date": "2023-03-29"
   },
   {
     "pdb_id": "7YGA",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.35,
     "release_date": "2023-03-29"
   },
   {
     "pdb_id": "7YGB",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.62,
     "release_date": "2023-03-29"
   },
   {
     "pdb_id": "7YGC",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.65,
     "release_date": "2023-03-29"
   },
   {
     "pdb_id": "7YGD",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.41,
     "release_date": "2023-03-29"
   },
@@ -24595,31 +24595,31 @@
   },
   {
     "pdb_id": "7YWH",
-    "method": "Other",
+    "method": "EM",
     "resolution": 8.0,
     "release_date": "2023-05-24"
   },
   {
     "pdb_id": "7YWI",
-    "method": "Other",
+    "method": "EM",
     "resolution": 8.0,
     "release_date": "2023-05-24"
   },
   {
     "pdb_id": "7YWL",
-    "method": "Other",
+    "method": "EM",
     "resolution": 8.0,
     "release_date": "2023-05-24"
   },
   {
     "pdb_id": "7YWN",
-    "method": "Other",
+    "method": "EM",
     "resolution": 8.0,
     "release_date": "2023-05-24"
   },
   {
     "pdb_id": "7YWO",
-    "method": "Other",
+    "method": "EM",
     "resolution": 8.0,
     "release_date": "2023-05-24"
   },
@@ -24709,19 +24709,19 @@
   },
   {
     "pdb_id": "7ZFW",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.8,
     "release_date": "2022-11-23"
   },
   {
     "pdb_id": "7ZJ4",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.43,
     "release_date": "2023-04-19"
   },
   {
     "pdb_id": "7ZJ5",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.55,
     "release_date": "2023-04-19"
   },
@@ -24907,13 +24907,13 @@
   },
   {
     "pdb_id": "8BTZ",
-    "method": "Other",
+    "method": "EM",
     "resolution": 5.39,
     "release_date": "2022-12-28"
   },
   {
     "pdb_id": "8BU8",
-    "method": "Other",
+    "method": "EM",
     "resolution": 6.56,
     "release_date": "2024-01-24"
   },
@@ -25171,7 +25171,7 @@
   },
   {
     "pdb_id": "8DUT",
-    "method": "Other",
+    "method": "EM",
     "resolution": 7.4,
     "release_date": "2023-02-08"
   },
@@ -25651,13 +25651,13 @@
   },
   {
     "pdb_id": "8HD6",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.73,
     "release_date": "2023-03-29"
   },
   {
     "pdb_id": "8HD7",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.52,
     "release_date": "2023-03-29"
   },
@@ -25759,7 +25759,7 @@
   },
   {
     "pdb_id": "8I7N",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.98,
     "release_date": "2023-03-29"
   },
@@ -25807,25 +25807,25 @@
   },
   {
     "pdb_id": "8K0P",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.99,
     "release_date": "2024-05-15"
   },
   {
     "pdb_id": "8K0Q",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.14,
     "release_date": "2024-05-15"
   },
   {
     "pdb_id": "8K0R",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.65,
     "release_date": "2024-05-15"
   },
   {
     "pdb_id": "8K0S",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.41,
     "release_date": "2024-05-01"
   },
@@ -25861,7 +25861,7 @@
   },
   {
     "pdb_id": "8K15",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.58,
     "release_date": "2024-05-15"
   },
@@ -26167,25 +26167,25 @@
   },
   {
     "pdb_id": "8QO2",
-    "method": "Other",
+    "method": "EM",
     "resolution": 7.1,
     "release_date": "2024-03-06"
   },
   {
     "pdb_id": "8QO3",
-    "method": "Other",
+    "method": "EM",
     "resolution": 6.6,
     "release_date": "2024-03-06"
   },
   {
     "pdb_id": "8QO4",
-    "method": "Other",
+    "method": "EM",
     "resolution": 5.9,
     "release_date": "2024-03-06"
   },
   {
     "pdb_id": "8QO5",
-    "method": "Other",
+    "method": "EM",
     "resolution": 6.5,
     "release_date": "2024-03-06"
   },
@@ -26335,7 +26335,7 @@
   },
   {
     "pdb_id": "8S6W",
-    "method": "Other",
+    "method": "EM",
     "resolution": 5.3,
     "release_date": "2025-01-29"
   },
@@ -26347,31 +26347,31 @@
   },
   {
     "pdb_id": "8SA2",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.1,
     "release_date": "2023-07-26"
   },
   {
     "pdb_id": "8SA3",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.0,
     "release_date": "2023-07-26"
   },
   {
     "pdb_id": "8SA4",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.1,
     "release_date": "2023-07-26"
   },
   {
     "pdb_id": "8SA5",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.5,
     "release_date": "2023-07-26"
   },
   {
     "pdb_id": "8SA6",
-    "method": "Other",
+    "method": "EM",
     "resolution": 5.3,
     "release_date": "2023-07-26"
   },
@@ -26461,7 +26461,7 @@
   },
   {
     "pdb_id": "8SKW",
-    "method": "Other",
+    "method": "EM",
     "resolution": 1.1,
     "release_date": "2023-08-16"
   },
@@ -26527,7 +26527,7 @@
   },
   {
     "pdb_id": "8T2P",
-    "method": "Other",
+    "method": "EM",
     "resolution": 5.0,
     "release_date": "2024-01-24"
   },
@@ -26539,7 +26539,7 @@
   },
   {
     "pdb_id": "8T5O",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.98,
     "release_date": "2025-02-19"
   },
@@ -26695,31 +26695,31 @@
   },
   {
     "pdb_id": "8TJQ",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.4,
     "release_date": "2023-11-01"
   },
   {
     "pdb_id": "8TJV",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.99,
     "release_date": "2023-11-01"
   },
   {
     "pdb_id": "8TJX",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.44,
     "release_date": "2023-11-01"
   },
   {
     "pdb_id": "8TKJ",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.2,
     "release_date": "2025-02-19"
   },
   {
     "pdb_id": "8TKK",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.37,
     "release_date": "2025-02-19"
   },
@@ -26749,7 +26749,7 @@
   },
   {
     "pdb_id": "8TVZ",
-    "method": "Other",
+    "method": "EM",
     "resolution": 5.94,
     "release_date": "2024-04-03"
   },
@@ -26815,13 +26815,13 @@
   },
   {
     "pdb_id": "8UPT",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.8,
     "release_date": "2024-01-10"
   },
   {
     "pdb_id": "8UPY",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.8,
     "release_date": "2024-09-04"
   },
@@ -26839,49 +26839,49 @@
   },
   {
     "pdb_id": "8UYE",
-    "method": "Other",
+    "method": "EM",
     "resolution": 5.9,
     "release_date": "2023-12-06"
   },
   {
     "pdb_id": "8UYG",
-    "method": "Other",
+    "method": "EM",
     "resolution": 6.4,
     "release_date": "2023-12-06"
   },
   {
     "pdb_id": "8UYJ",
-    "method": "Other",
+    "method": "EM",
     "resolution": 7.3,
     "release_date": "2023-12-06"
   },
   {
     "pdb_id": "8UYK",
-    "method": "Other",
+    "method": "EM",
     "resolution": 6.9,
     "release_date": "2023-12-06"
   },
   {
     "pdb_id": "8UYL",
-    "method": "Other",
+    "method": "EM",
     "resolution": 6.4,
     "release_date": "2023-12-06"
   },
   {
     "pdb_id": "8UYM",
-    "method": "Other",
+    "method": "EM",
     "resolution": 6.4,
     "release_date": "2023-12-06"
   },
   {
     "pdb_id": "8UYP",
-    "method": "Other",
+    "method": "EM",
     "resolution": 7.1,
     "release_date": "2023-12-20"
   },
   {
     "pdb_id": "8UYS",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.7,
     "release_date": "2023-12-06"
   },
@@ -26923,7 +26923,7 @@
   },
   {
     "pdb_id": "8VCI",
-    "method": "Other",
+    "method": "EM",
     "resolution": 6.1,
     "release_date": "2024-01-17"
   },
@@ -27061,37 +27061,37 @@
   },
   {
     "pdb_id": "8X9K",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.63,
     "release_date": "2025-03-12"
   },
   {
     "pdb_id": "8X9L",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.04,
     "release_date": "2025-03-12"
   },
   {
     "pdb_id": "8X9M",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.78,
     "release_date": "2025-03-12"
   },
   {
     "pdb_id": "8X9N",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.01,
     "release_date": "2025-03-12"
   },
   {
     "pdb_id": "8X9O",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.06,
     "release_date": "2025-03-12"
   },
   {
     "pdb_id": "8X9Q",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.04,
     "release_date": "2025-03-12"
   },
@@ -27139,25 +27139,25 @@
   },
   {
     "pdb_id": "8XTP",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.9,
     "release_date": "2025-02-12"
   },
   {
     "pdb_id": "8XTQ",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.96,
     "release_date": "2025-02-12"
   },
   {
     "pdb_id": "8XTR",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.67,
     "release_date": "2025-02-12"
   },
   {
     "pdb_id": "8XTS",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.54,
     "release_date": "2025-02-12"
   },
@@ -27343,7 +27343,7 @@
   },
   {
     "pdb_id": "8ZMH",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.6,
     "release_date": "2025-03-12"
   },
@@ -27469,19 +27469,19 @@
   },
   {
     "pdb_id": "9C6I",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.56,
     "release_date": "2024-12-04"
   },
   {
     "pdb_id": "9C6J",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.41,
     "release_date": "2024-12-04"
   },
   {
     "pdb_id": "9C6K",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.94,
     "release_date": "2024-12-04"
   },
@@ -27499,25 +27499,25 @@
   },
   {
     "pdb_id": "9CBU",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.2,
     "release_date": "2024-11-20"
   },
   {
     "pdb_id": "9CBW",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.3,
     "release_date": "2024-11-20"
   },
   {
     "pdb_id": "9CBX",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.2,
     "release_date": "2024-11-20"
   },
   {
     "pdb_id": "9CBY",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.3,
     "release_date": "2024-11-20"
   },
@@ -27637,7 +27637,7 @@
   },
   {
     "pdb_id": "9CXF",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.02,
     "release_date": "2025-01-29"
   },
@@ -27763,13 +27763,13 @@
   },
   {
     "pdb_id": "9DIG",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.22,
     "release_date": "2025-04-09"
   },
   {
     "pdb_id": "9DII",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.0,
     "release_date": "2025-04-09"
   },
@@ -27787,7 +27787,7 @@
   },
   {
     "pdb_id": "9DP9",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.1,
     "release_date": "2025-05-28"
   },
@@ -27883,19 +27883,19 @@
   },
   {
     "pdb_id": "9E73",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.0,
     "release_date": "2025-11-05"
   },
   {
     "pdb_id": "9E74",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.0,
     "release_date": "2025-11-05"
   },
   {
     "pdb_id": "9E75",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.5,
     "release_date": "2025-11-05"
   },
@@ -27955,7 +27955,7 @@
   },
   {
     "pdb_id": "9ELY",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.9,
     "release_date": "2025-04-23"
   },
@@ -27967,7 +27967,7 @@
   },
   {
     "pdb_id": "9EOQ",
-    "method": "Other",
+    "method": "EM",
     "resolution": 7.5,
     "release_date": "2024-04-24"
   },
@@ -27979,7 +27979,7 @@
   },
   {
     "pdb_id": "9EWW",
-    "method": "Other",
+    "method": "EM",
     "resolution": 8.57,
     "release_date": "2025-04-16"
   },
@@ -28039,19 +28039,19 @@
   },
   {
     "pdb_id": "9G4I",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.61,
     "release_date": "2025-11-05"
   },
   {
     "pdb_id": "9G4J",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.74,
     "release_date": "2025-11-05"
   },
   {
     "pdb_id": "9G4L",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.01,
     "release_date": "2025-11-05"
   },
@@ -28075,25 +28075,25 @@
   },
   {
     "pdb_id": "9G4V",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.69,
     "release_date": "2025-11-05"
   },
   {
     "pdb_id": "9G54",
-    "method": "Other",
+    "method": "EM",
     "resolution": 6.3,
     "release_date": "2025-11-05"
   },
   {
     "pdb_id": "9G56",
-    "method": "Other",
+    "method": "EM",
     "resolution": 7.54,
     "release_date": "2025-12-17"
   },
   {
     "pdb_id": "9G7C",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.27,
     "release_date": "2024-10-30"
   },
@@ -28117,25 +28117,25 @@
   },
   {
     "pdb_id": "9H82",
-    "method": "Other",
+    "method": "EM",
     "resolution": 7.29,
     "release_date": "2024-12-04"
   },
   {
     "pdb_id": "9H83",
-    "method": "Other",
+    "method": "EM",
     "resolution": 7.8,
     "release_date": "2024-12-04"
   },
   {
     "pdb_id": "9H86",
-    "method": "Other",
+    "method": "EM",
     "resolution": 9.3,
     "release_date": "2024-12-04"
   },
   {
     "pdb_id": "9H8A",
-    "method": "Other",
+    "method": "EM",
     "resolution": 9.6,
     "release_date": "2024-12-04"
   },
@@ -28237,13 +28237,13 @@
   },
   {
     "pdb_id": "9IS7",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.87,
     "release_date": "2025-02-12"
   },
   {
     "pdb_id": "9ISV",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.07,
     "release_date": "2025-03-19"
   },
@@ -28261,13 +28261,13 @@
   },
   {
     "pdb_id": "9J3R",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.72,
     "release_date": "2025-03-19"
   },
   {
     "pdb_id": "9J3T",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.8,
     "release_date": "2025-03-19"
   },
@@ -28291,13 +28291,13 @@
   },
   {
     "pdb_id": "9J6Y",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.25,
     "release_date": "2025-03-19"
   },
   {
     "pdb_id": "9J9X",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.05,
     "release_date": "2026-03-04"
   },
@@ -28315,7 +28315,7 @@
   },
   {
     "pdb_id": "9JC8",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.75,
     "release_date": "2026-03-04"
   },
@@ -28387,13 +28387,13 @@
   },
   {
     "pdb_id": "9KGG",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.12,
     "release_date": "2025-11-12"
   },
   {
     "pdb_id": "9KGH",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.3,
     "release_date": "2025-11-12"
   },
@@ -28417,13 +28417,13 @@
   },
   {
     "pdb_id": "9KPH",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.93,
     "release_date": "2025-03-19"
   },
   {
     "pdb_id": "9KPO",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.98,
     "release_date": "2025-03-19"
   },
@@ -28447,55 +28447,55 @@
   },
   {
     "pdb_id": "9LCR",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.6,
     "release_date": "2025-03-19"
   },
   {
     "pdb_id": "9LE3",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.75,
     "release_date": "2025-09-10"
   },
   {
     "pdb_id": "9LE5",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.58,
     "release_date": "2025-09-10"
   },
   {
     "pdb_id": "9LE6",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.58,
     "release_date": "2025-09-10"
   },
   {
     "pdb_id": "9LEC",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.51,
     "release_date": "2025-09-10"
   },
   {
     "pdb_id": "9LEE",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.51,
     "release_date": "2025-09-10"
   },
   {
     "pdb_id": "9LEL",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.98,
     "release_date": "2025-09-10"
   },
   {
     "pdb_id": "9LEM",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.98,
     "release_date": "2025-09-10"
   },
   {
     "pdb_id": "9LHK",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.93,
     "release_date": "2025-09-10"
   },
@@ -28549,7 +28549,7 @@
   },
   {
     "pdb_id": "9LMF",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.93,
     "release_date": "2025-03-19"
   },
@@ -28561,13 +28561,13 @@
   },
   {
     "pdb_id": "9M78",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.26,
     "release_date": "2025-09-10"
   },
   {
     "pdb_id": "9M79",
-    "method": "Other",
+    "method": "EM",
     "resolution": 1.96,
     "release_date": "2025-09-10"
   },
@@ -28579,7 +28579,7 @@
   },
   {
     "pdb_id": "9MCW",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.9,
     "release_date": "2025-04-23"
   },
@@ -28621,7 +28621,7 @@
   },
   {
     "pdb_id": "9MM6",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.94,
     "release_date": "2025-06-04"
   },
@@ -28669,7 +28669,7 @@
   },
   {
     "pdb_id": "9MME",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.93,
     "release_date": "2025-06-04"
   },
@@ -28681,7 +28681,7 @@
   },
   {
     "pdb_id": "9MMG",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.25,
     "release_date": "2025-06-04"
   },
@@ -28699,19 +28699,19 @@
   },
   {
     "pdb_id": "9MQS",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.1,
     "release_date": "2025-04-30"
   },
   {
     "pdb_id": "9MQT",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.43,
     "release_date": "2025-04-30"
   },
   {
     "pdb_id": "9MQU",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.59,
     "release_date": "2025-04-30"
   },
@@ -28729,49 +28729,49 @@
   },
   {
     "pdb_id": "9NA1",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.51,
     "release_date": "2026-03-04"
   },
   {
     "pdb_id": "9NA7",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.56,
     "release_date": "2026-03-04"
   },
   {
     "pdb_id": "9NAK",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.67,
     "release_date": "2026-03-04"
   },
   {
     "pdb_id": "9NAM",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.87,
     "release_date": "2026-03-04"
   },
   {
     "pdb_id": "9NAP",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.01,
     "release_date": "2026-03-04"
   },
   {
     "pdb_id": "9NAS",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.72,
     "release_date": "2026-03-04"
   },
   {
     "pdb_id": "9NBC",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.87,
     "release_date": "2026-03-04"
   },
   {
     "pdb_id": "9NBH",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.52,
     "release_date": "2026-03-04"
   },
@@ -28885,7 +28885,7 @@
   },
   {
     "pdb_id": "9NDD",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.67,
     "release_date": "2026-03-04"
   },
@@ -28933,19 +28933,19 @@
   },
   {
     "pdb_id": "9NDV",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.92,
     "release_date": "2026-03-04"
   },
   {
     "pdb_id": "9NDW",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.71,
     "release_date": "2026-03-04"
   },
   {
     "pdb_id": "9NDX",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.94,
     "release_date": "2026-03-04"
   },
@@ -29329,25 +29329,25 @@
   },
   {
     "pdb_id": "9Q7A",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.54,
     "release_date": "2026-01-28"
   },
   {
     "pdb_id": "9QTJ",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.79,
     "release_date": "2026-02-18"
   },
   {
     "pdb_id": "9QU6",
-    "method": "Other",
+    "method": "EM",
     "resolution": 3.2,
     "release_date": "2026-02-25"
   },
   {
     "pdb_id": "9QU7",
-    "method": "Other",
+    "method": "EM",
     "resolution": 2.6,
     "release_date": "2026-02-25"
   },
@@ -29359,19 +29359,19 @@
   },
   {
     "pdb_id": "9R7Q",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.41,
     "release_date": "2026-02-25"
   },
   {
     "pdb_id": "9R7W",
-    "method": "Other",
+    "method": "EM",
     "resolution": 6.06,
     "release_date": "2026-02-25"
   },
   {
     "pdb_id": "9R82",
-    "method": "Other",
+    "method": "EM",
     "resolution": 9.33,
     "release_date": "2026-02-25"
   },
@@ -29575,55 +29575,55 @@
   },
   {
     "pdb_id": "9ZBQ",
-    "method": "Other",
+    "method": "EM",
     "resolution": 5.3,
     "release_date": "2025-12-03"
   },
   {
     "pdb_id": "9ZBR",
-    "method": "Other",
+    "method": "EM",
     "resolution": 7.5,
     "release_date": "2025-12-03"
   },
   {
     "pdb_id": "9ZC6",
-    "method": "Other",
+    "method": "EM",
     "resolution": 4.9,
     "release_date": "2025-12-03"
   },
   {
     "pdb_id": "9ZC7",
-    "method": "Other",
+    "method": "EM",
     "resolution": 7.9,
     "release_date": "2025-12-03"
   },
   {
     "pdb_id": "9ZC8",
-    "method": "Other",
+    "method": "EM",
     "resolution": 12.1,
     "release_date": "2025-12-03"
   },
   {
     "pdb_id": "9ZC9",
-    "method": "Other",
+    "method": "EM",
     "resolution": 8.0,
     "release_date": "2025-12-03"
   },
   {
     "pdb_id": "9ZCA",
-    "method": "Other",
+    "method": "EM",
     "resolution": 11.5,
     "release_date": "2025-12-10"
   },
   {
     "pdb_id": "9ZCB",
-    "method": "Other",
+    "method": "EM",
     "resolution": 11.5,
     "release_date": "2025-12-10"
   },
   {
     "pdb_id": "9ZCC",
-    "method": "Other",
+    "method": "EM",
     "resolution": 12.2,
     "release_date": "2025-12-03"
   },
