@@ -252610,6 +252610,42 @@
     "json_path": "data/json/entries/9UUG.json"
   },
   {
+    "pdb_id": "9UUI",
+    "method": "X-ray",
+    "resolution": 2.25,
+    "release_date": "2026-11-18",
+    "rcsb_url": "https://www.rcsb.org/structure/9UUI",
+    "nakb_url": "https://nakb.org/atlas=9UUI",
+    "view_structure_url": "https://pdbj.org/molmil2/#fetch%209UUI;%20hide%20cartoon,%20all;%20show%20sticks,%20all;%20hide%20sticks,%20hydro;%20orient%20all;%20color%20orange,%20resn%20A;%20color%20cyan,%20resn%20G;%20color%20green,%20resn%20C;%20color%20purple,%20resn%20U;%20color%20orange,%20resn%20DA;%20color%20cyan,%20resn%20DG;%20color%20green,%20resn%20DC;%20color%20purple,%20resn%20DT;%20color%20red,%20symbol%20O;%20color%20blue,%20symbol%20N;%20show%20cartoon,%20resn%20ALA;%20show%20cartoon,%20resn%20ARG;%20show%20cartoon,%20resn%20ASN;%20show%20cartoon,%20resn%20ASP;%20show%20cartoon,%20resn%20CYS;%20show%20cartoon,%20resn%20GLN;%20show%20cartoon,%20resn%20GLU;%20show%20cartoon,%20resn%20GLY;%20show%20cartoon,%20resn%20HIS;%20show%20cartoon,%20resn%20ILE;%20show%20cartoon,%20resn%20LEU;%20show%20cartoon,%20resn%20LYS;%20show%20cartoon,%20resn%20MET;%20show%20cartoon,%20resn%20PHE;%20show%20cartoon,%20resn%20PRO;%20show%20cartoon,%20resn%20SER;%20show%20cartoon,%20resn%20THR;%20show%20cartoon,%20resn%20TRP;%20show%20cartoon,%20resn%20TYR;%20show%20cartoon,%20resn%20VAL;",
+    "assemblies": [
+      {
+        "assembly_id": 2,
+        "na_info": "ss DNA",
+        "chains": [
+          {
+            "chain_id": "A",
+            "na_type": "DNA",
+            "sequence": "GTAGCGCACCTGGGGGAGTATTGCGGAGGAAGGTGCATCGCa",
+            "length": 42
+          }
+        ],
+        "purified_structure": "data/purified_pdb/2026/9UUI-2-Purified.pdb"
+      }
+    ],
+    "representative_assembly_id": 2,
+    "na_info": "ss DNA",
+    "chains": [
+      {
+        "chain_id": "A",
+        "na_type": "DNA",
+        "sequence": "GTAGCGCACCTGGGGGAGTATTGCGGAGGAAGGTGCATCGCa",
+        "length": 42
+      }
+    ],
+    "purified_structure": "data/purified_pdb/2026/9UUI-2-Purified.pdb",
+    "json_path": "data/json/entries/9UUI.json"
+  },
+  {
     "pdb_id": "9UW0",
     "method": "X-ray",
     "resolution": 1.97,
@@ -254264,6 +254300,377 @@
     ],
     "purified_structure": "data/purified_pdb/2026/9XAQ-1-Purified.pdb",
     "json_path": "data/json/entries/9XAQ.json"
+  },
+  {
+    "pdb_id": "9XLA",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "2026-11-18",
+    "rcsb_url": "https://www.rcsb.org/structure/9XLA",
+    "nakb_url": "https://nakb.org/atlas=9XLA",
+    "view_structure_url": "https://pdbj.org/molmil2/#fetch%209XLA;%20hide%20cartoon,%20all;%20show%20sticks,%20all;%20hide%20sticks,%20hydro;%20orient%20all;%20color%20orange,%20resn%20A;%20color%20cyan,%20resn%20G;%20color%20green,%20resn%20C;%20color%20purple,%20resn%20U;%20color%20orange,%20resn%20DA;%20color%20cyan,%20resn%20DG;%20color%20green,%20resn%20DC;%20color%20purple,%20resn%20DT;%20color%20red,%20symbol%20O;%20color%20blue,%20symbol%20N;%20show%20cartoon,%20resn%20ALA;%20show%20cartoon,%20resn%20ARG;%20show%20cartoon,%20resn%20ASN;%20show%20cartoon,%20resn%20ASP;%20show%20cartoon,%20resn%20CYS;%20show%20cartoon,%20resn%20GLN;%20show%20cartoon,%20resn%20GLU;%20show%20cartoon,%20resn%20GLY;%20show%20cartoon,%20resn%20HIS;%20show%20cartoon,%20resn%20ILE;%20show%20cartoon,%20resn%20LEU;%20show%20cartoon,%20resn%20LYS;%20show%20cartoon,%20resn%20MET;%20show%20cartoon,%20resn%20PHE;%20show%20cartoon,%20resn%20PRO;%20show%20cartoon,%20resn%20SER;%20show%20cartoon,%20resn%20THR;%20show%20cartoon,%20resn%20TRP;%20show%20cartoon,%20resn%20TYR;%20show%20cartoon,%20resn%20VAL;",
+    "assemblies": [
+      {
+        "assembly_id": 1,
+        "na_info": "ds DNA/DNA",
+        "chains": [
+          {
+            "chain_id": "A",
+            "na_type": "DNA",
+            "sequence": "GcGAgAGC",
+            "length": 8
+          },
+          {
+            "chain_id": "B",
+            "na_type": "DNA",
+            "sequence": "GcGAgAGC",
+            "length": 8
+          }
+        ],
+        "purified_structure": "data/purified_pdb/2026/9XLA-1-Purified.pdb"
+      },
+      {
+        "assembly_id": 2,
+        "na_info": "ds DNA/DNA",
+        "chains": [
+          {
+            "chain_id": "A",
+            "na_type": "DNA",
+            "sequence": "GcGAgAGC",
+            "length": 8
+          },
+          {
+            "chain_id": "B",
+            "na_type": "DNA",
+            "sequence": "GcGAgAGC",
+            "length": 8
+          }
+        ],
+        "purified_structure": "data/purified_pdb/2026/9XLA-2-Purified.pdb"
+      }
+    ],
+    "representative_assembly_id": 1,
+    "na_info": "ds DNA/DNA",
+    "chains": [
+      {
+        "chain_id": "A",
+        "na_type": "DNA",
+        "sequence": "GcGAgAGC",
+        "length": 8
+      },
+      {
+        "chain_id": "B",
+        "na_type": "DNA",
+        "sequence": "GcGAgAGC",
+        "length": 8
+      }
+    ],
+    "purified_structure": "data/purified_pdb/2026/9XLA-1-Purified.pdb",
+    "json_path": "data/json/entries/9XLA.json"
+  },
+  {
+    "pdb_id": "9XMN",
+    "method": "X-ray",
+    "resolution": 1.61,
+    "release_date": "2026-11-18",
+    "rcsb_url": "https://www.rcsb.org/structure/9XMN",
+    "nakb_url": "https://nakb.org/atlas=9XMN",
+    "view_structure_url": "https://pdbj.org/molmil2/#fetch%209XMN;%20hide%20cartoon,%20all;%20show%20sticks,%20all;%20hide%20sticks,%20hydro;%20orient%20all;%20color%20orange,%20resn%20A;%20color%20cyan,%20resn%20G;%20color%20green,%20resn%20C;%20color%20purple,%20resn%20U;%20color%20orange,%20resn%20DA;%20color%20cyan,%20resn%20DG;%20color%20green,%20resn%20DC;%20color%20purple,%20resn%20DT;%20color%20red,%20symbol%20O;%20color%20blue,%20symbol%20N;%20show%20cartoon,%20resn%20ALA;%20show%20cartoon,%20resn%20ARG;%20show%20cartoon,%20resn%20ASN;%20show%20cartoon,%20resn%20ASP;%20show%20cartoon,%20resn%20CYS;%20show%20cartoon,%20resn%20GLN;%20show%20cartoon,%20resn%20GLU;%20show%20cartoon,%20resn%20GLY;%20show%20cartoon,%20resn%20HIS;%20show%20cartoon,%20resn%20ILE;%20show%20cartoon,%20resn%20LEU;%20show%20cartoon,%20resn%20LYS;%20show%20cartoon,%20resn%20MET;%20show%20cartoon,%20resn%20PHE;%20show%20cartoon,%20resn%20PRO;%20show%20cartoon,%20resn%20SER;%20show%20cartoon,%20resn%20THR;%20show%20cartoon,%20resn%20TRP;%20show%20cartoon,%20resn%20TYR;%20show%20cartoon,%20resn%20VAL;",
+    "assemblies": [
+      {
+        "assembly_id": 1,
+        "na_info": "ds DNA/DNA",
+        "chains": [
+          {
+            "chain_id": "A",
+            "na_type": "DNA",
+            "sequence": "GcGAgAGC",
+            "length": 8
+          },
+          {
+            "chain_id": "B",
+            "na_type": "DNA",
+            "sequence": "GcGAgAGC",
+            "length": 8
+          }
+        ],
+        "purified_structure": "data/purified_pdb/2026/9XMN-1-Purified.pdb"
+      },
+      {
+        "assembly_id": 2,
+        "na_info": "ds DNA/DNA",
+        "chains": [
+          {
+            "chain_id": "A",
+            "na_type": "DNA",
+            "sequence": "GcGAgAGC",
+            "length": 8
+          },
+          {
+            "chain_id": "B",
+            "na_type": "DNA",
+            "sequence": "GcGAgAGC",
+            "length": 8
+          }
+        ],
+        "purified_structure": "data/purified_pdb/2026/9XMN-2-Purified.pdb"
+      }
+    ],
+    "representative_assembly_id": 1,
+    "na_info": "ds DNA/DNA",
+    "chains": [
+      {
+        "chain_id": "A",
+        "na_type": "DNA",
+        "sequence": "GcGAgAGC",
+        "length": 8
+      },
+      {
+        "chain_id": "B",
+        "na_type": "DNA",
+        "sequence": "GcGAgAGC",
+        "length": 8
+      }
+    ],
+    "purified_structure": "data/purified_pdb/2026/9XMN-1-Purified.pdb",
+    "json_path": "data/json/entries/9XMN.json"
+  },
+  {
+    "pdb_id": "9XMO",
+    "method": "X-ray",
+    "resolution": 2.3,
+    "release_date": "2026-11-18",
+    "rcsb_url": "https://www.rcsb.org/structure/9XMO",
+    "nakb_url": "https://nakb.org/atlas=9XMO",
+    "view_structure_url": "https://pdbj.org/molmil2/#fetch%209XMO;%20hide%20cartoon,%20all;%20show%20sticks,%20all;%20hide%20sticks,%20hydro;%20orient%20all;%20color%20orange,%20resn%20A;%20color%20cyan,%20resn%20G;%20color%20green,%20resn%20C;%20color%20purple,%20resn%20U;%20color%20orange,%20resn%20DA;%20color%20cyan,%20resn%20DG;%20color%20green,%20resn%20DC;%20color%20purple,%20resn%20DT;%20color%20red,%20symbol%20O;%20color%20blue,%20symbol%20N;%20show%20cartoon,%20resn%20ALA;%20show%20cartoon,%20resn%20ARG;%20show%20cartoon,%20resn%20ASN;%20show%20cartoon,%20resn%20ASP;%20show%20cartoon,%20resn%20CYS;%20show%20cartoon,%20resn%20GLN;%20show%20cartoon,%20resn%20GLU;%20show%20cartoon,%20resn%20GLY;%20show%20cartoon,%20resn%20HIS;%20show%20cartoon,%20resn%20ILE;%20show%20cartoon,%20resn%20LEU;%20show%20cartoon,%20resn%20LYS;%20show%20cartoon,%20resn%20MET;%20show%20cartoon,%20resn%20PHE;%20show%20cartoon,%20resn%20PRO;%20show%20cartoon,%20resn%20SER;%20show%20cartoon,%20resn%20THR;%20show%20cartoon,%20resn%20TRP;%20show%20cartoon,%20resn%20TYR;%20show%20cartoon,%20resn%20VAL;",
+    "assemblies": [
+      {
+        "assembly_id": 1,
+        "na_info": "ds DNA/DNA",
+        "chains": [
+          {
+            "chain_id": "A",
+            "na_type": "DNA",
+            "sequence": "GcGAgAGC",
+            "length": 8
+          },
+          {
+            "chain_id": "B",
+            "na_type": "DNA",
+            "sequence": "GcGAgAGC",
+            "length": 8
+          }
+        ],
+        "purified_structure": "data/purified_pdb/2026/9XMO-1-Purified.pdb"
+      },
+      {
+        "assembly_id": 2,
+        "na_info": "ds DNA/DNA",
+        "chains": [
+          {
+            "chain_id": "A",
+            "na_type": "DNA",
+            "sequence": "GcGAgAGC",
+            "length": 8
+          },
+          {
+            "chain_id": "B",
+            "na_type": "DNA",
+            "sequence": "GcGAgAGC",
+            "length": 8
+          }
+        ],
+        "purified_structure": "data/purified_pdb/2026/9XMO-2-Purified.pdb"
+      },
+      {
+        "assembly_id": 3,
+        "na_info": "ds DNA/DNA",
+        "chains": [
+          {
+            "chain_id": "A",
+            "na_type": "DNA",
+            "sequence": "GcGAgAGC",
+            "length": 8
+          },
+          {
+            "chain_id": "B",
+            "na_type": "DNA",
+            "sequence": "GcGAgAGC",
+            "length": 8
+          }
+        ],
+        "purified_structure": "data/purified_pdb/2026/9XMO-3-Purified.pdb"
+      },
+      {
+        "assembly_id": 4,
+        "na_info": "ds DNA/DNA",
+        "chains": [
+          {
+            "chain_id": "A",
+            "na_type": "DNA",
+            "sequence": "GcGAgAGC",
+            "length": 8
+          },
+          {
+            "chain_id": "B",
+            "na_type": "DNA",
+            "sequence": "GcGAgAGC",
+            "length": 8
+          }
+        ],
+        "purified_structure": "data/purified_pdb/2026/9XMO-4-Purified.pdb"
+      }
+    ],
+    "representative_assembly_id": 1,
+    "na_info": "ds DNA/DNA",
+    "chains": [
+      {
+        "chain_id": "A",
+        "na_type": "DNA",
+        "sequence": "GcGAgAGC",
+        "length": 8
+      },
+      {
+        "chain_id": "B",
+        "na_type": "DNA",
+        "sequence": "GcGAgAGC",
+        "length": 8
+      }
+    ],
+    "purified_structure": "data/purified_pdb/2026/9XMO-1-Purified.pdb",
+    "json_path": "data/json/entries/9XMO.json"
+  },
+  {
+    "pdb_id": "9XMP",
+    "method": "X-ray",
+    "resolution": 1.6,
+    "release_date": "2026-11-18",
+    "rcsb_url": "https://www.rcsb.org/structure/9XMP",
+    "nakb_url": "https://nakb.org/atlas=9XMP",
+    "view_structure_url": "https://pdbj.org/molmil2/#fetch%209XMP;%20hide%20cartoon,%20all;%20show%20sticks,%20all;%20hide%20sticks,%20hydro;%20orient%20all;%20color%20orange,%20resn%20A;%20color%20cyan,%20resn%20G;%20color%20green,%20resn%20C;%20color%20purple,%20resn%20U;%20color%20orange,%20resn%20DA;%20color%20cyan,%20resn%20DG;%20color%20green,%20resn%20DC;%20color%20purple,%20resn%20DT;%20color%20red,%20symbol%20O;%20color%20blue,%20symbol%20N;%20show%20cartoon,%20resn%20ALA;%20show%20cartoon,%20resn%20ARG;%20show%20cartoon,%20resn%20ASN;%20show%20cartoon,%20resn%20ASP;%20show%20cartoon,%20resn%20CYS;%20show%20cartoon,%20resn%20GLN;%20show%20cartoon,%20resn%20GLU;%20show%20cartoon,%20resn%20GLY;%20show%20cartoon,%20resn%20HIS;%20show%20cartoon,%20resn%20ILE;%20show%20cartoon,%20resn%20LEU;%20show%20cartoon,%20resn%20LYS;%20show%20cartoon,%20resn%20MET;%20show%20cartoon,%20resn%20PHE;%20show%20cartoon,%20resn%20PRO;%20show%20cartoon,%20resn%20SER;%20show%20cartoon,%20resn%20THR;%20show%20cartoon,%20resn%20TRP;%20show%20cartoon,%20resn%20TYR;%20show%20cartoon,%20resn%20VAL;",
+    "assemblies": [
+      {
+        "assembly_id": 1,
+        "na_info": "ds DNA/DNA",
+        "chains": [
+          {
+            "chain_id": "A",
+            "na_type": "DNA",
+            "sequence": "GcGAgAGC",
+            "length": 8
+          },
+          {
+            "chain_id": "B",
+            "na_type": "DNA",
+            "sequence": "GcGAgAGC",
+            "length": 8
+          }
+        ],
+        "purified_structure": "data/purified_pdb/2026/9XMP-1-Purified.pdb"
+      }
+    ],
+    "representative_assembly_id": 1,
+    "na_info": "ds DNA/DNA",
+    "chains": [
+      {
+        "chain_id": "A",
+        "na_type": "DNA",
+        "sequence": "GcGAgAGC",
+        "length": 8
+      },
+      {
+        "chain_id": "B",
+        "na_type": "DNA",
+        "sequence": "GcGAgAGC",
+        "length": 8
+      }
+    ],
+    "purified_structure": "data/purified_pdb/2026/9XMP-1-Purified.pdb",
+    "json_path": "data/json/entries/9XMP.json"
+  },
+  {
+    "pdb_id": "9XQI",
+    "method": "X-ray",
+    "resolution": 2.73,
+    "release_date": "2026-11-18",
+    "rcsb_url": "https://www.rcsb.org/structure/9XQI",
+    "nakb_url": "https://nakb.org/atlas=9XQI",
+    "view_structure_url": "https://pdbj.org/molmil2/#fetch%209XQI;%20hide%20cartoon,%20all;%20show%20sticks,%20all;%20hide%20sticks,%20hydro;%20orient%20all;%20color%20orange,%20resn%20A;%20color%20cyan,%20resn%20G;%20color%20green,%20resn%20C;%20color%20purple,%20resn%20U;%20color%20orange,%20resn%20DA;%20color%20cyan,%20resn%20DG;%20color%20green,%20resn%20DC;%20color%20purple,%20resn%20DT;%20color%20red,%20symbol%20O;%20color%20blue,%20symbol%20N;%20show%20cartoon,%20resn%20ALA;%20show%20cartoon,%20resn%20ARG;%20show%20cartoon,%20resn%20ASN;%20show%20cartoon,%20resn%20ASP;%20show%20cartoon,%20resn%20CYS;%20show%20cartoon,%20resn%20GLN;%20show%20cartoon,%20resn%20GLU;%20show%20cartoon,%20resn%20GLY;%20show%20cartoon,%20resn%20HIS;%20show%20cartoon,%20resn%20ILE;%20show%20cartoon,%20resn%20LEU;%20show%20cartoon,%20resn%20LYS;%20show%20cartoon,%20resn%20MET;%20show%20cartoon,%20resn%20PHE;%20show%20cartoon,%20resn%20PRO;%20show%20cartoon,%20resn%20SER;%20show%20cartoon,%20resn%20THR;%20show%20cartoon,%20resn%20TRP;%20show%20cartoon,%20resn%20TYR;%20show%20cartoon,%20resn%20VAL;",
+    "assemblies": [
+      {
+        "assembly_id": 1,
+        "na_info": "ss DNA",
+        "chains": [
+          {
+            "chain_id": "A",
+            "na_type": "DNA",
+            "sequence": "GcGAtAGC",
+            "length": 8
+          }
+        ],
+        "purified_structure": "data/purified_pdb/2026/9XQI-1-Purified.pdb"
+      }
+    ],
+    "representative_assembly_id": 1,
+    "na_info": "ss DNA",
+    "chains": [
+      {
+        "chain_id": "A",
+        "na_type": "DNA",
+        "sequence": "GcGAtAGC",
+        "length": 8
+      }
+    ],
+    "purified_structure": "data/purified_pdb/2026/9XQI-1-Purified.pdb",
+    "json_path": "data/json/entries/9XQI.json"
+  },
+  {
+    "pdb_id": "9XQK",
+    "method": "X-ray",
+    "resolution": 2.6,
+    "release_date": "2026-11-18",
+    "rcsb_url": "https://www.rcsb.org/structure/9XQK",
+    "nakb_url": "https://nakb.org/atlas=9XQK",
+    "view_structure_url": "https://pdbj.org/molmil2/#fetch%209XQK;%20hide%20cartoon,%20all;%20show%20sticks,%20all;%20hide%20sticks,%20hydro;%20orient%20all;%20color%20orange,%20resn%20A;%20color%20cyan,%20resn%20G;%20color%20green,%20resn%20C;%20color%20purple,%20resn%20U;%20color%20orange,%20resn%20DA;%20color%20cyan,%20resn%20DG;%20color%20green,%20resn%20DC;%20color%20purple,%20resn%20DT;%20color%20red,%20symbol%20O;%20color%20blue,%20symbol%20N;%20show%20cartoon,%20resn%20ALA;%20show%20cartoon,%20resn%20ARG;%20show%20cartoon,%20resn%20ASN;%20show%20cartoon,%20resn%20ASP;%20show%20cartoon,%20resn%20CYS;%20show%20cartoon,%20resn%20GLN;%20show%20cartoon,%20resn%20GLU;%20show%20cartoon,%20resn%20GLY;%20show%20cartoon,%20resn%20HIS;%20show%20cartoon,%20resn%20ILE;%20show%20cartoon,%20resn%20LEU;%20show%20cartoon,%20resn%20LYS;%20show%20cartoon,%20resn%20MET;%20show%20cartoon,%20resn%20PHE;%20show%20cartoon,%20resn%20PRO;%20show%20cartoon,%20resn%20SER;%20show%20cartoon,%20resn%20THR;%20show%20cartoon,%20resn%20TRP;%20show%20cartoon,%20resn%20TYR;%20show%20cartoon,%20resn%20VAL;",
+    "assemblies": [
+      {
+        "assembly_id": 1,
+        "na_info": "ds DNA/DNA",
+        "chains": [
+          {
+            "chain_id": "A",
+            "na_type": "DNA",
+            "sequence": "GGGuCCGGuCCC",
+            "length": 12
+          },
+          {
+            "chain_id": "B",
+            "na_type": "DNA",
+            "sequence": "GGGuCCGGuCCC",
+            "length": 12
+          }
+        ],
+        "purified_structure": "data/purified_pdb/2026/9XQK-1-Purified.pdb"
+      }
+    ],
+    "representative_assembly_id": 1,
+    "na_info": "ds DNA/DNA",
+    "chains": [
+      {
+        "chain_id": "A",
+        "na_type": "DNA",
+        "sequence": "GGGuCCGGuCCC",
+        "length": 12
+      },
+      {
+        "chain_id": "B",
+        "na_type": "DNA",
+        "sequence": "GGGuCCGGuCCC",
+        "length": 12
+      }
+    ],
+    "purified_structure": "data/purified_pdb/2026/9XQK-1-Purified.pdb",
+    "json_path": "data/json/entries/9XQK.json"
   },
   {
     "pdb_id": "9XRW",
